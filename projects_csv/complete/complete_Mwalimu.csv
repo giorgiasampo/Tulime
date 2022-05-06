@@ -1,14 +1,14 @@
-,NAME,VILLAGE,AGE,SEX,FAMILY,START,END
-0,Grasiana Chuila,Pomerini,23,F,4,2018,2020
-1,Meckson Sebastian,Pomerini,20,M,4,2018,2020
-2,Immanuel Milinga,Pomerini,18,M,5,2018,2020
-3,Mastidia Sebastian,Pomerini,19,F,4,2019,2026
-4,Paulo Chang'a,Pomerini,22,M,3,2018,2021
-5,Haruni Mandike,Iringa,19,M,2,2017,2020
-6,Lenansia ,Pomerini,21,F,0,2017,2019
-7,Amalia Tosi,Pomerini,20,F,2,2020,2025
-8,Grace Ahmedi,Pomerini,23,F,3,2020,2026
-9,Sazikia Sanga,Mbeya,21,F,1,2021,2023
-10,Eva Kihongozi,Pomerini,24,F,4,2021,2023
-11,Regina  ,Pomerini,20,F,1,2022,2027
-12,Neema,Pomerini,24,F,4,2022,2023
+,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,Unnamed: 0.1.1.1,Unnamed: 0.1.1.1.1,NAME,VILLAGE,AGE,SEX,FAMILY,START,END
+0,0,0,0,0,0,Grasiana Chuila,Pomerini,20,F,5,2018,2020
+1,1,1,1,1,1,Meckson Sebastian,Pomerini,22,M,7,2018,2020
+2,2,2,2,2,2,Immanuel Milinga,Pomerini,20,M,5,2018,2020
+3,3,3,3,3,3,Mastidia Sebastian,Pomerini,18,F,4,2019,2026
+4,4,4,4,4,4,Paulo Chang'a,Pomerini,23,M,6,2018,2021
+5,5,5,5,5,5,Haruni Mandike,Pomerini,21,M,4,2017,2020
+6,6,6,6,6,6,Lenansia ,Pomerini,20,F,4,2017,2019
+7,7,7,7,7,7,Amalia Tosi,Pomerini,24,F,2,2020,2025
+8,8,8,8,8,8,Grace Ahmedi,Pomerini,21,F,2,2020,2026
+9,9,9,9,9,9,Sazikia Sanga,Pomerini,20,F,2,2021,2023
+10,10,10,10,10,10,Eva Kihongozi,Pomerini,18,F,6,2021,2023
+11,11,11,11,11,11,Regina  ,Pomerini,18,F,4,2022,2027
+12,12,12,12,12,12,Neema,Pomerini,20,F,3,2022,2023
