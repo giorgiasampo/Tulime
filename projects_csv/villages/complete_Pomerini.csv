@@ -258,7 +258,7 @@
 257,Name2812,Maji,7.0,F,1,,Pomerini
 258,Name2813,Maji,12.0,M,4,,Pomerini
 259,Name2814,Maji,10.0,F,6,,Pomerini
-260,Name2815,Maji,12.0,F,5,,Pomerini
+260,Name2815,Maji,12.0,F,6,,Pomerini
 261,Name2816,Maji,15.0,F,1,,Pomerini
 262,Name2817,Maji,8.0,F,4,,Pomerini
 263,Name2818,Maji,25.0,F,4,,Pomerini
@@ -411,7 +411,7 @@
 410,Name2965,Maji,9.0,F,3,,Pomerini
 411,Name2966,Maji,7.0,F,1,,Pomerini
 412,Name2967,Maji,8.0,M,2,,Pomerini
-413,Name2968,Maji,56.0,F,7,,Pomerini
+413,Name2968,Maji,56.0,F,6,,Pomerini
 414,Name2969,Maji,23.0,F,3,,Pomerini
 415,Name2970,Maji,9.0,M,6,,Pomerini
 416,Name2971,Maji,11.0,M,2,,Pomerini
@@ -482,7 +482,7 @@
 481,Name3036,Maji,12.0,F,6,,Pomerini
 482,Name3037,Maji,14.0,M,4,,Pomerini
 483,Name3038,Maji,29.0,F,2,,Pomerini
-484,Name3039,Maji,10.0,F,3,,Pomerini
+484,Name3039,Maji,10.0,F,6,,Pomerini
 485,Name3040,Maji,10.0,F,2,,Pomerini
 486,Name3041,Maji,12.0,F,2,,Pomerini
 487,Name3042,Maji,11.0,F,3,,Pomerini
@@ -2022,7 +2022,7 @@
 2021,Name2021,,12.0,F,2,,Pomerini
 2022,Name2022,,38.0,F,2,,Pomerini
 2023,Name2023,,5.0,M,2,,Pomerini
-2024,Name2024,,8.0,F,5,,Pomerini
+2024,Name2024,,8.0,F,6,,Pomerini
 2025,Name2025,,10.0,M,5,,Pomerini
 2026,Name2026,,46.0,M,2,,Pomerini
 2027,Name2027,,9.0,F,2,,Pomerini
@@ -2487,7 +2487,7 @@
 2486,Name2486,,9.0,M,6,,Pomerini
 2487,Name2487,,49.0,M,6,,Pomerini
 2488,Name2488,,12.0,M,4,,Pomerini
-2489,Name2489,,9.0,M,8,,Pomerini
+2489,Name2489,,9.0,M,6,,Pomerini
 2490,Name2490,,23.0,F,3,,Pomerini
 2491,Name2491,,15.0,F,4,,Pomerini
 2492,Name2492,,13.0,F,0,,Pomerini
@@ -2738,7 +2738,7 @@
 2737,Name2737,,56.0,M,3,,Pomerini
 2738,Name2738,,32.0,F,4,,Pomerini
 2739,Name2739,,48.0,M,3,,Pomerini
-2740,Name2740,,11.0,M,2,,Pomerini
+2740,Name2740,,11.0,M,6,,Pomerini
 2741,Name2741,,9.0,F,3,,Pomerini
 2742,Name2742,,14.0,M,6,,Pomerini
 2743,Name2743,,15.0,M,5,,Pomerini
@@ -2813,7 +2813,7 @@
 2812,Name2812,,8.0,M,8,,Pomerini
 2813,Name2813,,37.0,F,3,,Pomerini
 2814,Name2814,,10.0,M,1,,Pomerini
-2815,Name2815,,13.0,M,4,,Pomerini
+2815,Name2815,,13.0,M,6,,Pomerini
 2816,Name2816,,12.0,M,5,,Pomerini
 2817,Name2817,,12.0,F,3,,Pomerini
 2818,Name2818,,9.0,F,4,,Pomerini
@@ -2894,7 +2894,7 @@
 2893,Name2893,,10.0,F,1,,Pomerini
 2894,Name2894,,39.0,M,3,,Pomerini
 2895,Name2895,,11.0,F,3,,Pomerini
-2896,Name2896,,8.0,M,5,,Pomerini
+2896,Name2896,,8.0,M,6,,Pomerini
 2897,Name2897,,15.0,M,3,,Pomerini
 2898,Name2898,,7.0,M,5,,Pomerini
 2899,Name2899,,11.0,M,3,,Pomerini
@@ -2966,7 +2966,7 @@
 2965,Name2965,,61.0,F,0,,Pomerini
 2966,Name2966,,11.0,M,6,,Pomerini
 2967,Name2967,,10.0,F,6,,Pomerini
-2968,Name2968,,9.0,M,5,,Pomerini
+2968,Name2968,,9.0,M,6,,Pomerini
 2969,Name2969,,24.0,F,6,,Pomerini
 2970,Name2970,,46.0,M,2,,Pomerini
 2971,Name2971,,8.0,F,2,,Pomerini
@@ -3037,7 +3037,7 @@
 3036,Name3036,,9.0,F,4,,Pomerini
 3037,Name3037,,55.0,F,6,,Pomerini
 3038,Name3038,,13.0,F,2,,Pomerini
-3039,Name3039,,9.0,F,2,,Pomerini
+3039,Name3039,,9.0,F,6,,Pomerini
 3040,Name3040,,27.0,M,2,,Pomerini
 3041,Name3041,,12.0,F,3,,Pomerini
 3042,Name3042,,12.0,M,6,,Pomerini
