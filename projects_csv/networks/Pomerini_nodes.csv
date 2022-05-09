@@ -1,0 +1,3096 @@
+,ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
+0,7748,Delis Kivamba,Baiskeli,26.0,F,5,2019.0,Pomerini
+1,7749,Juma Chuhila,Baiskeli,28.0,M,6,2019.0,Pomerini
+2,7750,Jamesi Kagine,Baiskeli,90.0,F,4,2019.0,Pomerini
+3,7751,Ashraf Mtweve,Baiskeli,34.0,M,4,2019.0,Pomerini
+4,7752,Isak Chang'a,Baiskeli,61.0,M,2,2019.0,Pomerini
+5,7753,Muta Mkini,Baiskeli,90.0,M,2,2019.0,Pomerini
+6,7754,Telani Mwitula,Baiskeli,26.0,M,5,2019.0,Pomerini
+7,7755,Sosten Mwigane,Baiskeli,30.0,M,2,2019.0,Pomerini
+8,7756,Daniel Nyelesi,Baiskeli,46.0,M,4,2019.0,Pomerini
+9,7757,Valentina Kihanga,Baiskeli,21.0,F,5,2019.0,Pomerini
+10,7758,Skola Msigala,Baiskeli,37.0,M,3,2019.0,Pomerini
+11,7759,Noeli Kiyeyeu,Baiskeli,45.0,F,8,2019.0,Pomerini
+12,7760,Salome Chuhila,Baiskeli,48.0,F,6,2019.0,Pomerini
+13,7761,Eli Kabwa,Baiskeli,32.0,M,3,2019.0,Pomerini
+14,7762,God Wili,Baiskeli,37.0,M,2,2019.0,Pomerini
+15,7763,Regina Tula,Baiskeli,49.0,F,2,2019.0,Pomerini
+16,7764,Boniface Mdimba,Baiskeli,27.0,M,4,2019.0,Pomerini
+17,7765,Ema Ludasi,BeAble,56.0,F,6,2015.0,Pomerini
+18,7766,Fikiri,BeAble,38.0,F,6,2015.0,Pomerini
+19,7767,Name2598,Maji,11.0,M,5,,Pomerini
+20,7768,Name2599,Maji,14.0,F,5,,Pomerini
+21,7769,Name2600,Maji,13.0,F,5,,Pomerini
+22,7770,Name2601,Maji,13.0,M,4,,Pomerini
+23,7771,Name2602,Maji,7.0,M,6,,Pomerini
+24,7772,Name2603,Maji,9.0,M,6,,Pomerini
+25,7773,Name2604,Maji,9.0,F,6,,Pomerini
+26,7774,Name2605,Maji,11.0,M,7,,Pomerini
+27,7775,Name2606,Maji,8.0,F,1,,Pomerini
+28,7776,Name2607,Maji,12.0,F,3,,Pomerini
+29,7777,Name2608,Maji,8.0,M,4,,Pomerini
+30,7778,Name2609,Maji,15.0,F,4,,Pomerini
+31,7779,Name2610,Maji,10.0,M,4,,Pomerini
+32,7780,Name2611,Maji,9.0,F,2,,Pomerini
+33,7781,Name2612,Maji,14.0,F,3,,Pomerini
+34,7782,Name2613,Maji,13.0,F,3,,Pomerini
+35,7783,Name2614,Maji,8.0,F,6,,Pomerini
+36,7784,Name2615,Maji,12.0,F,5,,Pomerini
+37,7785,Name2616,Maji,9.0,F,0,,Pomerini
+38,7786,Name2617,Maji,9.0,M,5,,Pomerini
+39,7787,Name2618,Maji,13.0,F,5,,Pomerini
+40,7788,Name2619,Maji,9.0,M,4,,Pomerini
+41,7789,Name2620,Maji,78.0,M,6,,Pomerini
+42,7790,Name2621,Maji,7.0,F,6,,Pomerini
+43,7791,Name2622,Maji,9.0,M,1,,Pomerini
+44,7792,Name2623,Maji,10.0,M,4,,Pomerini
+45,7793,Name2624,Maji,10.0,F,1,,Pomerini
+46,7794,Name2625,Maji,50.0,F,2,,Pomerini
+47,7795,Name2626,Maji,35.0,F,4,,Pomerini
+48,7796,Name2627,Maji,12.0,F,3,,Pomerini
+49,7797,Name2628,Maji,12.0,F,7,,Pomerini
+50,7798,Name2629,Maji,12.0,F,4,,Pomerini
+51,7799,Name2630,Maji,8.0,M,2,,Pomerini
+52,7800,Name2631,Maji,11.0,M,6,,Pomerini
+53,7801,Name2632,Maji,16.0,M,2,,Pomerini
+54,7802,Name2633,Maji,12.0,F,3,,Pomerini
+55,7803,Name2634,Maji,41.0,M,6,,Pomerini
+56,7804,Name2635,Maji,10.0,F,4,,Pomerini
+57,7805,Name2636,Maji,9.0,F,6,,Pomerini
+58,7806,Name2637,Maji,12.0,F,5,,Pomerini
+59,7807,Name2638,Maji,11.0,F,5,,Pomerini
+60,7808,Name2639,Maji,12.0,M,4,,Pomerini
+61,7809,Name2640,Maji,8.0,M,2,,Pomerini
+62,7810,Name2641,Maji,12.0,F,2,,Pomerini
+63,7811,Name2642,Maji,11.0,F,4,,Pomerini
+64,7812,Name2643,Maji,10.0,F,6,,Pomerini
+65,7813,Name2644,Maji,49.0,M,5,,Pomerini
+66,7814,Name2645,Maji,12.0,M,6,,Pomerini
+67,7815,Name2646,Maji,78.0,M,6,,Pomerini
+68,7816,Name2647,Maji,14.0,M,4,,Pomerini
+69,7817,Name2648,Maji,13.0,M,2,,Pomerini
+70,7818,Name2649,Maji,37.0,F,6,,Pomerini
+71,7819,Name2650,Maji,37.0,M,6,,Pomerini
+72,7820,Name2651,Maji,5.0,F,5,,Pomerini
+73,7821,Name2652,Maji,13.0,F,1,,Pomerini
+74,7822,Name2653,Maji,8.0,M,3,,Pomerini
+75,7823,Name2654,Maji,13.0,F,6,,Pomerini
+76,7824,Name2655,Maji,12.0,F,4,,Pomerini
+77,7825,Name2656,Maji,10.0,F,4,,Pomerini
+78,7826,Name2657,Maji,13.0,F,5,,Pomerini
+79,7827,Name2658,Maji,12.0,M,6,,Pomerini
+80,7828,Name2659,Maji,12.0,F,1,,Pomerini
+81,7829,Name2660,Maji,13.0,F,1,,Pomerini
+82,7830,Name2661,Maji,11.0,F,6,,Pomerini
+83,7831,Name2662,Maji,13.0,F,2,,Pomerini
+84,7832,Name2663,Maji,6.0,F,2,,Pomerini
+85,7833,Name2664,Maji,12.0,M,4,,Pomerini
+86,7834,Name2665,Maji,6.0,F,5,,Pomerini
+87,7835,Name2666,Maji,10.0,F,3,,Pomerini
+88,7836,Name2667,Maji,9.0,M,2,,Pomerini
+89,7837,Name2668,Maji,9.0,F,4,,Pomerini
+90,7838,Name2669,Maji,13.0,F,5,,Pomerini
+91,7839,Name2670,Maji,12.0,M,5,,Pomerini
+92,7840,Name2671,Maji,9.0,M,4,,Pomerini
+93,7841,Name2672,Maji,10.0,F,6,,Pomerini
+94,7842,Name2673,Maji,7.0,M,2,,Pomerini
+95,7843,Name2674,Maji,12.0,M,5,,Pomerini
+96,7844,Name2675,Maji,8.0,M,4,,Pomerini
+97,7845,Name2676,Maji,9.0,F,5,,Pomerini
+98,7846,Name2677,Maji,4.0,M,3,,Pomerini
+99,7847,Name2678,Maji,7.0,F,4,,Pomerini
+100,7848,Name2679,Maji,10.0,M,2,,Pomerini
+101,7849,Name2680,Maji,13.0,F,1,,Pomerini
+102,7850,Name2681,Maji,10.0,F,5,,Pomerini
+103,7851,Name2682,Maji,14.0,F,2,,Pomerini
+104,7852,Name2683,Maji,9.0,F,1,,Pomerini
+105,7853,Name2684,Maji,5.0,F,4,,Pomerini
+106,7854,Name2685,Maji,45.0,M,3,,Pomerini
+107,7855,Name2686,Maji,8.0,F,5,,Pomerini
+108,7856,Name2687,Maji,11.0,F,2,,Pomerini
+109,7857,Name2688,Maji,13.0,F,6,,Pomerini
+110,7858,Name2689,Maji,11.0,F,6,,Pomerini
+111,7859,Name2690,Maji,12.0,F,3,,Pomerini
+112,7860,Name2691,Maji,14.0,M,6,,Pomerini
+113,7861,Name2692,Maji,11.0,M,5,,Pomerini
+114,7862,Name2693,Maji,13.0,M,4,,Pomerini
+115,7863,Name2694,Maji,13.0,M,2,,Pomerini
+116,7864,Name2695,Maji,13.0,M,1,,Pomerini
+117,7865,Name2696,Maji,13.0,F,6,,Pomerini
+118,7866,Name2697,Maji,11.0,F,8,,Pomerini
+119,7867,Name2698,Maji,10.0,F,2,,Pomerini
+120,7868,Name2699,Maji,15.0,F,4,,Pomerini
+121,7869,Name2700,Maji,11.0,F,2,,Pomerini
+122,7870,Name2701,Maji,13.0,F,5,,Pomerini
+123,7871,Name2702,Maji,10.0,F,5,,Pomerini
+124,7872,Name2703,Maji,13.0,F,4,,Pomerini
+125,7873,Name2704,Maji,12.0,F,6,,Pomerini
+126,7874,Name2705,Maji,13.0,M,3,,Pomerini
+127,7875,Name2706,Maji,7.0,M,5,,Pomerini
+128,7876,Name2707,Maji,8.0,F,4,,Pomerini
+129,7877,Name2708,Maji,35.0,F,6,,Pomerini
+130,7878,Name2709,Maji,13.0,M,5,,Pomerini
+131,7879,Name2710,Maji,13.0,F,3,,Pomerini
+132,7880,Name2711,Maji,33.0,F,6,,Pomerini
+133,7881,Name2712,Maji,27.0,M,4,,Pomerini
+134,7882,Name2713,Maji,14.0,F,0,,Pomerini
+135,7883,Name2714,Maji,9.0,F,4,,Pomerini
+136,7884,Name2715,Maji,12.0,M,4,,Pomerini
+137,7885,Name2716,Maji,8.0,F,5,,Pomerini
+138,7886,Name2717,Maji,11.0,F,6,,Pomerini
+139,7887,Name2718,Maji,12.0,F,3,,Pomerini
+140,7888,Name2719,Maji,7.0,F,2,,Pomerini
+141,7889,Name2720,Maji,13.0,M,5,,Pomerini
+142,7890,Name2721,Maji,10.0,F,3,,Pomerini
+143,7891,Name2722,Maji,14.0,M,3,,Pomerini
+144,7892,Name2723,Maji,13.0,M,3,,Pomerini
+145,7893,Name2724,Maji,10.0,F,4,,Pomerini
+146,7894,Name2725,Maji,9.0,M,3,,Pomerini
+147,7895,Name2726,Maji,20.0,F,5,,Pomerini
+148,7896,Name2727,Maji,13.0,F,5,,Pomerini
+149,7897,Name2728,Maji,8.0,F,3,,Pomerini
+150,7898,Name2729,Maji,40.0,F,3,,Pomerini
+151,7899,Name2730,Maji,26.0,M,2,,Pomerini
+152,7900,Name2731,Maji,12.0,M,6,,Pomerini
+153,7901,Name2732,Maji,37.0,M,5,,Pomerini
+154,7902,Name2733,Maji,13.0,F,3,,Pomerini
+155,7903,Name2734,Maji,13.0,F,6,,Pomerini
+156,7904,Name2735,Maji,9.0,M,4,,Pomerini
+157,7905,Name2736,Maji,6.0,M,6,,Pomerini
+158,7906,Name2737,Maji,9.0,M,2,,Pomerini
+159,7907,Name2738,Maji,13.0,M,6,,Pomerini
+160,7908,Name2739,Maji,6.0,M,4,,Pomerini
+161,7909,Name2740,Maji,14.0,M,4,,Pomerini
+162,7910,Name2741,Maji,8.0,M,2,,Pomerini
+163,7911,Name2742,Maji,8.0,F,3,,Pomerini
+164,7912,Name2743,Maji,13.0,F,5,,Pomerini
+165,7913,Name2744,Maji,21.0,M,4,,Pomerini
+166,7914,Name2745,Maji,9.0,F,6,,Pomerini
+167,7915,Name2746,Maji,13.0,F,2,,Pomerini
+168,7916,Name2747,Maji,13.0,M,5,,Pomerini
+169,7917,Name2748,Maji,9.0,F,1,,Pomerini
+170,7918,Name2749,Maji,13.0,F,4,,Pomerini
+171,7919,Name2750,Maji,13.0,F,1,,Pomerini
+172,7920,Name2751,Maji,37.0,F,6,,Pomerini
+173,7921,Name2752,Maji,12.0,M,0,,Pomerini
+174,7922,Name2753,Maji,10.0,M,6,,Pomerini
+175,7923,Name2754,Maji,13.0,M,6,,Pomerini
+176,7924,Name2755,Maji,11.0,M,4,,Pomerini
+177,7925,Name2756,Maji,12.0,F,6,,Pomerini
+178,7926,Name2757,Maji,12.0,F,5,,Pomerini
+179,7927,Name2758,Maji,10.0,F,2,,Pomerini
+180,7928,Name2759,Maji,10.0,F,6,,Pomerini
+181,7929,Name2760,Maji,10.0,M,5,,Pomerini
+182,7930,Name2761,Maji,15.0,M,1,,Pomerini
+183,7931,Name2762,Maji,9.0,F,4,,Pomerini
+184,7932,Name2763,Maji,8.0,M,2,,Pomerini
+185,7933,Name2764,Maji,14.0,F,5,,Pomerini
+186,7934,Name2765,Maji,28.0,F,5,,Pomerini
+187,7935,Name2766,Maji,5.0,F,3,,Pomerini
+188,7936,Name2767,Maji,26.0,F,0,,Pomerini
+189,7937,Name2768,Maji,8.0,F,4,,Pomerini
+190,7938,Name2769,Maji,13.0,M,6,,Pomerini
+191,7939,Name2770,Maji,11.0,M,2,,Pomerini
+192,7940,Name2771,Maji,22.0,F,0,,Pomerini
+193,7941,Name2772,Maji,13.0,F,5,,Pomerini
+194,7942,Name2773,Maji,8.0,F,6,,Pomerini
+195,7943,Name2774,Maji,12.0,M,4,,Pomerini
+196,7944,Name2775,Maji,9.0,M,1,,Pomerini
+197,7945,Name2776,Maji,10.0,M,5,,Pomerini
+198,7946,Name2777,Maji,11.0,F,3,,Pomerini
+199,7947,Name2778,Maji,12.0,M,6,,Pomerini
+200,7948,Name2779,Maji,11.0,M,6,,Pomerini
+201,7949,Name2780,Maji,15.0,F,4,,Pomerini
+202,7950,Name2781,Maji,15.0,M,5,,Pomerini
+203,7951,Name2782,Maji,11.0,M,4,,Pomerini
+204,7952,Name2783,Maji,12.0,F,4,,Pomerini
+205,7953,Name2784,Maji,13.0,F,6,,Pomerini
+206,7954,Name2785,Maji,10.0,F,1,,Pomerini
+207,7955,Name2786,Maji,8.0,F,3,,Pomerini
+208,7956,Name2787,Maji,13.0,M,4,,Pomerini
+209,7957,Name2788,Maji,12.0,M,4,,Pomerini
+210,7958,Name2789,Maji,35.0,M,4,,Pomerini
+211,7959,Name2790,Maji,11.0,M,4,,Pomerini
+212,7960,Name2791,Maji,13.0,F,3,,Pomerini
+213,7961,Name2792,Maji,40.0,F,4,,Pomerini
+214,7962,Name2793,Maji,10.0,F,3,,Pomerini
+215,7963,Name2794,Maji,12.0,F,8,,Pomerini
+216,7964,Name2795,Maji,27.0,M,6,,Pomerini
+217,7965,Name2796,Maji,11.0,F,6,,Pomerini
+218,7966,Name2797,Maji,11.0,F,6,,Pomerini
+219,7967,Name2798,Maji,12.0,F,5,,Pomerini
+220,7968,Name2799,Maji,9.0,M,2,,Pomerini
+221,7969,Name2800,Maji,13.0,M,7,,Pomerini
+222,7970,Name2801,Maji,13.0,F,4,,Pomerini
+223,7971,Name2802,Maji,9.0,M,4,,Pomerini
+224,7972,Name2803,Maji,10.0,F,4,,Pomerini
+225,7973,Name2804,Maji,11.0,F,4,,Pomerini
+226,7974,Name2805,Maji,9.0,F,6,,Pomerini
+227,7975,Name2806,Maji,26.0,M,1,,Pomerini
+228,7976,Name2807,Maji,12.0,M,3,,Pomerini
+229,7977,Name2808,Maji,12.0,F,4,,Pomerini
+230,7978,Name2809,Maji,12.0,M,4,,Pomerini
+231,7979,Name2810,Maji,14.0,F,3,,Pomerini
+232,7980,Name2811,Maji,15.0,M,6,,Pomerini
+233,7981,Name2812,Maji,10.0,M,3,,Pomerini
+234,7982,Name2813,Maji,12.0,M,4,,Pomerini
+235,7983,Name2814,Maji,13.0,M,3,,Pomerini
+236,7984,Name2815,Maji,9.0,F,4,,Pomerini
+237,7985,Name2816,Maji,12.0,F,2,,Pomerini
+238,7986,Name2817,Maji,9.0,F,1,,Pomerini
+239,7987,Name2818,Maji,11.0,F,7,,Pomerini
+240,7988,Name2819,Maji,11.0,F,7,,Pomerini
+241,7989,Name2820,Maji,13.0,F,3,,Pomerini
+242,7990,Name2821,Maji,12.0,F,3,,Pomerini
+243,7991,Name2822,Maji,11.0,F,6,,Pomerini
+244,7992,Name2823,Maji,40.0,F,2,,Pomerini
+245,7993,Name2824,Maji,12.0,M,6,,Pomerini
+246,7994,Name2825,Maji,13.0,M,6,,Pomerini
+247,7995,Name2826,Maji,9.0,F,6,,Pomerini
+248,7996,Name2827,Maji,11.0,F,4,,Pomerini
+249,7997,Name2828,Maji,8.0,M,5,,Pomerini
+250,7998,Name2829,Maji,12.0,M,5,,Pomerini
+251,7999,Name2830,Maji,10.0,F,6,,Pomerini
+252,8000,Name2831,Maji,14.0,F,4,,Pomerini
+253,8001,Name2832,Maji,78.0,M,2,,Pomerini
+254,8002,Name2833,Maji,11.0,M,3,,Pomerini
+255,8003,Name2834,Maji,8.0,F,4,,Pomerini
+256,8004,Name2835,Maji,9.0,M,3,,Pomerini
+257,8005,Name2836,Maji,10.0,F,3,,Pomerini
+258,8006,Name2837,Maji,11.0,M,5,,Pomerini
+259,8007,Name2838,Maji,12.0,F,5,,Pomerini
+260,8008,Name2839,Maji,9.0,M,3,,Pomerini
+261,8009,Name2840,Maji,9.0,F,1,,Pomerini
+262,8010,Name2841,Maji,9.0,M,2,,Pomerini
+263,8011,Name2842,Maji,16.0,F,2,,Pomerini
+264,8012,Name2843,Maji,11.0,M,2,,Pomerini
+265,8013,Name2844,Maji,9.0,F,1,,Pomerini
+266,8014,Name2845,Maji,12.0,F,4,,Pomerini
+267,8015,Name2846,Maji,11.0,M,2,,Pomerini
+268,8016,Name2847,Maji,14.0,F,4,,Pomerini
+269,8017,Name2848,Maji,12.0,F,6,,Pomerini
+270,8018,Name2849,Maji,26.0,M,1,,Pomerini
+271,8019,Name2850,Maji,12.0,F,6,,Pomerini
+272,8020,Name2851,Maji,25.0,F,4,,Pomerini
+273,8021,Name2852,Maji,13.0,F,5,,Pomerini
+274,8022,Name2853,Maji,15.0,F,3,,Pomerini
+275,8023,Name2854,Maji,14.0,F,3,,Pomerini
+276,8024,Name2855,Maji,12.0,F,6,,Pomerini
+277,8025,Name2856,Maji,23.0,F,4,,Pomerini
+278,8026,Name2857,Maji,10.0,F,5,,Pomerini
+279,8027,Name2858,Maji,54.0,F,1,,Pomerini
+280,8028,Name2859,Maji,9.0,F,6,,Pomerini
+281,8029,Name2860,Maji,8.0,F,1,,Pomerini
+282,8030,Name2861,Maji,8.0,M,5,,Pomerini
+283,8031,Name2862,Maji,9.0,M,3,,Pomerini
+284,8032,Name2863,Maji,53.0,M,3,,Pomerini
+285,8033,Name2864,Maji,11.0,M,5,,Pomerini
+286,8034,Name2865,Maji,14.0,F,6,,Pomerini
+287,8035,Name2866,Maji,13.0,F,3,,Pomerini
+288,8036,Name2867,Maji,14.0,M,8,,Pomerini
+289,8037,Name2868,Maji,12.0,F,5,,Pomerini
+290,8038,Name2869,Maji,13.0,F,6,,Pomerini
+291,8039,Name2870,Maji,32.0,M,4,,Pomerini
+292,8040,Name2871,Maji,56.0,M,5,,Pomerini
+293,8041,Name2872,Maji,56.0,F,2,,Pomerini
+294,8042,Name2873,Maji,12.0,F,2,,Pomerini
+295,8043,Name2874,Maji,10.0,F,4,,Pomerini
+296,8044,Name2875,Maji,14.0,F,6,,Pomerini
+297,8045,Name2876,Maji,12.0,F,4,,Pomerini
+298,8046,Name2877,Maji,12.0,F,6,,Pomerini
+299,8047,Name2878,Maji,12.0,M,4,,Pomerini
+300,8048,Name2879,Maji,10.0,F,3,,Pomerini
+301,8049,Name2880,Maji,11.0,M,3,,Pomerini
+302,8050,Name2881,Maji,13.0,F,6,,Pomerini
+303,8051,Name2882,Maji,13.0,F,5,,Pomerini
+304,8052,Name2883,Maji,11.0,F,3,,Pomerini
+305,8053,Name2884,Maji,13.0,M,6,,Pomerini
+306,8054,Name2885,Maji,13.0,M,4,,Pomerini
+307,8055,Name2886,Maji,61.0,F,4,,Pomerini
+308,8056,Name2887,Maji,13.0,F,2,,Pomerini
+309,8057,Name2888,Maji,56.0,F,1,,Pomerini
+310,8058,Name2889,Maji,11.0,F,6,,Pomerini
+311,8059,Name2890,Maji,11.0,F,6,,Pomerini
+312,8060,Name2891,Maji,10.0,M,3,,Pomerini
+313,8061,Name2892,Maji,9.0,F,6,,Pomerini
+314,8062,Name2893,Maji,9.0,M,6,,Pomerini
+315,8063,Name2894,Maji,13.0,M,3,,Pomerini
+316,8064,Name2895,Maji,8.0,M,6,,Pomerini
+317,8065,Name2896,Maji,13.0,F,5,,Pomerini
+318,8066,Name2897,Maji,10.0,M,4,,Pomerini
+319,8067,Name2898,Maji,7.0,F,6,,Pomerini
+320,8068,Name2899,Maji,12.0,M,2,,Pomerini
+321,8069,Name2900,Maji,10.0,M,6,,Pomerini
+322,8070,Name2901,Maji,13.0,F,4,,Pomerini
+323,8071,Name2902,Maji,9.0,F,1,,Pomerini
+324,8072,Name2903,Maji,6.0,F,5,,Pomerini
+325,8073,Name2904,Maji,13.0,M,6,,Pomerini
+326,8074,Name2905,Maji,13.0,F,4,,Pomerini
+327,8075,Name2906,Maji,78.0,F,5,,Pomerini
+328,8076,Name2907,Maji,13.0,F,7,,Pomerini
+329,8077,Name2908,Maji,19.0,M,3,,Pomerini
+330,8078,Name2909,Maji,37.0,M,2,,Pomerini
+331,8079,Name2910,Maji,13.0,M,4,,Pomerini
+332,8080,Name2911,Maji,14.0,M,5,,Pomerini
+333,8081,Name2912,Maji,7.0,F,3,,Pomerini
+334,8082,Name2913,Maji,10.0,M,1,,Pomerini
+335,8083,Name2914,Maji,13.0,F,5,,Pomerini
+336,8084,Name2915,Maji,9.0,F,6,,Pomerini
+337,8085,Name2916,Maji,13.0,F,4,,Pomerini
+338,8086,Name2917,Maji,56.0,F,3,,Pomerini
+339,8087,Name2918,Maji,9.0,F,4,,Pomerini
+340,8088,Name2919,Maji,55.0,M,5,,Pomerini
+341,8089,Name2920,Maji,9.0,F,3,,Pomerini
+342,8090,Name2921,Maji,12.0,F,6,,Pomerini
+343,8091,Name2922,Maji,13.0,M,6,,Pomerini
+344,8092,Name2923,Maji,10.0,M,4,,Pomerini
+345,8093,Name2924,Maji,8.0,F,3,,Pomerini
+346,8094,Name2925,Maji,10.0,F,1,,Pomerini
+347,8095,Name2926,Maji,12.0,F,4,,Pomerini
+348,8096,Name2927,Maji,12.0,M,4,,Pomerini
+349,8097,Name2928,Maji,24.0,F,3,,Pomerini
+350,8098,Name2929,Maji,12.0,F,3,,Pomerini
+351,8099,Name2930,Maji,10.0,M,6,,Pomerini
+352,8100,Name2931,Maji,9.0,M,3,,Pomerini
+353,8101,Name2932,Maji,9.0,F,6,,Pomerini
+354,8102,Name2933,Maji,10.0,F,2,,Pomerini
+355,8103,Name2934,Maji,9.0,M,8,,Pomerini
+356,8104,Name2935,Maji,13.0,M,6,,Pomerini
+357,8105,Name2936,Maji,8.0,M,4,,Pomerini
+358,8106,Name2937,Maji,14.0,F,4,,Pomerini
+359,8107,Name2938,Maji,14.0,F,3,,Pomerini
+360,8108,Name2939,Maji,11.0,M,5,,Pomerini
+361,8109,Name2940,Maji,8.0,M,6,,Pomerini
+362,8110,Name2941,Maji,9.0,F,1,,Pomerini
+363,8111,Name2942,Maji,7.0,F,4,,Pomerini
+364,8112,Name2943,Maji,8.0,F,1,,Pomerini
+365,8113,Name2944,Maji,8.0,M,6,,Pomerini
+366,8114,Name2945,Maji,8.0,F,7,,Pomerini
+367,8115,Name2946,Maji,32.0,M,5,,Pomerini
+368,8116,Name2947,Maji,9.0,M,4,,Pomerini
+369,8117,Name2948,Maji,10.0,F,3,,Pomerini
+370,8118,Name2949,Maji,13.0,F,4,,Pomerini
+371,8119,Name2950,Maji,12.0,F,7,,Pomerini
+372,8120,Name2951,Maji,7.0,F,3,,Pomerini
+373,8121,Name2952,Maji,13.0,M,1,,Pomerini
+374,8122,Name2953,Maji,9.0,M,1,,Pomerini
+375,8123,Name2954,Maji,60.0,F,5,,Pomerini
+376,8124,Name2955,Maji,9.0,M,1,,Pomerini
+377,8125,Name2956,Maji,11.0,F,1,,Pomerini
+378,8126,Name2957,Maji,12.0,F,4,,Pomerini
+379,8127,Name2958,Maji,10.0,F,1,,Pomerini
+380,8128,Name2959,Maji,7.0,F,4,,Pomerini
+381,8129,Name2960,Maji,12.0,F,3,,Pomerini
+382,8130,Name2961,Maji,10.0,F,4,,Pomerini
+383,8131,Name2962,Maji,12.0,M,6,,Pomerini
+384,8132,Name2963,Maji,10.0,F,3,,Pomerini
+385,8133,Name2964,Maji,13.0,M,1,,Pomerini
+386,8134,Name2965,Maji,9.0,M,6,,Pomerini
+387,8135,Name2966,Maji,11.0,F,6,,Pomerini
+388,8136,Name2967,Maji,37.0,F,3,,Pomerini
+389,8137,Name2968,Maji,14.0,M,1,,Pomerini
+390,8138,Name2969,Maji,12.0,F,4,,Pomerini
+391,8139,Name2970,Maji,9.0,F,3,,Pomerini
+392,8140,Name2971,Maji,12.0,M,1,,Pomerini
+393,8141,Name2972,Maji,9.0,M,4,,Pomerini
+394,8142,Name2973,Maji,10.0,M,2,,Pomerini
+395,8143,Name2974,Maji,14.0,F,2,,Pomerini
+396,8144,Name2975,Maji,7.0,M,3,,Pomerini
+397,8145,Name2976,Maji,12.0,F,4,,Pomerini
+398,8146,Name2977,Maji,10.0,F,6,,Pomerini
+399,8147,Name2978,Maji,11.0,M,6,,Pomerini
+400,8148,Name2979,Maji,8.0,M,7,,Pomerini
+401,8149,Name2980,Maji,10.0,F,1,,Pomerini
+402,8150,Name2981,Maji,49.0,F,2,,Pomerini
+403,8151,Name2982,Maji,13.0,M,4,,Pomerini
+404,8152,Name2983,Maji,12.0,F,6,,Pomerini
+405,8153,Name2984,Maji,12.0,M,4,,Pomerini
+406,8154,Name2985,Maji,13.0,M,3,,Pomerini
+407,8155,Name2986,Maji,8.0,F,4,,Pomerini
+408,8156,Name2987,Maji,8.0,F,5,,Pomerini
+409,8157,Name2988,Maji,13.0,F,3,,Pomerini
+410,8158,Name2989,Maji,10.0,F,0,,Pomerini
+411,8159,Name2990,Maji,22.0,F,2,,Pomerini
+412,8160,Name2991,Maji,13.0,M,5,,Pomerini
+413,8161,Name2992,Maji,13.0,M,5,,Pomerini
+414,8162,Name2993,Maji,9.0,F,3,,Pomerini
+415,8163,Name2994,Maji,60.0,F,5,,Pomerini
+416,8164,Name2995,Maji,10.0,F,3,,Pomerini
+417,8165,Name2996,Maji,7.0,M,4,,Pomerini
+418,8166,Name2997,Maji,12.0,F,4,,Pomerini
+419,8167,Name2998,Maji,11.0,F,4,,Pomerini
+420,8168,Name2999,Maji,13.0,F,6,,Pomerini
+421,8169,Name3000,Maji,12.0,F,5,,Pomerini
+422,8170,Name3001,Maji,13.0,F,5,,Pomerini
+423,8171,Name3002,Maji,11.0,F,6,,Pomerini
+424,8172,Name3003,Maji,10.0,M,2,,Pomerini
+425,8173,Name3004,Maji,12.0,M,6,,Pomerini
+426,8174,Name3005,Maji,8.0,M,0,,Pomerini
+427,8175,Name3006,Maji,5.0,F,3,,Pomerini
+428,8176,Name3007,Maji,23.0,F,2,,Pomerini
+429,8177,Name3008,Maji,8.0,M,5,,Pomerini
+430,8178,Name3009,Maji,14.0,M,4,,Pomerini
+431,8179,Name3010,Maji,8.0,M,0,,Pomerini
+432,8180,Name3011,Maji,16.0,F,4,,Pomerini
+433,8181,Name3012,Maji,12.0,M,5,,Pomerini
+434,8182,Name3013,Maji,31.0,M,6,,Pomerini
+435,8183,Name3014,Maji,9.0,F,3,,Pomerini
+436,8184,Name3015,Maji,13.0,M,6,,Pomerini
+437,8185,Name3016,Maji,11.0,F,5,,Pomerini
+438,8186,Name3017,Maji,14.0,F,6,,Pomerini
+439,8187,Name3018,Maji,16.0,F,6,,Pomerini
+440,8188,Name3019,Maji,12.0,F,4,,Pomerini
+441,8189,Name3020,Maji,8.0,F,6,,Pomerini
+442,8190,Name3021,Maji,14.0,M,6,,Pomerini
+443,8191,Name3022,Maji,8.0,F,5,,Pomerini
+444,8192,Name3023,Maji,9.0,F,3,,Pomerini
+445,8193,Name3024,Maji,9.0,M,2,,Pomerini
+446,8194,Name3025,Maji,13.0,F,4,,Pomerini
+447,8195,Name3026,Maji,14.0,M,5,,Pomerini
+448,8196,Name3027,Maji,35.0,M,5,,Pomerini
+449,8197,Name3028,Maji,14.0,M,3,,Pomerini
+450,8198,Name3029,Maji,27.0,M,3,,Pomerini
+451,8199,Name3030,Maji,12.0,F,2,,Pomerini
+452,8200,Name3031,Maji,13.0,F,6,,Pomerini
+453,8201,Name3032,Maji,12.0,M,2,,Pomerini
+454,8202,Name3033,Maji,14.0,F,3,,Pomerini
+455,8203,Name3034,Maji,14.0,F,2,,Pomerini
+456,8204,Name3035,Maji,10.0,M,2,,Pomerini
+457,8205,Name3036,Maji,22.0,F,4,,Pomerini
+458,8206,Name3037,Maji,10.0,M,4,,Pomerini
+459,8207,Name3038,Maji,12.0,F,4,,Pomerini
+460,8208,Name3039,Maji,9.0,M,7,,Pomerini
+461,8209,Name3040,Maji,11.0,F,3,,Pomerini
+462,8210,Name3041,Maji,12.0,M,4,,Pomerini
+463,8211,Name3042,Maji,8.0,F,4,,Pomerini
+464,8212,Name3043,Maji,12.0,F,2,,Pomerini
+465,8213,Name3044,Maji,16.0,M,7,,Pomerini
+466,8214,Name3045,Maji,10.0,F,5,,Pomerini
+467,8215,Name3046,Maji,9.0,F,6,,Pomerini
+468,8216,Name3047,Maji,37.0,F,4,,Pomerini
+469,8217,Name3048,Maji,7.0,F,6,,Pomerini
+470,8218,Name3049,Maji,27.0,M,3,,Pomerini
+471,8219,Name3050,Maji,11.0,F,4,,Pomerini
+472,8220,Name3051,Maji,61.0,F,4,,Pomerini
+473,8221,Name3052,Maji,13.0,M,2,,Pomerini
+474,8222,Name3053,Maji,13.0,F,4,,Pomerini
+475,8223,Name3054,Maji,40.0,M,4,,Pomerini
+476,8224,Name3055,Maji,12.0,M,4,,Pomerini
+477,8225,Name3056,Maji,10.0,F,2,,Pomerini
+478,8226,Name3057,Maji,9.0,F,6,,Pomerini
+479,8227,Name3058,Maji,11.0,F,4,,Pomerini
+480,8228,Name3059,Maji,9.0,M,4,,Pomerini
+481,8229,Name3060,Maji,10.0,M,3,,Pomerini
+482,8230,Name3061,Maji,61.0,F,2,,Pomerini
+483,8231,Name3062,Maji,12.0,M,2,,Pomerini
+484,8232,Name3063,Maji,15.0,M,3,,Pomerini
+485,8233,Name3064,Maji,9.0,F,2,,Pomerini
+486,8234,Name3065,Maji,12.0,F,1,,Pomerini
+487,8235,Name3066,Maji,11.0,F,5,,Pomerini
+488,8236,Name3067,Maji,13.0,F,6,,Pomerini
+489,8237,Name3068,Maji,13.0,F,1,,Pomerini
+490,8238,Name3069,Maji,9.0,F,4,,Pomerini
+491,8239,Name3070,Maji,8.0,F,6,,Pomerini
+492,8240,Name3071,Maji,7.0,F,2,,Pomerini
+493,8241,Name3072,Maji,20.0,F,6,,Pomerini
+494,8242,Name3073,Maji,5.0,M,2,,Pomerini
+495,8243,Name3074,Maji,7.0,F,4,,Pomerini
+496,8244,Name3075,Maji,10.0,M,5,,Pomerini
+497,8245,Name3076,Maji,10.0,M,5,,Pomerini
+498,8246,Name3077,Maji,13.0,M,5,,Pomerini
+499,8247,Name3078,Maji,9.0,F,4,,Pomerini
+500,8248,Name3079,Maji,13.0,F,6,,Pomerini
+501,8249,Name3080,Maji,12.0,M,4,,Pomerini
+502,8250,Name3081,Maji,10.0,M,2,,Pomerini
+503,8251,Name3082,Maji,39.0,F,3,,Pomerini
+504,8252,Name3083,Maji,33.0,M,6,,Pomerini
+505,8253,Name3084,Maji,9.0,M,3,,Pomerini
+506,8254,Name3085,Maji,11.0,M,6,,Pomerini
+507,8255,Name3086,Maji,10.0,F,3,,Pomerini
+508,8256,Name3087,Maji,7.0,M,2,,Pomerini
+509,8257,Name3088,Maji,10.0,F,3,,Pomerini
+510,8258,Name3089,Maji,10.0,F,4,,Pomerini
+511,8259,Name3090,Maji,14.0,M,6,,Pomerini
+512,8260,Name3091,Maji,11.0,F,4,,Pomerini
+513,8261,Name3092,Maji,13.0,F,6,,Pomerini
+514,8262,Name3093,Maji,9.0,F,6,,Pomerini
+515,8263,Name3094,Maji,13.0,F,6,,Pomerini
+516,8264,Name3095,Maji,24.0,F,6,,Pomerini
+517,8265,Name3096,Maji,12.0,M,6,,Pomerini
+518,8266,Name3097,Maji,11.0,M,3,,Pomerini
+519,8267,Name3098,Maji,9.0,F,1,,Pomerini
+520,8268,Name3099,Maji,13.0,F,2,,Pomerini
+521,8269,Name3100,Maji,25.0,F,5,,Pomerini
+522,8270,Name3101,Maji,11.0,F,2,,Pomerini
+523,8271,Name3102,Maji,12.0,M,0,,Pomerini
+524,8272,Name3103,Maji,10.0,F,2,,Pomerini
+525,8273,Name3104,Maji,12.0,F,6,,Pomerini
+526,8274,Name3105,Maji,13.0,M,4,,Pomerini
+527,8275,Name3106,Maji,13.0,F,6,,Pomerini
+528,8276,Name3107,Maji,11.0,F,4,,Pomerini
+529,8277,Name3108,Maji,15.0,M,5,,Pomerini
+530,8278,Name3109,Maji,9.0,F,4,,Pomerini
+531,8279,Name3110,Maji,12.0,M,6,,Pomerini
+532,8280,Name3111,Maji,15.0,F,6,,Pomerini
+533,8281,Name3112,Maji,8.0,M,2,,Pomerini
+534,8282,Name3113,Maji,13.0,M,4,,Pomerini
+535,8283,Name3114,Maji,75.0,F,7,,Pomerini
+536,8284,Name3115,Maji,28.0,F,4,,Pomerini
+537,8285,Name3116,Maji,12.0,F,6,,Pomerini
+538,8286,Name3117,Maji,10.0,F,1,,Pomerini
+539,8287,Name3118,Maji,15.0,M,6,,Pomerini
+540,8288,Name3119,Maji,13.0,F,6,,Pomerini
+541,8289,Name3120,Maji,9.0,F,3,,Pomerini
+542,8290,Name3121,Maji,14.0,F,4,,Pomerini
+543,8291,Name3122,Maji,6.0,M,2,,Pomerini
+544,8292,Name3123,Maji,12.0,M,6,,Pomerini
+545,8293,Name3124,Maji,10.0,F,2,,Pomerini
+546,8294,Name3125,Maji,10.0,F,3,,Pomerini
+547,8295,Name3126,Maji,12.0,F,3,,Pomerini
+548,8296,Name3127,Maji,9.0,F,5,,Pomerini
+549,8297,Name3128,Maji,13.0,F,6,,Pomerini
+550,8298,Name3129,Maji,11.0,F,6,,Pomerini
+551,8299,Name3130,Maji,12.0,M,4,,Pomerini
+552,8300,Name3131,Maji,13.0,F,4,,Pomerini
+553,8301,Name3132,Maji,14.0,F,5,,Pomerini
+554,8302,Name3133,Maji,12.0,F,3,,Pomerini
+555,8303,Name3134,Maji,12.0,M,1,,Pomerini
+556,8304,Name3135,Maji,15.0,M,4,,Pomerini
+557,8305,Name3136,Maji,13.0,F,4,,Pomerini
+558,8306,Name3137,Maji,10.0,M,5,,Pomerini
+559,8307,Name3138,Maji,22.0,F,2,,Pomerini
+560,8308,Name3139,Maji,10.0,F,4,,Pomerini
+561,8309,Name3140,Maji,8.0,M,6,,Pomerini
+562,8310,Name3141,Maji,27.0,F,1,,Pomerini
+563,8311,Name3142,Maji,13.0,F,6,,Pomerini
+564,8312,Name3143,Maji,27.0,F,4,,Pomerini
+565,8313,Name3144,Maji,27.0,F,2,,Pomerini
+566,8314,Name3145,Maji,9.0,M,6,,Pomerini
+567,8315,Name3146,Maji,7.0,F,4,,Pomerini
+568,8316,Name3147,Maji,8.0,F,3,,Pomerini
+569,8317,Name3148,Maji,10.0,F,4,,Pomerini
+570,8318,Name3149,Maji,7.0,F,5,,Pomerini
+571,8319,Name3150,Maji,8.0,F,6,,Pomerini
+572,8320,Name3151,Maji,13.0,F,5,,Pomerini
+573,8321,Name3152,Maji,13.0,M,5,,Pomerini
+574,8322,Name3153,Maji,11.0,F,2,,Pomerini
+575,8323,Name3154,Maji,10.0,F,4,,Pomerini
+576,8324,Name3155,Maji,13.0,M,8,,Pomerini
+577,8325,Name3156,Maji,21.0,M,3,,Pomerini
+578,8326,Name3157,Maji,12.0,F,0,,Pomerini
+579,8327,Name3158,Maji,10.0,F,3,,Pomerini
+580,8328,Name3159,Maji,13.0,M,3,,Pomerini
+581,8329,Name3160,Maji,37.0,M,3,,Pomerini
+582,8330,Name3161,Maji,10.0,M,5,,Pomerini
+583,8331,Name3162,Maji,8.0,F,2,,Pomerini
+584,8332,Name3163,Maji,8.0,M,5,,Pomerini
+585,8333,Name3164,Maji,12.0,M,5,,Pomerini
+586,8334,Name3165,Maji,13.0,F,4,,Pomerini
+587,8335,Name3166,Maji,14.0,F,3,,Pomerini
+588,8336,Name3167,Maji,16.0,M,1,,Pomerini
+589,8337,Name3168,Maji,13.0,F,1,,Pomerini
+590,8338,Name3169,Maji,37.0,M,4,,Pomerini
+591,8339,Name3170,Maji,8.0,F,2,,Pomerini
+592,8340,Name3171,Maji,11.0,M,3,,Pomerini
+593,8341,Name3172,Maji,12.0,M,1,,Pomerini
+594,8342,Name3173,Maji,40.0,F,5,,Pomerini
+595,8343,Name3174,Maji,13.0,F,8,,Pomerini
+596,8344,Name3175,Maji,15.0,M,6,,Pomerini
+597,8345,Name3176,Maji,12.0,F,7,,Pomerini
+598,8346,Name3177,Maji,12.0,F,6,,Pomerini
+599,8347,Name3178,Maji,14.0,F,4,,Pomerini
+600,8348,Name3179,Maji,13.0,M,6,,Pomerini
+601,8349,Name3180,Maji,9.0,F,2,,Pomerini
+602,8350,Name3181,Maji,11.0,M,6,,Pomerini
+603,8351,Name3182,Maji,15.0,M,4,,Pomerini
+604,8352,Name3183,Maji,9.0,F,4,,Pomerini
+605,8353,Name3184,Maji,15.0,M,6,,Pomerini
+606,8354,Name3185,Maji,23.0,M,4,,Pomerini
+607,8355,Name3186,Maji,12.0,M,4,,Pomerini
+608,8356,Name3187,Maji,12.0,M,6,,Pomerini
+609,8357,Name3188,Maji,56.0,M,4,,Pomerini
+610,8358,Name3189,Maji,15.0,F,4,,Pomerini
+611,8359,Name3190,Maji,13.0,F,3,,Pomerini
+612,8360,Name3191,Maji,56.0,M,5,,Pomerini
+613,8361,Name3192,Maji,14.0,M,3,,Pomerini
+614,8362,Name3193,Maji,12.0,M,0,,Pomerini
+615,8363,Name3194,Maji,10.0,M,5,,Pomerini
+616,8364,Name3195,Maji,13.0,M,5,,Pomerini
+617,8365,Name3196,Maji,7.0,F,3,,Pomerini
+618,8366,Name3197,Maji,10.0,M,6,,Pomerini
+619,8367,Name3198,Maji,13.0,F,5,,Pomerini
+620,8368,Name3199,Maji,12.0,M,6,,Pomerini
+621,8369,Name3200,Maji,15.0,F,6,,Pomerini
+622,8370,Name3201,Maji,10.0,F,3,,Pomerini
+623,8371,Name3202,Maji,4.0,F,2,,Pomerini
+624,8372,Name3203,Maji,15.0,F,1,,Pomerini
+625,8373,Name3204,Maji,13.0,M,2,,Pomerini
+626,8374,Name3205,Maji,9.0,M,2,,Pomerini
+627,8375,Name3206,Maji,10.0,F,1,,Pomerini
+628,8376,Name3207,Maji,11.0,F,3,,Pomerini
+629,8377,Name3208,Maji,8.0,F,3,,Pomerini
+630,8378,Name3209,Maji,12.0,F,4,,Pomerini
+631,8379,Name3210,Maji,21.0,F,2,,Pomerini
+632,8380,Name3211,Maji,12.0,F,5,,Pomerini
+633,8381,Name3212,Maji,14.0,F,6,,Pomerini
+634,8382,Name3213,Maji,13.0,M,5,,Pomerini
+635,8383,Name3214,Maji,11.0,F,1,,Pomerini
+636,8384,Name3215,Maji,12.0,M,3,,Pomerini
+637,8385,Name3216,Maji,7.0,F,5,,Pomerini
+638,8386,Name3217,Maji,7.0,F,1,,Pomerini
+639,8387,Name3218,Maji,12.0,M,6,,Pomerini
+640,8388,Name3219,Maji,53.0,F,4,,Pomerini
+641,8389,Name3220,Maji,25.0,F,1,,Pomerini
+642,8390,Name3221,Maji,14.0,M,5,,Pomerini
+643,8391,Name3222,Maji,12.0,F,5,,Pomerini
+644,8392,Name3223,Maji,8.0,F,4,,Pomerini
+645,8393,Name3224,Maji,4.0,M,4,,Pomerini
+646,8394,Name3225,Maji,14.0,F,3,,Pomerini
+647,8395,Name3226,Maji,9.0,M,6,,Pomerini
+648,8396,Name3227,Maji,10.0,M,6,,Pomerini
+649,8397,Name3228,Maji,13.0,F,2,,Pomerini
+650,8398,Name3229,Maji,11.0,F,0,,Pomerini
+651,8399,Name3230,Maji,34.0,F,6,,Pomerini
+652,8400,Name3231,Maji,7.0,F,3,,Pomerini
+653,8401,Name3232,Maji,56.0,M,4,,Pomerini
+654,8402,Name3233,Maji,11.0,M,4,,Pomerini
+655,8403,Name3234,Maji,12.0,F,6,,Pomerini
+656,8404,Name3235,Maji,10.0,M,5,,Pomerini
+657,8405,Name3236,Maji,15.0,M,6,,Pomerini
+658,8406,Name3237,Maji,12.0,F,7,,Pomerini
+659,8407,Name3238,Maji,13.0,M,6,,Pomerini
+660,8408,Name3239,Maji,11.0,F,4,,Pomerini
+661,8409,Name3240,Maji,11.0,M,0,,Pomerini
+662,8410,Name3241,Maji,16.0,F,1,,Pomerini
+663,8411,Name3242,Maji,9.0,F,6,,Pomerini
+664,8412,Name3243,Maji,12.0,F,6,,Pomerini
+665,8413,Name3244,Maji,15.0,M,3,,Pomerini
+666,8414,Name3245,Maji,11.0,M,4,,Pomerini
+667,8415,Name3246,Maji,9.0,F,6,,Pomerini
+668,8416,Name3247,Maji,12.0,F,5,,Pomerini
+669,8417,Name3248,Maji,12.0,F,6,,Pomerini
+670,8418,Name3249,Maji,10.0,F,6,,Pomerini
+671,8419,Name3250,Maji,24.0,F,5,,Pomerini
+672,8420,Name3251,Maji,13.0,F,3,,Pomerini
+673,8421,Name3252,Maji,13.0,F,6,,Pomerini
+674,8422,Name3253,Maji,10.0,M,4,,Pomerini
+675,8423,Name3254,Maji,9.0,M,2,,Pomerini
+676,8424,Name3255,Maji,9.0,F,6,,Pomerini
+677,8425,Name3256,Maji,6.0,M,3,,Pomerini
+678,8426,Name3257,Maji,11.0,M,3,,Pomerini
+679,8427,Name3258,Maji,56.0,F,3,,Pomerini
+680,8428,Name3259,Maji,9.0,M,5,,Pomerini
+681,8429,Name3260,Maji,9.0,F,6,,Pomerini
+682,8430,Name3261,Maji,11.0,M,6,,Pomerini
+683,8431,Name3262,Maji,14.0,F,2,,Pomerini
+684,8432,Name3263,Maji,27.0,F,5,,Pomerini
+685,8433,Name3264,Maji,9.0,M,2,,Pomerini
+686,8434,Name3265,Maji,11.0,M,5,,Pomerini
+687,8435,Name3266,Maji,12.0,F,4,,Pomerini
+688,8436,Name3267,Maji,10.0,M,3,,Pomerini
+689,8437,Name3268,Maji,8.0,M,1,,Pomerini
+690,8438,Name3269,Maji,7.0,M,6,,Pomerini
+691,8439,Name3270,Maji,14.0,F,5,,Pomerini
+692,8440,Name3271,Maji,25.0,F,1,,Pomerini
+693,8441,Name3272,Maji,9.0,F,4,,Pomerini
+694,8442,Name3273,Maji,13.0,M,4,,Pomerini
+695,8443,Name3274,Maji,11.0,M,4,,Pomerini
+696,8444,Name3275,Maji,13.0,F,4,,Pomerini
+697,8445,Name3276,Maji,15.0,F,3,,Pomerini
+698,8446,Name3277,Maji,13.0,M,3,,Pomerini
+699,8447,Name3278,Maji,11.0,M,6,,Pomerini
+700,8448,Name3279,Maji,11.0,F,1,,Pomerini
+701,8449,Name3280,Maji,9.0,M,2,,Pomerini
+702,8450,Name3281,Maji,37.0,M,4,,Pomerini
+703,8451,Name3282,Maji,11.0,M,4,,Pomerini
+704,8452,Name3283,Maji,55.0,M,3,,Pomerini
+705,8453,Name3284,Maji,9.0,F,3,,Pomerini
+706,8454,Name3285,Maji,10.0,M,6,,Pomerini
+707,8455,Name3286,Maji,8.0,F,3,,Pomerini
+708,8456,Name3287,Maji,10.0,F,4,,Pomerini
+709,8457,Name3288,Maji,12.0,F,2,,Pomerini
+710,8458,Name3289,Maji,10.0,F,5,,Pomerini
+711,8459,Name3290,Maji,12.0,M,3,,Pomerini
+712,8460,Name3291,Maji,40.0,M,1,,Pomerini
+713,8461,Name3292,Maji,13.0,M,4,,Pomerini
+714,8462,Name3293,Maji,37.0,F,3,,Pomerini
+715,8463,Name3294,Maji,9.0,M,3,,Pomerini
+716,8464,Name3295,Maji,13.0,F,6,,Pomerini
+717,8465,Name3296,Maji,15.0,F,4,,Pomerini
+718,8466,Name3297,Maji,7.0,F,3,,Pomerini
+719,8467,Name3298,Maji,13.0,F,6,,Pomerini
+720,8468,Name3299,Maji,6.0,M,4,,Pomerini
+721,8469,Name3300,Maji,7.0,M,3,,Pomerini
+722,8470,Name3301,Maji,12.0,M,4,,Pomerini
+723,8471,Name3302,Maji,10.0,M,2,,Pomerini
+724,8472,Name3303,Maji,12.0,M,6,,Pomerini
+725,8473,Name3304,Maji,90.0,F,3,,Pomerini
+726,8474,Name3305,Maji,11.0,M,5,,Pomerini
+727,8475,Name3306,Maji,12.0,F,5,,Pomerini
+728,8476,Name3307,Maji,27.0,M,6,,Pomerini
+729,8477,Name3308,Maji,8.0,F,6,,Pomerini
+730,8478,Name3309,Maji,8.0,F,5,,Pomerini
+731,8479,Name3310,Maji,13.0,M,3,,Pomerini
+732,8480,Name3311,Maji,14.0,F,5,,Pomerini
+733,8481,Name3312,Maji,13.0,F,2,,Pomerini
+734,8482,Name3313,Maji,9.0,F,6,,Pomerini
+735,8483,Name3314,Maji,7.0,F,3,,Pomerini
+736,8484,Name3315,Maji,14.0,M,4,,Pomerini
+737,8485,Name3316,Maji,11.0,F,5,,Pomerini
+738,8486,Name3317,Maji,13.0,F,6,,Pomerini
+739,8487,Name3318,Maji,12.0,F,2,,Pomerini
+740,8488,Name3319,Maji,75.0,M,4,,Pomerini
+741,8489,Name3320,Maji,12.0,F,5,,Pomerini
+742,8490,Name3321,Maji,11.0,F,2,,Pomerini
+743,8491,Name3322,Maji,14.0,F,3,,Pomerini
+744,8492,Name3323,Maji,27.0,F,3,,Pomerini
+745,8493,Name3324,Maji,25.0,F,6,,Pomerini
+746,8494,Name3325,Maji,10.0,F,4,,Pomerini
+747,8495,Name3326,Maji,11.0,M,3,,Pomerini
+748,8496,Name3327,Maji,12.0,F,5,,Pomerini
+749,8497,Name3328,Maji,13.0,F,4,,Pomerini
+750,8498,Name3329,Maji,13.0,F,3,,Pomerini
+751,8499,Name3330,Maji,8.0,F,5,,Pomerini
+752,8500,Name3331,Maji,12.0,M,4,,Pomerini
+753,8501,Name3332,Maji,13.0,F,4,,Pomerini
+754,8502,Name3333,Maji,9.0,M,3,,Pomerini
+755,8503,Name3334,Maji,16.0,M,4,,Pomerini
+756,8504,Name3335,Maji,23.0,F,0,,Pomerini
+757,8505,Name3336,Maji,9.0,F,2,,Pomerini
+758,8506,Name3337,Maji,11.0,F,3,,Pomerini
+759,8507,Name3338,Maji,10.0,F,4,,Pomerini
+760,8508,Name3339,Maji,4.0,M,1,,Pomerini
+761,8509,Name3340,Maji,13.0,F,3,,Pomerini
+762,8510,Name3341,Maji,14.0,M,4,,Pomerini
+763,8511,Name3342,Maji,8.0,F,6,,Pomerini
+764,8512,Name3343,Maji,14.0,F,4,,Pomerini
+765,8513,Name3344,Maji,11.0,M,1,,Pomerini
+766,8514,Name3345,Maji,13.0,F,3,,Pomerini
+767,8515,Name3346,Maji,8.0,F,1,,Pomerini
+768,8516,Name3347,Maji,13.0,F,1,,Pomerini
+769,8517,Name3348,Maji,14.0,F,3,,Pomerini
+770,8518,Name3349,Maji,12.0,M,6,,Pomerini
+771,8519,Name3350,Maji,9.0,F,6,,Pomerini
+772,8520,Name3351,Maji,8.0,M,4,,Pomerini
+773,8521,Name3352,Maji,14.0,F,1,,Pomerini
+774,8522,Name3353,Maji,10.0,M,3,,Pomerini
+775,8523,Name3354,Maji,13.0,M,4,,Pomerini
+776,8524,Name3355,Maji,12.0,M,1,,Pomerini
+777,8525,Name3356,Maji,12.0,M,3,,Pomerini
+778,8526,Name3357,Maji,13.0,F,6,,Pomerini
+779,8527,Name3358,Maji,10.0,F,4,,Pomerini
+780,8528,Name3359,Maji,9.0,M,3,,Pomerini
+781,8529,Name3360,Maji,9.0,F,4,,Pomerini
+782,8530,Name3361,Maji,12.0,F,4,,Pomerini
+783,8531,Name3362,Maji,13.0,F,6,,Pomerini
+784,8532,Name3363,Maji,10.0,F,4,,Pomerini
+785,8533,Name3364,Maji,10.0,F,1,,Pomerini
+786,8534,Name3365,Maji,14.0,M,2,,Pomerini
+787,8535,Name3366,Maji,12.0,F,4,,Pomerini
+788,8536,Name3367,Maji,14.0,F,3,,Pomerini
+789,8537,Name3368,Maji,9.0,M,4,,Pomerini
+790,8538,Name3369,Maji,14.0,F,6,,Pomerini
+791,8539,Name3370,Maji,15.0,M,2,,Pomerini
+792,8540,Name3371,Maji,7.0,F,5,,Pomerini
+793,8541,Name3372,Maji,7.0,M,1,,Pomerini
+794,8542,Name3373,Maji,12.0,F,2,,Pomerini
+795,8543,Name3374,Maji,9.0,F,2,,Pomerini
+796,8544,Name3375,Maji,13.0,F,2,,Pomerini
+797,8545,Name3376,Maji,8.0,M,4,,Pomerini
+798,8546,Name3377,Maji,12.0,F,6,,Pomerini
+799,8547,Name3378,Maji,9.0,F,2,,Pomerini
+800,8548,Name3379,Maji,53.0,F,3,,Pomerini
+801,8549,Name3380,Maji,11.0,M,5,,Pomerini
+802,8550,Name3381,Maji,11.0,F,7,,Pomerini
+803,8551,Name3382,Maji,13.0,M,3,,Pomerini
+804,8552,Name3383,Maji,10.0,F,4,,Pomerini
+805,8553,Name3384,Maji,13.0,F,7,,Pomerini
+806,8554,Name3385,Maji,22.0,F,2,,Pomerini
+807,8555,Name3386,Maji,10.0,M,5,,Pomerini
+808,8556,Name3387,Maji,16.0,F,5,,Pomerini
+809,8557,Name3388,Maji,14.0,F,1,,Pomerini
+810,8558,Name3389,Maji,12.0,M,5,,Pomerini
+811,8559,Name3390,Maji,10.0,M,1,,Pomerini
+812,8560,Name3391,Maji,12.0,F,4,,Pomerini
+813,8561,Name3392,Maji,9.0,F,4,,Pomerini
+814,8562,Name3393,Maji,8.0,M,0,,Pomerini
+815,8563,Name3394,Maji,10.0,M,4,,Pomerini
+816,8564,Name3395,Maji,10.0,F,3,,Pomerini
+817,8565,Name3396,Maji,12.0,M,4,,Pomerini
+818,8566,Name3397,Maji,27.0,M,5,,Pomerini
+819,8567,Name3398,Maji,10.0,M,6,,Pomerini
+820,8568,Name3399,Maji,9.0,F,5,,Pomerini
+821,8569,Name3400,Maji,13.0,F,3,,Pomerini
+822,8570,Name3401,Maji,40.0,F,2,,Pomerini
+823,8571,Name3402,Maji,9.0,F,3,,Pomerini
+824,8572,Name3403,Maji,10.0,M,6,,Pomerini
+825,8573,Name3404,Maji,7.0,F,1,,Pomerini
+826,8574,Name3405,Maji,13.0,M,4,,Pomerini
+827,8575,Name3406,Maji,12.0,F,4,,Pomerini
+828,8576,Name3407,Maji,9.0,M,4,,Pomerini
+829,8577,Name3408,Maji,7.0,F,4,,Pomerini
+830,8578,Name3409,Maji,53.0,M,5,,Pomerini
+831,8579,Name3410,Maji,14.0,F,2,,Pomerini
+832,8580,Name3411,Maji,78.0,F,2,,Pomerini
+833,8581,Name3412,Maji,7.0,M,7,,Pomerini
+834,8582,Name3413,Maji,12.0,M,6,,Pomerini
+835,8583,Name3414,Maji,12.0,F,2,,Pomerini
+836,8584,Name3415,Maji,4.0,M,4,,Pomerini
+837,8585,Name3416,Maji,10.0,F,4,,Pomerini
+838,8586,Name3417,Maji,9.0,F,3,,Pomerini
+839,8587,Name3418,Maji,6.0,M,5,,Pomerini
+840,8588,Name3419,Maji,13.0,F,2,,Pomerini
+841,8589,Name3420,Maji,8.0,M,4,,Pomerini
+842,8590,Name3421,Maji,11.0,F,3,,Pomerini
+843,8591,Name3422,Maji,11.0,M,2,,Pomerini
+844,8592,Name3423,Maji,12.0,F,8,,Pomerini
+845,8593,Name3424,Maji,13.0,F,2,,Pomerini
+846,8594,Name3425,Maji,13.0,F,1,,Pomerini
+847,8595,Name3426,Maji,10.0,F,6,,Pomerini
+848,8596,Name3427,Maji,7.0,M,4,,Pomerini
+849,8597,Name3428,Maji,10.0,F,4,,Pomerini
+850,8598,Name3429,Maji,11.0,F,5,,Pomerini
+851,8599,Name3430,Maji,11.0,M,5,,Pomerini
+852,8600,Name3431,Maji,12.0,M,2,,Pomerini
+853,8601,Name3432,Maji,32.0,F,1,,Pomerini
+854,8602,Name3433,Maji,9.0,M,3,,Pomerini
+855,8603,Name3434,Maji,10.0,F,6,,Pomerini
+856,8604,Name3435,Maji,29.0,F,6,,Pomerini
+857,8605,Name3436,Maji,12.0,M,6,,Pomerini
+858,8606,Name3437,Maji,55.0,M,6,,Pomerini
+859,8607,Name3438,Maji,9.0,F,6,,Pomerini
+860,8608,Name3439,Maji,10.0,M,2,,Pomerini
+861,8609,Name3440,Maji,13.0,M,2,,Pomerini
+862,8610,Name3441,Maji,12.0,F,5,,Pomerini
+863,8611,Name3442,Maji,9.0,F,4,,Pomerini
+864,8612,Name3443,Maji,27.0,F,6,,Pomerini
+865,8613,Name3444,Maji,9.0,F,3,,Pomerini
+866,8614,Name3445,Maji,9.0,M,1,,Pomerini
+867,8615,Name3446,Maji,12.0,F,6,,Pomerini
+868,8616,Name3447,Maji,7.0,F,6,,Pomerini
+869,8617,Name3448,Maji,11.0,F,5,,Pomerini
+870,8618,Name3449,Maji,11.0,F,3,,Pomerini
+871,8619,Name3450,Maji,4.0,F,3,,Pomerini
+872,8620,Name3451,Maji,14.0,M,1,,Pomerini
+873,8621,Name3452,Maji,10.0,F,3,,Pomerini
+874,8622,Name3453,Maji,12.0,F,3,,Pomerini
+875,8623,Name3454,Maji,13.0,F,6,,Pomerini
+876,8624,Name3455,Maji,6.0,M,3,,Pomerini
+877,8625,Name3456,Maji,13.0,M,6,,Pomerini
+878,8626,Name3457,Maji,12.0,F,5,,Pomerini
+879,8627,Name3458,Maji,10.0,F,7,,Pomerini
+880,8628,Name3459,Maji,11.0,M,4,,Pomerini
+881,8629,Name3460,Maji,11.0,F,4,,Pomerini
+882,8630,Name3461,Maji,14.0,F,4,,Pomerini
+883,8631,YUNIS CHUMA,Mambo,28.0,F,5,2017.0,Pomerini
+884,8632,DAINESE MTENGA,Mambo,27.0,F,2,2017.0,Pomerini
+885,8633,SZAMDA MGAYA,Mambo,24.0,F,4,2017.0,Pomerini
+886,8634,WITINESI MDEGELA,Mambo,27.0,F,4,2017.0,Pomerini
+887,8635,SIKUJUA MWINYI,Mambo,25.0,F,4,2017.0,Pomerini
+888,8636,REGINA KALOLO,Mambo,25.0,F,1,2017.0,Pomerini
+889,8637,ANNA KIGAVA,Mambo,24.0,F,1,2017.0,Pomerini
+890,8638,SUBIRA NYALUSI,Mambo,23.0,F,1,2017.0,Pomerini
+891,8639,JOVITA MSUVA,Mambo,25.0,F,3,2017.0,Pomerini
+892,8640,MARGARETH MLAPONI,Mambo,23.0,F,2,2017.0,Pomerini
+893,8641,VERONIKA MWINUKA,Mambo,24.0,F,3,2017.0,Pomerini
+894,8642,MARIAM MKEWELE,Mambo,27.0,F,3,2017.0,Pomerini
+895,8643,JOYCE MWIUMBU,Mambo,24.0,F,4,2017.0,Pomerini
+896,8644,DAINESE MGAVIENGA,Mambo,23.0,F,6,2017.0,Pomerini
+897,8645,WINFRIDA MKINI,Mambo,22.0,F,2,2017.0,Pomerini
+898,8646,DALILA NAMINGA,Mambo,23.0,F,3,2017.0,Pomerini
+899,8647,NEEMA SANG'A,Mambo,22.0,F,6,2017.0,Pomerini
+900,8648,Kizito Kahemela,ManiAfrica,27.0,M,4,2012.0,Pomerini
+901,8649,Regina Kiuongozi,ManiAfrica,24.0,F,2,2012.0,Pomerini
+902,8650,Annunsiata Kalolo,ManiAfrica,49.0,F,6,2012.0,Pomerini
+903,8651,Crelia Kihwele,Microcredito,25.0,F,5,2018.0,Pomerini
+904,8652,Redenta Kachema,Microcredito,46.0,F,3,2018.0,Pomerini
+905,8653,Adela Chuma,Microcredito,41.0,F,3,2018.0,Pomerini
+906,8654,Adelina Kikoti,Microcredito,39.0,F,5,2018.0,Pomerini
+907,8655,Vumilia Tengelakwi,Microcredito,53.0,F,4,2018.0,Pomerini
+908,8656,Agripina,Microcredito,23.0,F,2,2018.0,Pomerini
+909,8657,Tuvalumba,Microcredito,35.0,F,3,2018.0,Pomerini
+910,8658,Malkia,Microcredito,49.0,F,1,2018.0,Pomerini
+911,8659,Rehema Kasimba,MiFiMa,55.0,F,4,2018.0,Pomerini
+912,8660,Tumaini Chaula,MiFiMa,49.0,F,4,2018.0,Pomerini
+913,8661,Angelista Kihongozi,MiFiMa,54.0,F,6,2018.0,Pomerini
+914,8662,Roza Mandele,MiFiMa,33.0,F,2,2018.0,Pomerini
+915,8663,Annunziata Msaga,MiFiMa,31.0,F,2,2018.0,Pomerini
+916,8664,Ada Kihaka,MiFiMa,48.0,F,7,2018.0,Pomerini
+917,8665,Amina Chuila,MiFiMa,40.0,F,0,2018.0,Pomerini
+918,8666,Kizito Kahemela,MiFiMa,39.0,M,3,2018.0,Pomerini
+919,8667,Theresia Namingia,MiFiMa,35.0,F,6,2018.0,Pomerini
+920,8668,Rehema Kutika,MiFiMa,35.0,F,7,2018.0,Pomerini
+921,8669,Erina Kadafu,MiFiMa,60.0,F,1,2018.0,Pomerini
+922,8670,Kisa Mwaifiga,MiFiMa,37.0,F,4,2018.0,Pomerini
+923,8671,Margaret Chang'a,MiFiMa,25.0,F,6,2018.0,Pomerini
+924,8672,Sara Mbwilo,MiFiMa,30.0,F,4,2018.0,Pomerini
+925,8673,Femia Msigala,MiFiMa,53.0,F,6,2018.0,Pomerini
+926,8674,Letisia Mwinyi,MiFiMa,50.0,F,6,2018.0,Pomerini
+927,8675,Leuda Uggi,MiFiMa,21.0,F,3,2018.0,Pomerini
+928,8676,Naemi Msungu,MiFiMa,48.0,F,6,2018.0,Pomerini
+929,8677,Janeti Kinyamaoha,MiFiMa,27.0,F,2,2018.0,Pomerini
+930,8678,Amidu Kikoti,MiFiMa,32.0,M,4,2018.0,Pomerini
+931,8679,Fausta Mahenge,MiFiMa,27.0,F,3,2018.0,Pomerini
+932,8680,Beth Kilangi,MiFiMa,37.0,F,3,2018.0,Pomerini
+933,8681,Paineto Mgata,MiFiMa,19.0,F,4,2018.0,Pomerini
+934,8682,Almanyisio Dembe,MiFiMa,40.0,M,1,2018.0,Pomerini
+935,8683,Deokara Minuka,MiFiMa,26.0,F,5,2018.0,Pomerini
+936,8684,Baraka Mgata,MiFiMa,27.0,M,6,2018.0,Pomerini
+937,8685,Flaviana Mbepela,MiFiMa,34.0,F,4,2018.0,Pomerini
+938,8686,Aulelia Kadinde,MiFiMa,45.0,F,6,2018.0,Pomerini
+939,8687,Kostanzia Mlangwa,MiFiMa,61.0,F,5,2018.0,Pomerini
+940,8688,Abibu Mbilinyi,MiFiMa,37.0,M,3,2018.0,Pomerini
+941,8689,Beatrice Kikoti,MiFiMa,26.0,F,6,2018.0,Pomerini
+942,8690,Neema Luvinga,MiFiMa,23.0,F,1,2018.0,Pomerini
+943,8691,Rehema Kasimba (prestito 2 ciclo 2),MiFiMa,56.0,F,4,2018.0,Pomerini
+944,8692,Tumaini Chaula (prestito 2 ciclo 2),MiFiMa,27.0,M,0,2018.0,Pomerini
+945,8693,Anjelista Kihongozi (prestito 2 ciclo 2),MiFiMa,56.0,F,6,2018.0,Pomerini
+946,8694,Kalson Kigula,MiFiMa,21.0,M,2,2018.0,Pomerini
+947,8695,Anjela Kigula,MiFiMa,30.0,F,4,2018.0,Pomerini
+948,8696,Anna Masasi,MiFiMa,45.0,F,6,2018.0,Pomerini
+949,8697,Lepida Kipingi,MiFiMa,20.0,F,1,2018.0,Pomerini
+950,8698,Alfema Msavi,MiFiMa,30.0,F,4,2018.0,Pomerini
+951,8699,Atulina Msavi,MiFiMa,46.0,F,5,2018.0,Pomerini
+952,8700,Jobbu Magedenge,MiFiMa,35.0,M,5,2018.0,Pomerini
+953,8701,Maiko Dembe,MiFiMa,61.0,M,4,2018.0,Pomerini
+954,8702,Alanosa Chongolo,MiFiMa,78.0,F,4,2018.0,Pomerini
+955,8703,Grasiana Chuila,Mwalimu,18.0,F,0,2018.0,Pomerini
+956,8704,Meckson Sebastian,Mwalimu,19.0,M,6,2018.0,Pomerini
+957,8705,Immanuel Milinga,Mwalimu,23.0,M,3,2018.0,Pomerini
+958,8706,Mastidia Sebastian,Mwalimu,20.0,F,6,2019.0,Pomerini
+959,8707,Paulo Chang'a,Mwalimu,18.0,M,6,2018.0,Pomerini
+960,8708,Haruni Mandike,Mwalimu,20.0,M,7,2017.0,Pomerini
+961,8709,Lenansia ,Mwalimu,18.0,F,6,2017.0,Pomerini
+962,8710,Amalia Tosi,Mwalimu,22.0,F,3,2020.0,Pomerini
+963,8711,Grace Ahmedi,Mwalimu,19.0,F,6,2020.0,Pomerini
+964,8712,Sazikia Sanga,Mwalimu,19.0,F,1,2021.0,Pomerini
+965,8713,Eva Kihongozi,Mwalimu,22.0,F,3,2021.0,Pomerini
+966,8714,Regina  ,Mwalimu,23.0,F,4,2022.0,Pomerini
+967,8715,Neema,Mwalimu,18.0,F,6,2022.0,Pomerini
+968,8716,Maruko Mpalanzi,PiantalaSubito,14.0,M,1,2019.0,Pomerini
+969,8717,Habbas Muhame,PiantalaSubito,12.0,M,7,2019.0,Pomerini
+970,8718,Ibrahim Mwinyi,PiantalaSubito,13.0,M,6,2019.0,Pomerini
+971,8719,Daniel Nyelezi,PiantalaSubito,14.0,M,4,2019.0,Pomerini
+972,8720,Luka Kagalikwa,PiantalaSubito,12.0,M,3,2019.0,Pomerini
+973,8721,Sosteni Mwigani,PiantalaSubito,13.0,F,7,2019.0,Pomerini
+974,8722,Abeli Kombo,PiantalaSubito,13.0,F,1,2019.0,Pomerini
+975,8723,Stephano Mgata,PiantalaSubito,13.0,M,3,2019.0,Pomerini
+976,8724,John Nyelezi,PiantalaSubito,13.0,M,4,2019.0,Pomerini
+977,8725,Enok Masaki,PiantalaSubito,14.0,M,2,2019.0,Pomerini
+978,8726,Zakayo Chongolo,PiantalaSubito,14.0,M,5,2019.0,Pomerini
+979,8727,Thomas Nyanganane,PiantalaSubito,12.0,M,6,2019.0,Pomerini
+980,8728,Watson Dembe,PiantalaSubito,15.0,M,6,2019.0,Pomerini
+981,8729,Rozy Mpempwe,PiantalaSubito,12.0,F,5,2019.0,Pomerini
+982,8730,Belinda Mwinyi,PiantalaSubito,12.0,F,5,2019.0,Pomerini
+983,8731,Akram Geni,PiantalaSubito,5.0,M,7,2019.0,Pomerini
+984,8732,Etness Chang'a,PiantalaSubito,13.0,F,7,2019.0,Pomerini
+985,8733,Tamari Dembe,PiantalaSubito,13.0,F,6,2019.0,Pomerini
+986,8734,Atness Mwinyi,PiantalaSubito,14.0,F,2,2019.0,Pomerini
+987,8735,Wema Chang'a,PiantalaSubito,13.0,M,3,2019.0,Pomerini
+988,8736,Akhmed Geni,PiantalaSubito,7.0,M,4,2019.0,Pomerini
+989,8737,Angel Mandola,PiantalaSubito,12.0,F,2,2019.0,Pomerini
+990,8738,Gloria Mbegalo,PiantalaSubito,13.0,F,4,2019.0,Pomerini
+991,8739,Elda Ubamba,PiantalaSubito,13.0,F,4,2019.0,Pomerini
+992,8740,Zula Mchenge,PiantalaSubito,13.0,F,6,2019.0,Pomerini
+993,8741,Theofrida Kisitu,PiantalaSubito,13.0,F,7,2019.0,Pomerini
+994,8742,Hanifa Mahawile,PiantalaSubito,13.0,F,2,2019.0,Pomerini
+995,8743,Regina Tula,PiantalaSubito,12.0,F,4,2019.0,Pomerini
+996,8744,Witness Mkenze,PiantalaSubito,13.0,F,5,2019.0,Pomerini
+997,8745,Karoli Mchanga,PiantalaSubito,13.0,F,2,2019.0,Pomerini
+998,8746,Ema Mgata,PiantalaSubito,13.0,F,5,2019.0,Pomerini
+999,8747,Witness Chuma,PiantalaSubito,13.0,F,3,2019.0,Pomerini
+1000,8748,Schola Msigala,PiantalaSubito,13.0,F,2,2019.0,Pomerini
+1001,8749,Ayubu Chuma,PiantalaSubito,15.0,M,2,2019.0,Pomerini
+1002,8750,Betweli Magedenge,PiantalaSubito,14.0,M,3,2019.0,Pomerini
+1003,8751,Telani Mwitula,PiantalaSubito,14.0,F,6,2019.0,Pomerini
+1004,8752,Luka Mponzi,PiantalaSubito,14.0,M,3,2019.0,Pomerini
+1005,8753,Stephania Mkolongo,PiantalaSubito,5.0,F,4,2019.0,Pomerini
+1006,8754,Bernadetha Kolman,PiantalaSubito,6.0,F,4,2019.0,Pomerini
+1007,8755,Epiphania Kolman,PiantalaSubito,10.0,F,2,2019.0,Pomerini
+1008,8756,Rebeca Kisoma,PiantalaSubito,12.0,F,6,2019.0,Pomerini
+1009,8757,Glory Mwinyi,PiantalaSubito,4.0,F,4,2019.0,Pomerini
+1010,8758,Joffrey Msigwa,PiantalaSubito,4.0,M,3,2019.0,Pomerini
+1011,8759,Niko Mnyalape,PiantalaSubito,4.0,M,2,2019.0,Pomerini
+1012,8760,Flaviana Kalinga,PiantalaSubito,4.0,F,7,2019.0,Pomerini
+1013,8761,Steven Msosi,PiantalaSubito,4.0,M,5,2019.0,Pomerini
+1014,8762,Neema Mwinyi,PiantalaSubito,12.0,F,1,2019.0,Pomerini
+1015,8763,Vivian Kalolo,PiantalaSubito,11.0,F,6,2019.0,Pomerini
+1016,8764,Yusuphu Magedenge,PiantalaSubito,13.0,M,6,2019.0,Pomerini
+1017,8765,Valentina Kihanga,PiantalaSubito,12.0,F,4,2019.0,Pomerini
+1018,8766,Blaim Msaga,PiantalaSubito,11.0,F,2,2019.0,Pomerini
+1019,8767,Edmeston Kisoma,PiantalaSubito,11.0,M,2,2019.0,Pomerini
+1020,8768,Kastor Mwinyi,PiantalaSubito,13.0,M,1,2019.0,Pomerini
+1021,8769,Janeti Mbega,PiantalaSubito,13.0,F,5,2019.0,Pomerini
+1022,8770,Happy Mewa,PiantalaSubito,13.0,F,2,2019.0,Pomerini
+1023,8771,Paolina Chuila,PiantalaSubito,12.0,F,5,2019.0,Pomerini
+1024,8772,Kornelia Mwinyi,PiantalaSubito,13.0,F,4,2019.0,Pomerini
+1025,8773,Happy Mtati,PiantalaSubito,13.0,F,6,2019.0,Pomerini
+1026,8774,Salome Chuila,PiantalaSubito,13.0,F,2,2019.0,Pomerini
+1027,8775,Joshua Mpogole,PiantalaSubito,13.0,M,4,2019.0,Pomerini
+1028,8776,Messia Magedenge,PiantalaSubito,13.0,M,4,2019.0,Pomerini
+1029,8777,Tusekile Chang'a,PiantalaSubito,11.0,M,6,2019.0,Pomerini
+1030,8778,Jovin Benda,PiantalaSubito,16.0,M,6,2019.0,Pomerini
+1031,8779,Malaki Chuma,PiantalaSubito,13.0,M,2,2019.0,Pomerini
+1032,8780,Nelly Tewele,PiantalaSubito,14.0,F,1,2019.0,Pomerini
+1033,8781,Mary Kiwone,PiantalaSubito,11.0,F,3,2019.0,Pomerini
+1034,8782,Isak Chuma,PiantalaSubito,12.0,M,6,2019.0,Pomerini
+1035,8783,Ahabu Kilave,PiantalaSubito,14.0,M,5,2019.0,Pomerini
+1036,8784,Happy Katindasi,PiantalaSubito,13.0,F,3,2019.0,Pomerini
+1037,8785,Susana Mponzi,PiantalaSubito,13.0,F,7,2019.0,Pomerini
+1038,8786,Krista Nunuli,PiantalaSubito,13.0,F,6,2019.0,Pomerini
+1039,8787,Asha Kasuge,PiantalaSubito,13.0,F,5,2019.0,Pomerini
+1040,8788,Melina Mugumu,PiantalaSubito,15.0,F,5,2019.0,Pomerini
+1041,8789,Yusuphu Mgata,PiantalaSubito,14.0,M,3,2019.0,Pomerini
+1042,8790,Venasi Mtati,PiantalaSubito,14.0,F,5,2019.0,Pomerini
+1043,8791,Festo Mwinyi,PiantalaSubito,13.0,M,5,2019.0,Pomerini
+1044,8792,Petro Mgova,PiantalaSubito,13.0,M,6,2019.0,Pomerini
+1045,8793,Sagley Kihao,PiantalaSubito,13.0,F,6,2019.0,Pomerini
+1046,8794,Sofia Ngoda,PiantalaSubito,13.0,F,0,2019.0,Pomerini
+1047,8795,Marry Kisoma,PiantalaSubito,12.0,F,3,2019.0,Pomerini
+1048,8796,Hadija Chang'a,PiantalaSubito,13.0,F,4,2019.0,Pomerini
+1049,8797,Rehema Chuma,PiantalaSubito,13.0,F,3,2019.0,Pomerini
+1050,8798,Demetra Kadinde,PiantalaSubito,13.0,F,0,2019.0,Pomerini
+1051,8799,Rehema Chang'a,PiantalaSubito,11.0,F,5,2019.0,Pomerini
+1052,8800,Giani Mwagama,PiantalaSubito,13.0,M,3,2019.0,Pomerini
+1053,8801,Mariam Chang'a,PiantalaSubito,13.0,F,7,2019.0,Pomerini
+1054,8802,Avelida Chang'a,PiantalaSubito,11.0,F,6,2019.0,Pomerini
+1055,8803,Nickson Fiveni,PiantalaSubito,14.0,M,6,2019.0,Pomerini
+1056,8804,Edo Kivembela,PiantalaSubito,11.0,M,2,2019.0,Pomerini
+1057,8805,Sofia Mgovano,PiantalaSubito,13.0,F,6,2019.0,Pomerini
+1058,8806,Betia Kisoma,PiantalaSubito,13.0,F,4,2019.0,Pomerini
+1059,8807,Bonifasi Tenga,PiantalaSubito,11.0,M,6,2019.0,Pomerini
+1060,8808,Clemenci Kihanzi,PiantalaSubito,13.0,F,2,2019.0,Pomerini
+1061,8809,Zawadi Mwita,PiantalaSubito,12.0,M,5,2019.0,Pomerini
+1062,8810,Petro Kisoma,PiantalaSubito,13.0,M,5,2019.0,Pomerini
+1063,8811,Wilbath Chuhila,PiantalaSubito,14.0,M,1,2019.0,Pomerini
+1064,8812,Yustina Sanga,PiantalaSubito,14.0,F,5,2019.0,Pomerini
+1065,8813,Alfonce Kalolo,PiantalaSubito,12.0,M,2,2019.0,Pomerini
+1066,8814,Goodluck Kivamba,PiantalaSubito,13.0,M,6,2019.0,Pomerini
+1067,8815,Gifti Msula,PiantalaSubito,15.0,F,6,2019.0,Pomerini
+1068,8816,Laki Fungo,PiantalaSubito,15.0,F,3,2019.0,Pomerini
+1069,8817,Zabron Kihaka,PiantalaSubito,13.0,M,4,2019.0,Pomerini
+1070,8818,Jemsi Kagine,PiantalaSubito,14.0,F,1,2019.0,Pomerini
+1071,8819,Diana Msula,PiantalaSubito,12.0,F,3,2019.0,Pomerini
+1072,8820,Rosemery Kahemela,PiantalaSubito,12.0,F,5,2019.0,Pomerini
+1073,8821,Sarah Sanga,PiantalaSubito,12.0,F,0,2019.0,Pomerini
+1074,8822,Benedeta Mwinyi,PiantalaSubito,12.0,F,2,2019.0,Pomerini
+1075,8823,Rael Mhavile,PiantalaSubito,12.0,F,3,2019.0,Pomerini
+1076,8824,Edina Kihaka,PiantalaSubito,13.0,F,5,2019.0,Pomerini
+1077,8825,Jenifa Mgavihenga,PiantalaSubito,11.0,F,3,2019.0,Pomerini
+1078,8826,Irine Chang'a,PiantalaSubito,12.0,F,1,2019.0,Pomerini
+1079,8827,Samson Kivamba,PiantalaSubito,12.0,M,3,2019.0,Pomerini
+1080,8828,Ziada Mdimbwa,PiantalaSubito,12.0,F,3,2019.0,Pomerini
+1081,8829,Agrey Fyumagwa,PiantalaSubito,12.0,M,2,2019.0,Pomerini
+1082,8830,Jhon Mgova,PiantalaSubito,11.0,M,4,2019.0,Pomerini
+1083,8831,Juni Kihongozi,PiantalaSubito,12.0,F,4,2019.0,Pomerini
+1084,8832,Zena Chang'a,PiantalaSubito,15.0,F,6,2019.0,Pomerini
+1085,8833,Debora Mandike,PiantalaSubito,10.0,F,6,2019.0,Pomerini
+1086,8834,Rehema Mhanga,PiantalaSubito,10.0,F,3,2019.0,Pomerini
+1087,8835,Jastine Chang'a,PiantalaSubito,13.0,F,6,2019.0,Pomerini
+1088,8836,Efeso Kaguo,PiantalaSubito,11.0,M,3,2019.0,Pomerini
+1089,8837,Queen Chang'a,PiantalaSubito,9.0,F,0,2019.0,Pomerini
+1090,8838,Vailethy Chang'a,PiantalaSubito,12.0,F,6,2019.0,Pomerini
+1091,8839,Yames Kivamba ,PiantalaSubito,12.0,M,2,2019.0,Pomerini
+1092,8840,Imma Kingamagana,PiantalaSubito,12.0,F,5,2019.0,Pomerini
+1093,8841,Atupache Kinaka,PiantalaSubito,12.0,F,8,2019.0,Pomerini
+1094,8842,Agreson Katindasa,PiantalaSubito,9.0,M,6,2019.0,Pomerini
+1095,8843,Abisai Chongolo,PiantalaSubito,10.0,M,6,2019.0,Pomerini
+1096,8844,Erick Msaga,PiantalaSubito,9.0,M,4,2019.0,Pomerini
+1097,8845,Enock Mwakilachile,PiantalaSubito,9.0,M,1,2019.0,Pomerini
+1098,8846,Eliana Chang'a,PiantalaSubito,14.0,F,4,2019.0,Pomerini
+1099,8847,Kelvin Mwinyi,PiantalaSubito,12.0,M,4,2019.0,Pomerini
+1100,8848,Amosi Kinyamaga,PiantalaSubito,12.0,F,2,2019.0,Pomerini
+1101,8849,Hamisi Kikoti,PiantalaSubito,12.0,M,3,2019.0,Pomerini
+1102,8850,Elia Mkenge,PiantalaSubito,12.0,M,4,2019.0,Pomerini
+1103,8851,Dario Chuila,PiantalaSubito,13.0,M,6,2019.0,Pomerini
+1104,8852,Josoni Kadinde,PiantalaSubito,7.0,M,6,2019.0,Pomerini
+1105,8853,Braiton Mwinyi,PiantalaSubito,8.0,M,1,2019.0,Pomerini
+1106,8854,Firibeti Mponzi,PiantalaSubito,8.0,F,4,2019.0,Pomerini
+1107,8855,Domi Biseko,PiantalaSubito,7.0,F,1,2019.0,Pomerini
+1108,8856,Nasani Kahemela,PiantalaSubito,7.0,M,7,2019.0,Pomerini
+1109,8857,Goodrack Nyamba,PiantalaSubito,7.0,M,3,2019.0,Pomerini
+1110,8858,Braitoni Mbeale,PiantalaSubito,8.0,F,5,2019.0,Pomerini
+1111,8859,Crinton Maginga,PiantalaSubito,8.0,M,3,2019.0,Pomerini
+1112,8860,Neema Luwago,PiantalaSubito,9.0,F,3,2019.0,Pomerini
+1113,8861,Ratifa Kihongozi,PiantalaSubito,9.0,F,3,2019.0,Pomerini
+1114,8862,Mikolina Kalolo,PiantalaSubito,9.0,F,5,2019.0,Pomerini
+1115,8863,VIcenti Chuma,PiantalaSubito,13.0,M,7,2019.0,Pomerini
+1116,8864,Albeto Kalolo,PiantalaSubito,13.0,M,4,2019.0,Pomerini
+1117,8865,Careni Chang'a,PiantalaSubito,8.0,F,2,2019.0,Pomerini
+1118,8866,Upendo Ngulo,PiantalaSubito,8.0,M,4,2019.0,Pomerini
+1119,8867,Sara Chang'a,PiantalaSubito,9.0,F,2,2019.0,Pomerini
+1120,8868,Apolinali Mpalanzi,PiantalaSubito,12.0,F,3,2019.0,Pomerini
+1121,8869,Erina Katindasa,PiantalaSubito,10.0,F,1,2019.0,Pomerini
+1122,8870,Shedrack Mijina,PiantalaSubito,12.0,M,4,2019.0,Pomerini
+1123,8871,Atocha Chang'a,PiantalaSubito,8.0,M,4,2019.0,Pomerini
+1124,8872,Lalolina Mwinyi,PiantalaSubito,9.0,F,5,2019.0,Pomerini
+1125,8873,Helena Mwinyi,PiantalaSubito,9.0,F,4,2019.0,Pomerini
+1126,8874,Ezekia Mwinyi,PiantalaSubito,8.0,M,5,2019.0,Pomerini
+1127,8875,Venanto Mgova,PiantalaSubito,11.0,M,1,2019.0,Pomerini
+1128,8876,Neves Chama,PiantalaSubito,8.0,F,3,2019.0,Pomerini
+1129,8877,Sherla Mgoba,PiantalaSubito,8.0,F,5,2019.0,Pomerini
+1130,8878,Daniel Msigala,PiantalaSubito,8.0,M,3,2019.0,Pomerini
+1131,8879,Timotheo Mgatha,PiantalaSubito,8.0,M,2,2019.0,Pomerini
+1132,8880,Zabroni Mhame,PiantalaSubito,8.0,M,2,2019.0,Pomerini
+1133,8881,Droguba Msigala,PiantalaSubito,12.0,F,6,2019.0,Pomerini
+1134,8882,Junio Msaga,PiantalaSubito,11.0,M,6,2019.0,Pomerini
+1135,8883,Edwini Mhadisa,PiantalaSubito,11.0,M,3,2019.0,Pomerini
+1136,8884,Stuati Mgina,PiantalaSubito,9.0,M,4,2019.0,Pomerini
+1137,8885,Aleni Ndale,PiantalaSubito,9.0,M,1,2019.0,Pomerini
+1138,8886,Given Mayuta,PiantalaSubito,13.0,M,3,2019.0,Pomerini
+1139,8887,Asha Chongolo,PiantalaSubito,12.0,F,0,2019.0,Pomerini
+1140,8888,Anjira Chongolo,PiantalaSubito,13.0,F,3,2019.0,Pomerini
+1141,8889,Franci Nyawire,PiantalaSubito,13.0,F,3,2019.0,Pomerini
+1142,8890,Greison Naminga,PiantalaSubito,12.0,M,5,2019.0,Pomerini
+1143,8891,Samweli Mnyagani,PiantalaSubito,12.0,M,5,2019.0,Pomerini
+1144,8892,Kefa Chuma,PiantalaSubito,14.0,F,2,2019.0,Pomerini
+1145,8893,Samueli Magedenge,PiantalaSubito,10.0,M,6,2019.0,Pomerini
+1146,8894,Iblahim Kalumila,PiantalaSubito,13.0,M,3,2019.0,Pomerini
+1147,8895,Meshak Muenesi,PiantalaSubito,7.0,M,6,2019.0,Pomerini
+1148,8896,Bettsaida Chang'a,PiantalaSubito,10.0,F,6,2019.0,Pomerini
+1149,8897,Neema Hassan,PiantalaSubito,7.0,F,3,2019.0,Pomerini
+1150,8898,Eneste Mndia,PiantalaSubito,11.0,M,4,2019.0,Pomerini
+1151,8899,Elisha Mgaya,PiantalaSubito,7.0,F,7,2019.0,Pomerini
+1152,8900,Stivin Chuma,PiantalaSubito,10.0,M,5,2019.0,Pomerini
+1153,8901,Imanuel Kadinde,PiantalaSubito,11.0,M,4,2019.0,Pomerini
+1154,8902,Baraka Kilare,PiantalaSubito,9.0,F,3,2019.0,Pomerini
+1155,8903,Vedasto Ngungile,PiantalaSubito,9.0,M,2,2019.0,Pomerini
+1156,8904,Stephano Nziku,PiantalaSubito,8.0,M,1,2019.0,Pomerini
+1157,8905,Prospa Chengula,PiantalaSubito,8.0,F,5,2019.0,Pomerini
+1158,8906,Diana Msigara,PiantalaSubito,12.0,F,4,2019.0,Pomerini
+1159,8907,Daniel Lusuka,PiantalaSubito,12.0,M,6,2019.0,Pomerini
+1160,8908,Hamza Kutika,PiantalaSubito,14.0,F,4,2019.0,Pomerini
+1161,8909,Kelvin Chang'a,PiantalaSubito,11.0,M,2,2019.0,Pomerini
+1162,8910,Devinus Kupeni,PiantalaSubito,13.0,M,5,2019.0,Pomerini
+1163,8911,Princess Msaga,PiantalaSubito,12.0,F,0,2019.0,Pomerini
+1164,8912,Loveness Mgatha,PiantalaSubito,10.0,F,2,2019.0,Pomerini
+1165,8913,Jemsi Mhame,PiantalaSubito,10.0,F,5,2019.0,Pomerini
+1166,8914,Erik Kisoma,PiantalaSubito,9.0,M,5,2019.0,Pomerini
+1167,8915,Musa Ruginire,PiantalaSubito,11.0,F,4,2019.0,Pomerini
+1168,8916,Emiliana Mpagike,PiantalaSubito,11.0,F,6,2019.0,Pomerini
+1169,8917,Allen Katindasa,PiantalaSubito,14.0,M,5,2019.0,Pomerini
+1170,8918,Elisha Kadinde,PiantalaSubito,12.0,F,2,2019.0,Pomerini
+1171,8919,Joynett Ngang'uma,PiantalaSubito,11.0,M,6,2019.0,Pomerini
+1172,8920,Noeli Kiyeyeu,PiantalaSubito,14.0,F,6,2019.0,Pomerini
+1173,8921,Cristiani Kalinga,PiantalaSubito,9.0,F,5,2019.0,Pomerini
+1174,8922,Evana Mwingila,PiantalaSubito,7.0,F,3,2019.0,Pomerini
+1175,8923,Godwile Mkabe,PiantalaSubito,14.0,F,3,2019.0,Pomerini
+1176,8924,Ahazi Mwitula,PiantalaSubito,14.0,F,5,2019.0,Pomerini
+1177,8925,Jafari Magedenge,PiantalaSubito,13.0,M,6,2019.0,Pomerini
+1178,8926,Josephu Huseni,PiantalaSubito,12.0,M,3,2019.0,Pomerini
+1179,8927,Franco Mhenzi,PiantalaSubito,12.0,M,4,2019.0,Pomerini
+1180,8928,Apolo Mkenza ,PiantalaSubito,12.0,M,3,2019.0,Pomerini
+1181,8929,Alex Kadinde,PiantalaSubito,9.0,M,4,2019.0,Pomerini
+1182,8930,Tumu Nyamwa,PiantalaSubito,11.0,M,3,2019.0,Pomerini
+1183,8931,Crivodi Kisoma,PiantalaSubito,6.0,F,3,2019.0,Pomerini
+1184,8932,Dorisi Chuma,PiantalaSubito,9.0,F,2,2019.0,Pomerini
+1185,8933,Fathma Mwinyi,PiantalaSubito,11.0,F,6,2019.0,Pomerini
+1186,8934,Sophia Mponzi,PiantalaSubito,12.0,F,5,2019.0,Pomerini
+1187,8935,Jemsi Kigwale,PiantalaSubito,12.0,F,6,2019.0,Pomerini
+1188,8936,Prince Msaga,PiantalaSubito,12.0,M,2,2019.0,Pomerini
+1189,8937,Regneti Kiyao,PiantalaSubito,11.0,F,6,2019.0,Pomerini
+1190,8938,Elizabeth Msaga,PiantalaSubito,12.0,F,4,2019.0,Pomerini
+1191,8939,Abiba Mwinyi,PiantalaSubito,11.0,F,4,2019.0,Pomerini
+1192,8940,Kelvin Msigala,PiantalaSubito,11.0,M,5,2019.0,Pomerini
+1193,8941,Miliam Kadinde,PiantalaSubito,12.0,F,2,2019.0,Pomerini
+1194,8942,Sarome Chang'a,PiantalaSubito,12.0,M,3,2019.0,Pomerini
+1195,8943,Agresiana Ulanga,PiantalaSubito,12.0,F,6,2019.0,Pomerini
+1196,8944,Elishana Ngangange,PiantalaSubito,14.0,F,2,2019.0,Pomerini
+1197,8945,Kelson Nanuli,PiantalaSubito,12.0,M,3,2019.0,Pomerini
+1198,8946,Sofia Mgungile,PiantalaSubito,11.0,F,4,2019.0,Pomerini
+1199,8947,Happy Kichumbe,PiantalaSubito,12.0,F,7,2019.0,Pomerini
+1200,8948,Samweli Chang'a,PiantalaSubito,11.0,M,3,2019.0,Pomerini
+1201,8949,Betisada Kalolo,PiantalaSubito,11.0,F,6,2019.0,Pomerini
+1202,8950,Edison Gadau,PiantalaSubito,10.0,M,4,2019.0,Pomerini
+1203,8951,Jofley Mwinyi,PiantalaSubito,11.0,M,4,2019.0,Pomerini
+1204,8952,Elia Kiyeyeu,PiantalaSubito,10.0,M,7,2019.0,Pomerini
+1205,8953,Roida Mwinyi,PiantalaSubito,13.0,F,4,2019.0,Pomerini
+1206,8954,Kyara Mwinyi,PiantalaSubito,13.0,F,6,2019.0,Pomerini
+1207,8955,Adelina Mwinyi,PiantalaSubito,9.0,F,4,2019.0,Pomerini
+1208,8956,Abedi Chang'a,PiantalaSubito,13.0,M,5,2019.0,Pomerini
+1209,8957,Baracka Msaga,PiantalaSubito,9.0,M,6,2019.0,Pomerini
+1210,8958,Rehema Nziku,PiantalaSubito,11.0,F,2,2019.0,Pomerini
+1211,8959,Adrea Chuma,PiantalaSubito,10.0,F,2,2019.0,Pomerini
+1212,8960,Flansisko Nyawile,PiantalaSubito,9.0,M,4,2019.0,Pomerini
+1213,8961,Happy Ndubaa,PiantalaSubito,8.0,F,6,2019.0,Pomerini
+1214,8962,Serenani Mgova,PiantalaSubito,9.0,F,6,2019.0,Pomerini
+1215,8963,Willbati Kagine,PiantalaSubito,12.0,M,6,2019.0,Pomerini
+1216,8964,Clara Kihongozi,PiantalaSubito,9.0,F,6,2019.0,Pomerini
+1217,8965,Abigael Sanga,PiantalaSubito,11.0,F,2,2019.0,Pomerini
+1218,8966,Goodrack Chuma,PiantalaSubito,8.0,M,5,2019.0,Pomerini
+1219,8967,Joeli Chuma,PiantalaSubito,8.0,M,6,2019.0,Pomerini
+1220,8968,Joshua Minja ,PiantalaSubito,12.0,M,1,2019.0,Pomerini
+1221,8969,Agustino Chang'a,PiantalaSubito,7.0,M,4,2019.0,Pomerini
+1222,8970,Juliana Kihongozi,PiantalaSubito,10.0,F,2,2019.0,Pomerini
+1223,8971,Ezekia Chang'a,PiantalaSubito,13.0,M,2,2019.0,Pomerini
+1224,8972,Lazaro Chavala,PiantalaSubito,10.0,M,6,2019.0,Pomerini
+1225,8973,Husseni Luginile,PiantalaSubito,9.0,M,6,2019.0,Pomerini
+1226,8974,Aneth Kaise,PiantalaSubito,12.0,F,4,2019.0,Pomerini
+1227,8975,Noeli Kisoma,PiantalaSubito,12.0,F,4,2019.0,Pomerini
+1228,8976,Keilin Kisoma,PiantalaSubito,12.0,F,6,2019.0,Pomerini
+1229,8977,Lightness Chuila,PiantalaSubito,11.0,F,6,2019.0,Pomerini
+1230,8978,Crisi Chuma,PiantalaSubito,13.0,F,2,2019.0,Pomerini
+1231,8979,Haruni Muhame,PiantalaSubito,10.0,M,6,2019.0,Pomerini
+1232,8980,Elizabeth Chongolo,PiantalaSubito,9.0,F,4,2019.0,Pomerini
+1233,8981,Verisco Kihongozi,PiantalaSubito,11.0,M,6,2019.0,Pomerini
+1234,8982,Efrem Kisoma ,PiantalaSubito,9.0,M,6,2019.0,Pomerini
+1235,8983,Divai Muhimba,PiantalaSubito,10.0,M,4,2019.0,Pomerini
+1236,8984,Michael Mwehenesi,PiantalaSubito,10.0,M,6,2019.0,Pomerini
+1237,8985,Crelia Kisoma,PiantalaSubito,12.0,F,3,2019.0,Pomerini
+1238,8986,Goodlove Kaberege,PiantalaSubito,12.0,F,6,2019.0,Pomerini
+1239,8987,Batromeo Kinyamagao,PiantalaSubito,11.0,M,5,2019.0,Pomerini
+1240,8988,Ahadi Kadinde,PiantalaSubito,10.0,F,2,2019.0,Pomerini
+1241,8989,Crever Mkenza,PiantalaSubito,10.0,M,1,2019.0,Pomerini
+1242,8990,Elivini Nyuanganane,PiantalaSubito,10.0,F,8,2019.0,Pomerini
+1243,8991,Merita Chuma,PiantalaSubito,10.0,F,2,2019.0,Pomerini
+1244,8992,Adelina Kalinga,PiantalaSubito,9.0,F,6,2019.0,Pomerini
+1245,8993,Rebeka Chang'a,PiantalaSubito,11.0,F,6,2019.0,Pomerini
+1246,8994,Paulo Kisoma,PiantalaSubito,12.0,M,4,2019.0,Pomerini
+1247,8995,Andrea Kihongozi,PiantalaSubito,9.0,M,6,2019.0,Pomerini
+1248,8996,Ratipha Kigwile,PiantalaSubito,9.0,F,7,2019.0,Pomerini
+1249,8997,Edison Mandere,PiantalaSubito,10.0,M,6,2019.0,Pomerini
+1250,8998,Elizabeth Kibwene,PiantalaSubito,10.0,F,7,2019.0,Pomerini
+1251,8999,Isaya Katikilo,PiantalaSubito,9.0,M,5,2019.0,Pomerini
+1252,9000,Valence Chang'a,PiantalaSubito,10.0,F,4,2019.0,Pomerini
+1253,9001,Christian Kahise,PiantalaSubito,11.0,M,3,2019.0,Pomerini
+1254,9002,Inocent Abdallah,PiantalaSubito,11.0,M,4,2019.0,Pomerini
+1255,9003,Hekima Chongolo,PiantalaSubito,10.0,F,6,2019.0,Pomerini
+1256,9004,Getrude Naminga,PiantalaSubito,9.0,F,6,2019.0,Pomerini
+1257,9005,Jenifa Kigae ,PiantalaSubito,10.0,F,4,2019.0,Pomerini
+1258,9006,Athnati Pascal,PiantalaSubito,8.0,M,5,2019.0,Pomerini
+1259,9007,Sesilia Nyumbi,PiantalaSubito,8.0,F,3,2019.0,Pomerini
+1260,9008,Ashlay Mandele,PiantalaSubito,9.0,F,6,2019.0,Pomerini
+1261,9009,Felisia Kihanza ,PiantalaSubito,9.0,M,5,2019.0,Pomerini
+1262,9010,Samson Kadinde ,PiantalaSubito,10.0,M,3,2019.0,Pomerini
+1263,9011,Okran Mgata,PiantalaSubito,12.0,M,4,2019.0,Pomerini
+1264,9012,Abelnego Mgata,PiantalaSubito,9.0,M,4,2019.0,Pomerini
+1265,9013,Neema Kalinga,PiantalaSubito,9.0,F,2,2019.0,Pomerini
+1266,9014,Mainda Kihongozi ,PiantalaSubito,11.0,F,5,2019.0,Pomerini
+1267,9015,Hamza Vihanzi,PiantalaSubito,11.0,M,4,2019.0,Pomerini
+1268,9016,Jenipha Chuila,PiantalaSubito,8.0,F,2,2019.0,Pomerini
+1269,9017,Hazina Nunuli,PiantalaSubito,10.0,F,4,2019.0,Pomerini
+1270,9018,Nesta Nyamba,PiantalaSubito,9.0,F,5,2019.0,Pomerini
+1271,9019,Nancy Chande ,PiantalaSubito,10.0,F,6,2019.0,Pomerini
+1272,9020,Anna Mgata,PiantalaSubito,10.0,F,6,2019.0,Pomerini
+1273,9021,Spora Mgata ,PiantalaSubito,9.0,M,1,2019.0,Pomerini
+1274,9022,Visenti Kisava ,PiantalaSubito,12.0,M,1,2019.0,Pomerini
+1275,9023,Clarina Kadinde,PiantalaSubito,13.0,F,4,2019.0,Pomerini
+1276,9024,Jenifa Mgaga,PiantalaSubito,13.0,F,3,2019.0,Pomerini
+1277,9025,Dorcas Kagine,PiantalaSubito,10.0,F,5,2019.0,Pomerini
+1278,9026,Norina Mgina,PiantalaSubito,11.0,F,4,2019.0,Pomerini
+1279,9027,Happy Maginga,PiantalaSubito,10.0,F,1,2019.0,Pomerini
+1280,9028,Mese Msuva ,PiantalaSubito,9.0,F,3,2019.0,Pomerini
+1281,9029,Richard Chang'a,PiantalaSubito,10.0,M,6,2019.0,Pomerini
+1282,9030,Redenta Kolmani,PiantalaSubito,10.0,F,4,2019.0,Pomerini
+1283,9031,Eliza Chuma,PiantalaSubito,9.0,F,4,2019.0,Pomerini
+1284,9032,Donald Kagine,PiantalaSubito,8.0,M,3,2019.0,Pomerini
+1285,9033,Anastazia Mponzi,PiantalaSubito,14.0,F,6,2019.0,Pomerini
+1286,9034,Vereinacy Fante,PiantalaSubito,13.0,M,6,2019.0,Pomerini
+1287,9035,Esta Kanini,PiantalaSubito,13.0,F,2,2019.0,Pomerini
+1288,9036,Devis Chang'a,PiantalaSubito,12.0,M,6,2019.0,Pomerini
+1289,9037,Diana Msigala,PiantalaSubito,10.0,F,8,2019.0,Pomerini
+1290,9038,Kathe Mwinyi,PiantalaSubito,9.0,F,2,2019.0,Pomerini
+1291,9039,Stefano Chavala,PiantalaSubito,9.0,M,2,2019.0,Pomerini
+1292,9040,Musa Mwinyi,PiantalaSubito,11.0,F,6,2019.0,Pomerini
+1293,9041,Juliana Uggi,PiantalaSubito,10.0,F,5,2019.0,Pomerini
+1294,9042,Clara Mponzi,PiantalaSubito,9.0,F,6,2019.0,Pomerini
+1295,9043,Liana Lungo,PiantalaSubito,9.0,F,6,2019.0,Pomerini
+1296,9044,Ester Gadali,PiantalaSubito,8.0,F,6,2019.0,Pomerini
+1297,9045,Mariam Mtati,PiantalaSubito,10.0,F,4,2019.0,Pomerini
+1298,9046,Laiza Kisoma,PiantalaSubito,9.0,F,5,2019.0,Pomerini
+1299,9047,Christian Mwiula,PiantalaSubito,9.0,M,7,2019.0,Pomerini
+1300,9048,Edda Kadinde ,PiantalaSubito,11.0,F,3,2019.0,Pomerini
+1301,9049,Neema Msola,PiantalaSubito,11.0,F,6,2019.0,Pomerini
+1302,9050,Mesia Ngimbo,PiantalaSubito,11.0,M,5,2019.0,Pomerini
+1303,9051,Jenifa Ubamba,PiantalaSubito,11.0,F,4,2019.0,Pomerini
+1304,9052,Donato Makala,PiantalaSubito,9.0,M,6,2019.0,Pomerini
+1305,9053,Ekzaveri Nyamba,PiantalaSubito,9.0,M,3,2019.0,Pomerini
+1306,9054,Neema Mtaaluma,PiantalaSubito,13.0,M,2,2019.0,Pomerini
+1307,9055,Shamimu Joli,PiantalaSubito,9.0,F,2,2019.0,Pomerini
+1308,9056,Nicolaus Kiswaga,PiantalaSubito,11.0,M,2,2019.0,Pomerini
+1309,9057,Agness Msemwa,PiantalaSubito,9.0,F,5,2019.0,Pomerini
+1310,9058,Belinda Kisoma,PiantalaSubito,9.0,F,3,2019.0,Pomerini
+1311,9059,Oliva Mwinyi,PiantalaSubito,9.0,F,4,2019.0,Pomerini
+1312,9060,Ajifa Kisoma,PiantalaSubito,11.0,F,3,2019.0,Pomerini
+1313,9061,Matha Mnyarare,PiantalaSubito,10.0,M,6,2019.0,Pomerini
+1314,9062,Daliana Chaula,PiantalaSubito,13.0,F,2,2019.0,Pomerini
+1315,9063,Gradness Mwinyi,PiantalaSubito,9.0,F,5,2019.0,Pomerini
+1316,9064,Flansisko Nyawile,PiantalaSubito,10.0,M,4,2019.0,Pomerini
+1317,9065,Guliana Kadinde,PiantalaSubito,13.0,F,1,2019.0,Pomerini
+1318,9066,Iniviolata Msaga,PiantalaSubito,12.0,F,4,2019.0,Pomerini
+1319,9067,Yunis Chuma,PiantalaSubito,13.0,M,5,2019.0,Pomerini
+1320,9068,Judith Mahavile,PiantalaSubito,12.0,F,1,2019.0,Pomerini
+1321,9069,Andrea Kasinga,PiantalaSubito,11.0,M,2,2019.0,Pomerini
+1322,9070,Fatima Mwinyi,PiantalaSubito,13.0,F,6,2019.0,Pomerini
+1323,9071,Barnaba Mwinyi,PiantalaSubito,15.0,M,6,2019.0,Pomerini
+1324,9072,Hosea Kikoti,PiantalaSubito,10.0,M,4,2019.0,Pomerini
+1325,9073,Hadija Muhehwa,PiantalaSubito,9.0,F,3,2019.0,Pomerini
+1326,9074,Devotha Pascal,PiantalaSubito,9.0,F,6,2019.0,Pomerini
+1327,9075,Jenifa Kisoma,PiantalaSubito,10.0,F,2,2019.0,Pomerini
+1328,9076,Rebeka Muhenzi,PiantalaSubito,9.0,F,6,2019.0,Pomerini
+1329,9077,Berekia Magedenge,PiantalaSubito,10.0,M,1,2019.0,Pomerini
+1330,9078,Natharin Kahemela,PiantalaSubito,6.0,F,4,2019.0,Pomerini
+1331,9079,Morin Nyomolelo,PiantalaSubito,7.0,F,4,2019.0,Pomerini
+1332,9080,Ezra Kadinde ,PiantalaSubito,7.0,M,7,2019.0,Pomerini
+1333,9081,Domic Biseko,PiantalaSubito,7.0,F,7,2019.0,Pomerini
+1334,9082,Criford Kisoma,PiantalaSubito,8.0,M,5,2019.0,Pomerini
+1335,9083,Sebastian Mwitula,PiantalaSubito,8.0,M,3,2019.0,Pomerini
+1336,9084,Braiti Mwinyi ,PiantalaSubito,7.0,F,4,2019.0,Pomerini
+1337,9085,Cristina Chang'a,PiantalaSubito,7.0,F,3,2019.0,Pomerini
+1338,9086,Naomi Dembe,PiantalaSubito,7.0,F,6,2019.0,Pomerini
+1339,9087,Helman Muhenzi ,PiantalaSubito,7.0,M,3,2019.0,Pomerini
+1340,9088,Lilian Lusuka ,PiantalaSubito,8.0,F,3,2019.0,Pomerini
+1341,9089,Angel Mwinyi,PiantalaSubito,7.0,F,3,2019.0,Pomerini
+1342,9090,Benadetha Mwinyi,PiantalaSubito,13.0,F,4,2019.0,Pomerini
+1343,9091,Diana Msula,PiantalaSubito,15.0,F,3,2019.0,Pomerini
+1344,9092,Faraja Mwinyi,PiantalaSubito,13.0,F,4,2019.0,Pomerini
+1345,9093,Zakayo Chavala,PiantalaSubito,7.0,M,6,2019.0,Pomerini
+1346,9094,Rosemary Kahemba,PiantalaSubito,13.0,F,5,2019.0,Pomerini
+1347,9095,Love Mwifiga,PiantalaSubito,7.0,F,6,2019.0,Pomerini
+1348,9096,Erick Kisoma,PiantalaSubito,8.0,M,5,2019.0,Pomerini
+1349,9097,Naomi Chuila,PiantalaSubito,7.0,F,4,2019.0,Pomerini
+1350,9098,Jeska Chang'a,PiantalaSubito,8.0,F,3,2019.0,Pomerini
+1351,9099,Wahadat Senkubo,PiantalaSubito,13.0,M,3,2019.0,Pomerini
+1352,9100,Neema Kinyamagha,PiantalaSubito,13.0,F,4,2019.0,Pomerini
+1353,9101,Samson Mai,PiantalaSubito,10.0,M,5,2019.0,Pomerini
+1354,9102,Agusta Kalinga,PiantalaSubito,7.0,F,4,2019.0,Pomerini
+1355,9103,Beatrice Kikoti,PiantalaSubito,13.0,F,3,2019.0,Pomerini
+1356,9104,Advela Mwinyi,PiantalaSubito,8.0,F,3,2019.0,Pomerini
+1357,9105,Mary Kihongozi,PiantalaSubito,8.0,F,1,2019.0,Pomerini
+1358,9106,Frida Katindasa,PiantalaSubito,7.0,F,3,2019.0,Pomerini
+1359,9107,Frola Sanga,PiantalaSubito,8.0,F,4,2019.0,Pomerini
+1360,9108,Edina Kihaka,PiantalaSubito,14.0,F,2,2019.0,Pomerini
+1361,9109,Konsolata Kalolo,PiantalaSubito,13.0,F,4,2019.0,Pomerini
+1362,9110,Alex Kadinde,PiantalaSubito,8.0,M,6,2019.0,Pomerini
+1363,9111,Enjo Kigahile,PiantalaSubito,13.0,M,1,2019.0,Pomerini
+1364,9112,Mariamu Chang'a,PiantalaSubito,7.0,F,5,2019.0,Pomerini
+1365,9113,Daniel Msigala,PiantalaSubito,8.0,M,6,2019.0,Pomerini
+1366,9114,Rahely Mhavile,PiantalaSubito,13.0,F,3,2019.0,Pomerini
+1367,9115,Ester Kanza,PiantalaSubito,12.0,F,5,2019.0,Pomerini
+1368,9116,Kalen Kinyamagha,PiantalaSubito,13.0,M,3,2019.0,Pomerini
+1369,9117,Winfrida Chengula,PiantalaSubito,13.0,F,3,2019.0,Pomerini
+1370,9118,Alumbila Nziku,PiantalaSubito,13.0,F,6,2019.0,Pomerini
+1371,9119,Sala Sanga,PiantalaSubito,14.0,F,4,2019.0,Pomerini
+1372,9120,Airini Sanga,PiantalaSubito,13.0,F,4,2019.0,Pomerini
+1373,9121,Agripina Mwinyi,PiantalaSubito,13.0,F,4,2019.0,Pomerini
+1374,9122,Debora Chang'a,PiantalaSubito,14.0,F,3,2019.0,Pomerini
+1375,9123,Musa Chang'a,PiantalaSubito,13.0,F,4,2019.0,Pomerini
+1376,9124,BRIJO MPESA,PiantalaSubito,11.0,M,3,2019.0,Pomerini
+1377,9125,Branka Msaga,PiantalaSubito,8.0,F,6,2019.0,Pomerini
+1378,9126,Abduli Kimbanka,PiantalaSubito,9.0,M,2,2019.0,Pomerini
+1379,9127,Zabron Mhame,PiantalaSubito,7.0,M,1,2019.0,Pomerini
+1380,9128,Agrita Kisoma,PiantalaSubito,7.0,F,6,2019.0,Pomerini
+1381,9129,Aisha Nunuli,PiantalaSubito,7.0,F,4,2019.0,Pomerini
+1382,9130,Neema Lugiare,PiantalaSubito,8.0,F,0,2019.0,Pomerini
+1383,9131,Silvia Kagombo,PiantalaSubito,8.0,F,1,2019.0,Pomerini
+1384,9132,Joviness Dembe,PiantalaSubito,8.0,F,1,2019.0,Pomerini
+1385,9133,Jesha Chuma,PiantalaSubito,9.0,F,2,2019.0,Pomerini
+1386,9134,Stephano Nziku,PiantalaSubito,8.0,M,4,2019.0,Pomerini
+1387,9135,Pelina Kisoma,PiantalaSubito,8.0,F,4,2019.0,Pomerini
+1388,9136,KIAUDI ALFANI,PiantalaSubito,12.0,M,2,2019.0,Pomerini
+1389,9137,BONIFASI MDIMBWA,PiantalaSubito,13.0,M,2,2019.0,Pomerini
+1390,9138,Saidi Omari,PiantalaSubito,12.0,F,0,2019.0,Pomerini
+1391,9139,Muziwe Muhidini,PiantalaSubito,8.0,M,6,2019.0,Pomerini
+1392,9140,Dynes Lusinde,PiantalaSubito,10.0,F,5,2019.0,Pomerini
+1393,9141,Mwinjuma Shabani,PiantalaSubito,8.0,M,6,2019.0,Pomerini
+1394,9142,Sifael Lusoko,PiantalaSubito,12.0,M,5,2019.0,Pomerini
+1395,9143,Ezekiel Kigava,PiantalaSubito,11.0,M,7,2019.0,Pomerini
+1396,9144,Ibrahim Kihongosi,PiantalaSubito,11.0,M,6,2019.0,Pomerini
+1397,9145,Teofilo Mkimbilile,PiantalaSubito,13.0,M,4,2019.0,Pomerini
+1398,9146,Ahmad Hassan,PiantalaSubito,8.0,M,3,2019.0,Pomerini
+1399,9147,Asha Mayunga,PiantalaSubito,9.0,F,7,2019.0,Pomerini
+1400,9148,Fildaus Hamisi,PiantalaSubito,9.0,M,6,2019.0,Pomerini
+1401,9149,Naitoa Kondo,PiantalaSubito,9.0,F,6,2019.0,Pomerini
+1402,9150,Halat Twahili,PiantalaSubito,9.0,M,6,2019.0,Pomerini
+1403,9151,Shamea Lusoko,PiantalaSubito,16.0,F,5,2019.0,Pomerini
+1404,9152,Keneth Mwafuga,PiantalaSubito,11.0,M,4,2019.0,Pomerini
+1405,9153,Marko Kivamba,PiantalaSubito,10.0,M,6,2019.0,Pomerini
+1406,9154,Erasto Namanga,PiantalaSubito,11.0,M,4,2019.0,Pomerini
+1407,9155,Stivin Nderwa,PiantalaSubito,12.0,M,3,2019.0,Pomerini
+1408,9156,Mikaeli Mlangwa,PiantalaSubito,11.0,M,4,2019.0,Pomerini
+1409,9157,Sara Chang'a,PiantalaSubito,10.0,F,4,2019.0,Pomerini
+1410,9158,Vincent Kisava,PiantalaSubito,12.0,M,4,2019.0,Pomerini
+1411,9159,Neema Luhwago,PiantalaSubito,9.0,F,5,2019.0,Pomerini
+1412,9160,Sheila Mgoba,PiantalaSubito,10.0,F,3,2019.0,Pomerini
+1413,9161,Abisai Chongolo,PiantalaSubito,12.0,M,4,2019.0,Pomerini
+1414,9162,Apolinali Mpalanzi,PiantalaSubito,12.0,M,6,2019.0,Pomerini
+1415,9163,Helena Mwinyi,PiantalaSubito,10.0,F,2,2019.0,Pomerini
+1416,9164,Abelnego Mgata,PiantalaSubito,10.0,M,2,2019.0,Pomerini
+1417,9165,Milfat Tamim,PiantalaSubito,8.0,M,3,2019.0,Pomerini
+1418,9166,Alen Ndale,PiantalaSubito,10.0,M,3,2019.0,Pomerini
+1419,9167,Osia Kikoti,PiantalaSubito,11.0,M,5,2019.0,Pomerini
+1420,9168,Noela Mgata,PiantalaSubito,10.0,F,6,2019.0,Pomerini
+1421,9169,Jumanne Musa,PiantalaSubito,12.0,M,3,2019.0,Pomerini
+1422,9170,Noel Benson,PiantalaSubito,10.0,M,4,2019.0,Pomerini
+1423,9171,Rajab Mwinyi,PiantalaSubito,8.0,M,6,2019.0,Pomerini
+1424,9172,Hosein Aly,PiantalaSubito,10.0,M,1,2019.0,Pomerini
+1425,9173,Martha Mnyalape,PiantalaSubito,10.0,F,2,2019.0,Pomerini
+1426,9174,Clara Mponzi,PiantalaSubito,11.0,F,5,2019.0,Pomerini
+1427,9175,Mwanamosi Mwadara,PiantalaSubito,10.0,F,4,2019.0,Pomerini
+1428,9176,Vailet Emanuel,PiantalaSubito,9.0,F,2,2019.0,Pomerini
+1429,9177,Aisha Yusuf,PiantalaSubito,9.0,F,8,2019.0,Pomerini
+1430,9178,Ashraf Fikiri,PiantalaSubito,9.0,M,6,2019.0,Pomerini
+1431,9179,Drogba Msigala,PiantalaSubito,12.0,M,3,2019.0,Pomerini
+1432,9180,Bakari Mwabara,PiantalaSubito,10.0,M,3,2019.0,Pomerini
+1433,9181,Ibrahim Mtoro,PiantalaSubito,10.0,M,6,2019.0,Pomerini
+1434,9182,Queen Chang'a,PiantalaSubito,10.0,F,3,2019.0,Pomerini
+1435,9183,Name1,TupoPamoja,2.5,F,6,2018.0,Pomerini
+1436,9184,Name2,TupoPamoja,2.0,M,4,2018.0,Pomerini
+1437,9185,Name3,TupoPamoja,1.5,F,5,2018.0,Pomerini
+1438,9186,Name4,TupoPamoja,2.0,M,6,2018.0,Pomerini
+1439,9187,Name5,TupoPamoja,2.0,F,5,2018.0,Pomerini
+1440,9188,Name6,TupoPamoja,2.0,F,7,2018.0,Pomerini
+1441,9189,Name7,TupoPamoja,2.5,F,2,2018.0,Pomerini
+1442,9190,Name8,TupoPamoja,1.5,M,4,2018.0,Pomerini
+1443,9191,Name9,TupoPamoja,4.0,F,4,2018.0,Pomerini
+1444,9192,Name10,TupoPamoja,3.5,M,3,2018.0,Pomerini
+1445,9193,Name11,TupoPamoja,3.5,F,6,2018.0,Pomerini
+1446,9194,Name12,TupoPamoja,3.5,F,4,2018.0,Pomerini
+1447,9195,Name13,TupoPamoja,2.5,F,3,2018.0,Pomerini
+1448,9196,Name14,TupoPamoja,3.5,F,0,2018.0,Pomerini
+1449,9197,Name15,TupoPamoja,1.5,F,6,2018.0,Pomerini
+1450,9198,Name16,TupoPamoja,2.0,F,3,2018.0,Pomerini
+1451,9199,Name17,TupoPamoja,3.0,M,6,2018.0,Pomerini
+1452,9200,Name18,TupoPamoja,1.5,M,5,2018.0,Pomerini
+1453,9201,Name19,TupoPamoja,3.5,M,2,2018.0,Pomerini
+1454,9202,Name20,TupoPamoja,2.5,M,5,2018.0,Pomerini
+1455,9203,Name21,TupoPamoja,2.5,M,5,2018.0,Pomerini
+1456,9204,Name22,TupoPamoja,3.5,F,4,2018.0,Pomerini
+1457,9205,Name23,TupoPamoja,3.5,M,4,2018.0,Pomerini
+1458,9206,Name24,TupoPamoja,3.5,M,6,2018.0,Pomerini
+1459,9207,Name25,TupoPamoja,3.0,M,1,2018.0,Pomerini
+1460,9208,Name26,TupoPamoja,4.0,F,2,2018.0,Pomerini
+1461,9209,Name27,TupoPamoja,4.0,F,6,2018.0,Pomerini
+1462,9210,Name28,TupoPamoja,1.5,M,4,2018.0,Pomerini
+1463,9211,Name29,TupoPamoja,2.5,F,4,2018.0,Pomerini
+1464,9212,Name30,TupoPamoja,2.5,F,5,2018.0,Pomerini
+1465,9213,Name31,TupoPamoja,2.0,F,6,2018.0,Pomerini
+1466,9214,Name32,TupoPamoja,3.5,F,4,2018.0,Pomerini
+1467,9215,Name33,TupoPamoja,2.5,F,2,2018.0,Pomerini
+1468,9216,Name34,TupoPamoja,2.5,M,6,2018.0,Pomerini
+1469,9217,Name35,TupoPamoja,4.0,F,3,2018.0,Pomerini
+1470,9218,Name36,TupoPamoja,2.0,F,2,2018.0,Pomerini
+1471,9219,Name37,TupoPamoja,3.5,M,4,2018.0,Pomerini
+1472,9220,Name38,TupoPamoja,4.0,F,6,2018.0,Pomerini
+1473,9221,Name1474,,90.0,M,1,,Pomerini
+1474,9222,Name1475,,9.0,M,2,,Pomerini
+1475,9223,Name1476,,14.0,F,1,,Pomerini
+1476,9224,Name1477,,10.0,M,4,,Pomerini
+1477,9225,Name1478,,8.0,F,5,,Pomerini
+1478,9226,Name1479,,14.0,F,6,,Pomerini
+1479,9227,Name1480,,13.0,F,3,,Pomerini
+1480,9228,Name1481,,13.0,M,1,,Pomerini
+1481,9229,Name1482,,35.0,M,3,,Pomerini
+1482,9230,Name1483,,14.0,M,4,,Pomerini
+1483,9231,Name1484,,9.0,M,4,,Pomerini
+1484,9232,Name1485,,4.0,M,3,,Pomerini
+1485,9233,Name1486,,22.0,F,5,,Pomerini
+1486,9234,Name1487,,40.0,M,5,,Pomerini
+1487,9235,Name1488,,12.0,F,5,,Pomerini
+1488,9236,Name1489,,10.0,M,0,,Pomerini
+1489,9237,Name1490,,26.0,F,3,,Pomerini
+1490,9238,Name1491,,14.0,F,3,,Pomerini
+1491,9239,Name1492,,9.0,M,5,,Pomerini
+1492,9240,Name1493,,11.0,F,3,,Pomerini
+1493,9241,Name1494,,12.0,F,6,,Pomerini
+1494,9242,Name1495,,31.0,F,3,,Pomerini
+1495,9243,Name1496,,8.0,M,6,,Pomerini
+1496,9244,Name1497,,13.0,F,5,,Pomerini
+1497,9245,Name1498,,56.0,F,0,,Pomerini
+1498,9246,Name1499,,13.0,F,6,,Pomerini
+1499,9247,Name1500,,9.0,F,6,,Pomerini
+1500,9248,Name1501,,21.0,F,2,,Pomerini
+1501,9249,Name1502,,10.0,M,3,,Pomerini
+1502,9250,Name1503,,14.0,M,2,,Pomerini
+1503,9251,Name1504,,4.0,F,3,,Pomerini
+1504,9252,Name1505,,23.0,F,5,,Pomerini
+1505,9253,Name1506,,35.0,F,6,,Pomerini
+1506,9254,Name1507,,8.0,M,4,,Pomerini
+1507,9255,Name1508,,13.0,F,2,,Pomerini
+1508,9256,Name1509,,13.0,M,4,,Pomerini
+1509,9257,Name1510,,13.0,F,4,,Pomerini
+1510,9258,Name1511,,9.0,M,2,,Pomerini
+1511,9259,Name1512,,60.0,F,3,,Pomerini
+1512,9260,Name1513,,78.0,F,3,,Pomerini
+1513,9261,Name1514,,12.0,F,2,,Pomerini
+1514,9262,Name1515,,56.0,F,5,,Pomerini
+1515,9263,Name1516,,9.0,M,2,,Pomerini
+1516,9264,Name1517,,11.0,F,2,,Pomerini
+1517,9265,Name1518,,23.0,F,6,,Pomerini
+1518,9266,Name1519,,13.0,F,3,,Pomerini
+1519,9267,Name1520,,75.0,M,3,,Pomerini
+1520,9268,Name1521,,38.0,F,6,,Pomerini
+1521,9269,Name1522,,56.0,F,3,,Pomerini
+1522,9270,Name1523,,10.0,M,5,,Pomerini
+1523,9271,Name1524,,28.0,F,6,,Pomerini
+1524,9272,Name1525,,7.0,M,6,,Pomerini
+1525,9273,Name1526,,11.0,F,6,,Pomerini
+1526,9274,Name1527,,7.0,F,5,,Pomerini
+1527,9275,Name1528,,13.0,F,4,,Pomerini
+1528,9276,Name1529,,13.0,M,6,,Pomerini
+1529,9277,Name1530,,40.0,M,2,,Pomerini
+1530,9278,Name1531,,13.0,F,1,,Pomerini
+1531,9279,Name1532,,12.0,F,3,,Pomerini
+1532,9280,Name1533,,13.0,F,4,,Pomerini
+1533,9281,Name1534,,12.0,F,5,,Pomerini
+1534,9282,Name1535,,13.0,M,2,,Pomerini
+1535,9283,Name1536,,13.0,F,5,,Pomerini
+1536,9284,Name1537,,46.0,F,6,,Pomerini
+1537,9285,Name1538,,13.0,F,6,,Pomerini
+1538,9286,Name1539,,11.0,F,1,,Pomerini
+1539,9287,Name1540,,12.0,M,4,,Pomerini
+1540,9288,Name1541,,75.0,F,4,,Pomerini
+1541,9289,Name1542,,12.0,M,4,,Pomerini
+1542,9290,Name1543,,23.0,F,2,,Pomerini
+1543,9291,Name1544,,40.0,F,0,,Pomerini
+1544,9292,Name1545,,11.0,F,4,,Pomerini
+1545,9293,Name1546,,41.0,M,2,,Pomerini
+1546,9294,Name1547,,13.0,F,3,,Pomerini
+1547,9295,Name1548,,25.0,M,3,,Pomerini
+1548,9296,Name1549,,12.0,M,4,,Pomerini
+1549,9297,Name1550,,8.0,F,2,,Pomerini
+1550,9298,Name1551,,49.0,M,1,,Pomerini
+1551,9299,Name1552,,9.0,M,3,,Pomerini
+1552,9300,Name1553,,9.0,F,5,,Pomerini
+1553,9301,Name1554,,56.0,M,6,,Pomerini
+1554,9302,Name1555,,9.0,F,1,,Pomerini
+1555,9303,Name1556,,12.0,M,4,,Pomerini
+1556,9304,Name1557,,12.0,F,4,,Pomerini
+1557,9305,Name1558,,12.0,F,2,,Pomerini
+1558,9306,Name1559,,35.0,F,4,,Pomerini
+1559,9307,Name1560,,35.0,F,1,,Pomerini
+1560,9308,Name1561,,12.0,M,8,,Pomerini
+1561,9309,Name1562,,12.0,F,5,,Pomerini
+1562,9310,Name1563,,12.0,F,4,,Pomerini
+1563,9311,Name1564,,16.0,M,5,,Pomerini
+1564,9312,Name1565,,8.0,F,5,,Pomerini
+1565,9313,Name1566,,13.0,F,8,,Pomerini
+1566,9314,Name1567,,20.0,M,3,,Pomerini
+1567,9315,Name1568,,12.0,F,6,,Pomerini
+1568,9316,Name1569,,13.0,F,6,,Pomerini
+1569,9317,Name1570,,9.0,M,3,,Pomerini
+1570,9318,Name1571,,8.0,M,6,,Pomerini
+1571,9319,Name1572,,37.0,F,6,,Pomerini
+1572,9320,Name1573,,12.0,M,3,,Pomerini
+1573,9321,Name1574,,9.0,F,3,,Pomerini
+1574,9322,Name1575,,11.0,M,3,,Pomerini
+1575,9323,Name1576,,11.0,M,3,,Pomerini
+1576,9324,Name1577,,8.0,F,6,,Pomerini
+1577,9325,Name1578,,12.0,M,4,,Pomerini
+1578,9326,Name1579,,12.0,M,3,,Pomerini
+1579,9327,Name1580,,11.0,F,1,,Pomerini
+1580,9328,Name1581,,12.0,F,5,,Pomerini
+1581,9329,Name1582,,13.0,F,5,,Pomerini
+1582,9330,Name1583,,13.0,F,6,,Pomerini
+1583,9331,Name1584,,60.0,F,5,,Pomerini
+1584,9332,Name1585,,11.0,M,4,,Pomerini
+1585,9333,Name1586,,40.0,M,3,,Pomerini
+1586,9334,Name1587,,38.0,F,3,,Pomerini
+1587,9335,Name1588,,9.0,M,6,,Pomerini
+1588,9336,Name1589,,13.0,M,5,,Pomerini
+1589,9337,Name1590,,9.0,M,5,,Pomerini
+1590,9338,Name1591,,14.0,M,4,,Pomerini
+1591,9339,Name1592,,9.0,M,6,,Pomerini
+1592,9340,Name1593,,10.0,M,3,,Pomerini
+1593,9341,Name1594,,8.0,F,2,,Pomerini
+1594,9342,Name1595,,23.0,M,5,,Pomerini
+1595,9343,Name1596,,34.0,M,4,,Pomerini
+1596,9344,Name1597,,3.0,F,6,,Pomerini
+1597,9345,Name1598,,11.0,F,3,,Pomerini
+1598,9346,Name1599,,24.0,F,4,,Pomerini
+1599,9347,Name1600,,11.0,M,6,,Pomerini
+1600,9348,Name1601,,10.0,M,5,,Pomerini
+1601,9349,Name1602,,10.0,M,2,,Pomerini
+1602,9350,Name1603,,13.0,M,7,,Pomerini
+1603,9351,Name1604,,14.0,M,4,,Pomerini
+1604,9352,Name1605,,9.0,F,6,,Pomerini
+1605,9353,Name1606,,30.0,F,7,,Pomerini
+1606,9354,Name1607,,9.0,F,4,,Pomerini
+1607,9355,Name1608,,21.0,M,6,,Pomerini
+1608,9356,Name1609,,14.0,F,1,,Pomerini
+1609,9357,Name1610,,13.0,M,5,,Pomerini
+1610,9358,Name1611,,9.0,M,3,,Pomerini
+1611,9359,Name1612,,8.0,M,4,,Pomerini
+1612,9360,Name1613,,9.0,M,6,,Pomerini
+1613,9361,Name1614,,13.0,M,6,,Pomerini
+1614,9362,Name1615,,12.0,M,1,,Pomerini
+1615,9363,Name1616,,13.0,F,5,,Pomerini
+1616,9364,Name1617,,10.0,F,4,,Pomerini
+1617,9365,Name1618,,9.0,M,3,,Pomerini
+1618,9366,Name1619,,8.0,M,1,,Pomerini
+1619,9367,Name1620,,16.0,M,2,,Pomerini
+1620,9368,Name1621,,33.0,M,5,,Pomerini
+1621,9369,Name1622,,10.0,M,4,,Pomerini
+1622,9370,Name1623,,37.0,M,3,,Pomerini
+1623,9371,Name1624,,10.0,M,2,,Pomerini
+1624,9372,Name1625,,7.0,M,6,,Pomerini
+1625,9373,Name1626,,13.0,M,2,,Pomerini
+1626,9374,Name1627,,9.0,F,4,,Pomerini
+1627,9375,Name1628,,9.0,M,4,,Pomerini
+1628,9376,Name1629,,46.0,M,3,,Pomerini
+1629,9377,Name1630,,9.0,M,7,,Pomerini
+1630,9378,Name1631,,13.0,M,5,,Pomerini
+1631,9379,Name1632,,12.0,F,3,,Pomerini
+1632,9380,Name1633,,24.0,F,4,,Pomerini
+1633,9381,Name1634,,9.0,M,6,,Pomerini
+1634,9382,Name1635,,13.0,F,1,,Pomerini
+1635,9383,Name1636,,11.0,F,4,,Pomerini
+1636,9384,Name1637,,12.0,F,3,,Pomerini
+1637,9385,Name1638,,7.0,M,3,,Pomerini
+1638,9386,Name1639,,12.0,F,6,,Pomerini
+1639,9387,Name1640,,25.0,M,4,,Pomerini
+1640,9388,Name1641,,28.0,F,2,,Pomerini
+1641,9389,Name1642,,49.0,F,5,,Pomerini
+1642,9390,Name1643,,30.0,M,1,,Pomerini
+1643,9391,Name1644,,61.0,M,6,,Pomerini
+1644,9392,Name1645,,11.0,F,4,,Pomerini
+1645,9393,Name1646,,11.0,F,4,,Pomerini
+1646,9394,Name1647,,7.0,F,3,,Pomerini
+1647,9395,Name1648,,8.0,F,5,,Pomerini
+1648,9396,Name1649,,13.0,F,1,,Pomerini
+1649,9397,Name1650,,12.0,M,6,,Pomerini
+1650,9398,Name1651,,11.0,F,6,,Pomerini
+1651,9399,Name1652,,13.0,M,1,,Pomerini
+1652,9400,Name1653,,10.0,M,6,,Pomerini
+1653,9401,Name1654,,10.0,F,4,,Pomerini
+1654,9402,Name1655,,11.0,M,5,,Pomerini
+1655,9403,Name1656,,8.0,F,3,,Pomerini
+1656,9404,Name1657,,8.0,F,4,,Pomerini
+1657,9405,Name1658,,10.0,M,7,,Pomerini
+1658,9406,Name1659,,4.0,M,4,,Pomerini
+1659,9407,Name1660,,4.0,M,3,,Pomerini
+1660,9408,Name1661,,5.0,M,3,,Pomerini
+1661,9409,Name1662,,13.0,M,5,,Pomerini
+1662,9410,Name1663,,53.0,F,6,,Pomerini
+1663,9411,Name1664,,60.0,M,6,,Pomerini
+1664,9412,Name1665,,14.0,F,3,,Pomerini
+1665,9413,Name1666,,13.0,F,6,,Pomerini
+1666,9414,Name1667,,7.0,F,0,,Pomerini
+1667,9415,Name1668,,11.0,F,4,,Pomerini
+1668,9416,Name1669,,12.0,M,4,,Pomerini
+1669,9417,Name1670,,46.0,F,4,,Pomerini
+1670,9418,Name1671,,15.0,F,5,,Pomerini
+1671,9419,Name1672,,56.0,M,3,,Pomerini
+1672,9420,Name1673,,10.0,F,6,,Pomerini
+1673,9421,Name1674,,8.0,M,6,,Pomerini
+1674,9422,Name1675,,27.0,M,6,,Pomerini
+1675,9423,Name1676,,19.0,F,3,,Pomerini
+1676,9424,Name1677,,7.0,M,2,,Pomerini
+1677,9425,Name1678,,90.0,M,6,,Pomerini
+1678,9426,Name1679,,6.0,F,4,,Pomerini
+1679,9427,Name1680,,9.0,F,2,,Pomerini
+1680,9428,Name1681,,60.0,F,4,,Pomerini
+1681,9429,Name1682,,13.0,M,3,,Pomerini
+1682,9430,Name1683,,23.0,M,3,,Pomerini
+1683,9431,Name1684,,8.0,M,5,,Pomerini
+1684,9432,Name1685,,14.0,F,3,,Pomerini
+1685,9433,Name1686,,33.0,F,4,,Pomerini
+1686,9434,Name1687,,12.0,M,1,,Pomerini
+1687,9435,Name1688,,10.0,F,6,,Pomerini
+1688,9436,Name1689,,10.0,M,6,,Pomerini
+1689,9437,Name1690,,12.0,F,3,,Pomerini
+1690,9438,Name1691,,8.0,F,3,,Pomerini
+1691,9439,Name1692,,13.0,F,3,,Pomerini
+1692,9440,Name1693,,11.0,M,6,,Pomerini
+1693,9441,Name1694,,9.0,M,6,,Pomerini
+1694,9442,Name1695,,13.0,M,3,,Pomerini
+1695,9443,Name1696,,8.0,F,5,,Pomerini
+1696,9444,Name1697,,61.0,F,6,,Pomerini
+1697,9445,Name1698,,45.0,M,6,,Pomerini
+1698,9446,Name1699,,7.0,F,4,,Pomerini
+1699,9447,Name1700,,12.0,F,4,,Pomerini
+1700,9448,Name1701,,11.0,M,7,,Pomerini
+1701,9449,Name1702,,27.0,M,1,,Pomerini
+1702,9450,Name1703,,7.0,M,6,,Pomerini
+1703,9451,Name1704,,12.0,F,4,,Pomerini
+1704,9452,Name1705,,12.0,F,3,,Pomerini
+1705,9453,Name1706,,9.0,M,5,,Pomerini
+1706,9454,Name1707,,75.0,F,6,,Pomerini
+1707,9455,Name1708,,11.0,F,4,,Pomerini
+1708,9456,Name1709,,14.0,M,6,,Pomerini
+1709,9457,Name1710,,12.0,F,4,,Pomerini
+1710,9458,Name1711,,45.0,F,5,,Pomerini
+1711,9459,Name1712,,11.0,F,6,,Pomerini
+1712,9460,Name1713,,10.0,M,4,,Pomerini
+1713,9461,Name1714,,12.0,F,2,,Pomerini
+1714,9462,Name1715,,8.0,F,4,,Pomerini
+1715,9463,Name1716,,4.0,M,7,,Pomerini
+1716,9464,Name1717,,10.0,M,3,,Pomerini
+1717,9465,Name1718,,12.0,F,4,,Pomerini
+1718,9466,Name1719,,9.0,M,5,,Pomerini
+1719,9467,Name1720,,7.0,F,1,,Pomerini
+1720,9468,Name1721,,12.0,F,4,,Pomerini
+1721,9469,Name1722,,11.0,F,4,,Pomerini
+1722,9470,Name1723,,10.0,F,6,,Pomerini
+1723,9471,Name1724,,26.0,M,3,,Pomerini
+1724,9472,Name1725,,8.0,M,6,,Pomerini
+1725,9473,Name1726,,12.0,F,2,,Pomerini
+1726,9474,Name1727,,22.0,M,6,,Pomerini
+1727,9475,Name1728,,40.0,F,0,,Pomerini
+1728,9476,Name1729,,13.0,F,6,,Pomerini
+1729,9477,Name1730,,46.0,F,4,,Pomerini
+1730,9478,Name1731,,9.0,M,3,,Pomerini
+1731,9479,Name1732,,12.0,F,3,,Pomerini
+1732,9480,Name1733,,13.0,F,1,,Pomerini
+1733,9481,Name1734,,8.0,M,5,,Pomerini
+1734,9482,Name1735,,13.0,M,6,,Pomerini
+1735,9483,Name1736,,8.0,F,2,,Pomerini
+1736,9484,Name1737,,13.0,M,4,,Pomerini
+1737,9485,Name1738,,46.0,F,4,,Pomerini
+1738,9486,Name1739,,49.0,M,4,,Pomerini
+1739,9487,Name1740,,9.0,F,1,,Pomerini
+1740,9488,Name1741,,14.0,F,6,,Pomerini
+1741,9489,Name1742,,10.0,F,6,,Pomerini
+1742,9490,Name1743,,11.0,M,4,,Pomerini
+1743,9491,Name1744,,13.0,M,4,,Pomerini
+1744,9492,Name1745,,12.0,M,3,,Pomerini
+1745,9493,Name1746,,24.0,M,6,,Pomerini
+1746,9494,Name1747,,8.0,M,6,,Pomerini
+1747,9495,Name1748,,13.0,M,5,,Pomerini
+1748,9496,Name1749,,10.0,M,5,,Pomerini
+1749,9497,Name1750,,10.0,M,5,,Pomerini
+1750,9498,Name1751,,9.0,M,6,,Pomerini
+1751,9499,Name1752,,12.0,F,3,,Pomerini
+1752,9500,Name1753,,12.0,M,0,,Pomerini
+1753,9501,Name1754,,25.0,M,5,,Pomerini
+1754,9502,Name1755,,13.0,M,2,,Pomerini
+1755,9503,Name1756,,14.0,F,6,,Pomerini
+1756,9504,Name1757,,10.0,F,4,,Pomerini
+1757,9505,Name1758,,9.0,F,3,,Pomerini
+1758,9506,Name1759,,13.0,M,5,,Pomerini
+1759,9507,Name1760,,9.0,M,4,,Pomerini
+1760,9508,Name1761,,14.0,F,6,,Pomerini
+1761,9509,Name1762,,24.0,M,6,,Pomerini
+1762,9510,Name1763,,25.0,F,2,,Pomerini
+1763,9511,Name1764,,12.0,M,5,,Pomerini
+1764,9512,Name1765,,13.0,M,8,,Pomerini
+1765,9513,Name1766,,11.0,M,2,,Pomerini
+1766,9514,Name1767,,14.0,M,3,,Pomerini
+1767,9515,Name1768,,8.0,M,4,,Pomerini
+1768,9516,Name1769,,15.0,M,1,,Pomerini
+1769,9517,Name1770,,10.0,M,0,,Pomerini
+1770,9518,Name1771,,11.0,M,5,,Pomerini
+1771,9519,Name1772,,12.0,F,3,,Pomerini
+1772,9520,Name1773,,56.0,M,2,,Pomerini
+1773,9521,Name1774,,12.0,F,3,,Pomerini
+1774,9522,Name1775,,9.0,M,4,,Pomerini
+1775,9523,Name1776,,9.0,M,6,,Pomerini
+1776,9524,Name1777,,13.0,F,3,,Pomerini
+1777,9525,Name1778,,11.0,M,6,,Pomerini
+1778,9526,Name1779,,46.0,M,2,,Pomerini
+1779,9527,Name1780,,25.0,M,5,,Pomerini
+1780,9528,Name1781,,13.0,F,5,,Pomerini
+1781,9529,Name1782,,55.0,F,1,,Pomerini
+1782,9530,Name1783,,61.0,F,5,,Pomerini
+1783,9531,Name1784,,12.0,M,8,,Pomerini
+1784,9532,Name1785,,12.0,F,3,,Pomerini
+1785,9533,Name1786,,12.0,M,5,,Pomerini
+1786,9534,Name1787,,8.0,M,6,,Pomerini
+1787,9535,Name1788,,11.0,F,7,,Pomerini
+1788,9536,Name1789,,21.0,M,3,,Pomerini
+1789,9537,Name1790,,7.0,F,1,,Pomerini
+1790,9538,Name1791,,11.0,M,2,,Pomerini
+1791,9539,Name1792,,11.0,F,8,,Pomerini
+1792,9540,Name1793,,8.0,M,1,,Pomerini
+1793,9541,Name1794,,13.0,M,4,,Pomerini
+1794,9542,Name1795,,25.0,M,2,,Pomerini
+1795,9543,Name1796,,15.0,F,6,,Pomerini
+1796,9544,Name1797,,9.0,F,4,,Pomerini
+1797,9545,Name1798,,22.0,F,6,,Pomerini
+1798,9546,Name1799,,24.0,M,1,,Pomerini
+1799,9547,Name1800,,10.0,M,5,,Pomerini
+1800,9548,Name1801,,12.0,M,3,,Pomerini
+1801,9549,Name1802,,9.0,M,0,,Pomerini
+1802,9550,Name1803,,7.0,F,3,,Pomerini
+1803,9551,Name1804,,9.0,M,3,,Pomerini
+1804,9552,Name1805,,8.0,M,5,,Pomerini
+1805,9553,Name1806,,16.0,F,2,,Pomerini
+1806,9554,Name1807,,11.0,M,2,,Pomerini
+1807,9555,Name1808,,49.0,F,6,,Pomerini
+1808,9556,Name1809,,12.0,M,3,,Pomerini
+1809,9557,Name1810,,27.0,M,6,,Pomerini
+1810,9558,Name1811,,61.0,F,3,,Pomerini
+1811,9559,Name1812,,11.0,F,2,,Pomerini
+1812,9560,Name1813,,9.0,F,2,,Pomerini
+1813,9561,Name1814,,4.0,F,4,,Pomerini
+1814,9562,Name1815,,49.0,M,6,,Pomerini
+1815,9563,Name1816,,12.0,M,7,,Pomerini
+1816,9564,Name1817,,10.0,M,8,,Pomerini
+1817,9565,Name1818,,16.0,M,5,,Pomerini
+1818,9566,Name1819,,32.0,M,6,,Pomerini
+1819,9567,Name1820,,11.0,M,1,,Pomerini
+1820,9568,Name1821,,13.0,M,6,,Pomerini
+1821,9569,Name1822,,12.0,F,2,,Pomerini
+1822,9570,Name1823,,9.0,F,6,,Pomerini
+1823,9571,Name1824,,14.0,M,4,,Pomerini
+1824,9572,Name1825,,11.0,M,5,,Pomerini
+1825,9573,Name1826,,8.0,F,6,,Pomerini
+1826,9574,Name1827,,14.0,M,1,,Pomerini
+1827,9575,Name1828,,14.0,M,4,,Pomerini
+1828,9576,Name1829,,8.0,M,1,,Pomerini
+1829,9577,Name1830,,10.0,M,6,,Pomerini
+1830,9578,Name1831,,11.0,F,4,,Pomerini
+1831,9579,Name1832,,9.0,M,2,,Pomerini
+1832,9580,Name1833,,10.0,F,3,,Pomerini
+1833,9581,Name1834,,9.0,F,3,,Pomerini
+1834,9582,Name1835,,14.0,M,4,,Pomerini
+1835,9583,Name1836,,8.0,F,4,,Pomerini
+1836,9584,Name1837,,15.0,F,0,,Pomerini
+1837,9585,Name1838,,10.0,F,6,,Pomerini
+1838,9586,Name1839,,8.0,M,2,,Pomerini
+1839,9587,Name1840,,8.0,M,4,,Pomerini
+1840,9588,Name1841,,8.0,F,4,,Pomerini
+1841,9589,Name1842,,13.0,F,1,,Pomerini
+1842,9590,Name1843,,14.0,M,5,,Pomerini
+1843,9591,Name1844,,15.0,F,0,,Pomerini
+1844,9592,Name1845,,10.0,M,2,,Pomerini
+1845,9593,Name1846,,10.0,M,2,,Pomerini
+1846,9594,Name1847,,12.0,M,6,,Pomerini
+1847,9595,Name1848,,12.0,M,2,,Pomerini
+1848,9596,Name1849,,8.0,F,4,,Pomerini
+1849,9597,Name1850,,10.0,M,1,,Pomerini
+1850,9598,Name1851,,6.0,M,6,,Pomerini
+1851,9599,Name1852,,12.0,F,3,,Pomerini
+1852,9600,Name1853,,9.0,M,5,,Pomerini
+1853,9601,Name1854,,11.0,M,5,,Pomerini
+1854,9602,Name1855,,15.0,M,6,,Pomerini
+1855,9603,Name1856,,22.0,M,5,,Pomerini
+1856,9604,Name1857,,10.0,M,8,,Pomerini
+1857,9605,Name1858,,9.0,F,2,,Pomerini
+1858,9606,Name1859,,8.0,F,6,,Pomerini
+1859,9607,Name1860,,12.0,M,5,,Pomerini
+1860,9608,Name1861,,13.0,M,2,,Pomerini
+1861,9609,Name1862,,14.0,M,2,,Pomerini
+1862,9610,Name1863,,10.0,M,6,,Pomerini
+1863,9611,Name1864,,31.0,M,1,,Pomerini
+1864,9612,Name1865,,12.0,F,5,,Pomerini
+1865,9613,Name1866,,11.0,M,4,,Pomerini
+1866,9614,Name1867,,8.0,F,8,,Pomerini
+1867,9615,Name1868,,11.0,F,3,,Pomerini
+1868,9616,Name1869,,27.0,F,4,,Pomerini
+1869,9617,Name1870,,12.0,M,3,,Pomerini
+1870,9618,Name1871,,10.0,M,4,,Pomerini
+1871,9619,Name1872,,14.0,F,3,,Pomerini
+1872,9620,Name1873,,6.0,M,3,,Pomerini
+1873,9621,Name1874,,27.0,F,4,,Pomerini
+1874,9622,Name1875,,37.0,M,3,,Pomerini
+1875,9623,Name1876,,61.0,F,6,,Pomerini
+1876,9624,Name1877,,7.0,F,2,,Pomerini
+1877,9625,Name1878,,4.0,M,3,,Pomerini
+1878,9626,Name1879,,13.0,F,8,,Pomerini
+1879,9627,Name1880,,10.0,M,4,,Pomerini
+1880,9628,Name1881,,5.0,F,3,,Pomerini
+1881,9629,Name1882,,13.0,M,5,,Pomerini
+1882,9630,Name1883,,11.0,F,4,,Pomerini
+1883,9631,Name1884,,35.0,M,3,,Pomerini
+1884,9632,Name1885,,12.0,M,4,,Pomerini
+1885,9633,Name1886,,10.0,M,5,,Pomerini
+1886,9634,Name1887,,37.0,F,1,,Pomerini
+1887,9635,Name1888,,9.0,M,5,,Pomerini
+1888,9636,Name1889,,13.0,M,1,,Pomerini
+1889,9637,Name1890,,10.0,M,7,,Pomerini
+1890,9638,Name1891,,11.0,M,5,,Pomerini
+1891,9639,Name1892,,60.0,F,1,,Pomerini
+1892,9640,Name1893,,53.0,F,6,,Pomerini
+1893,9641,Name1894,,28.0,M,6,,Pomerini
+1894,9642,Name1895,,13.0,M,3,,Pomerini
+1895,9643,Name1896,,7.0,M,6,,Pomerini
+1896,9644,Name1897,,10.0,F,3,,Pomerini
+1897,9645,Name1898,,56.0,F,5,,Pomerini
+1898,9646,Name1899,,23.0,M,5,,Pomerini
+1899,9647,Name1900,,13.0,M,2,,Pomerini
+1900,9648,Name1901,,10.0,F,4,,Pomerini
+1901,9649,Name1902,,12.0,F,5,,Pomerini
+1902,9650,Name1903,,13.0,F,4,,Pomerini
+1903,9651,Name1904,,11.0,M,6,,Pomerini
+1904,9652,Name1905,,9.0,M,3,,Pomerini
+1905,9653,Name1906,,14.0,F,0,,Pomerini
+1906,9654,Name1907,,9.0,M,1,,Pomerini
+1907,9655,Name1908,,11.0,M,5,,Pomerini
+1908,9656,Name1909,,14.0,M,6,,Pomerini
+1909,9657,Name1910,,13.0,M,5,,Pomerini
+1910,9658,Name1911,,9.0,F,1,,Pomerini
+1911,9659,Name1912,,8.0,M,5,,Pomerini
+1912,9660,Name1913,,12.0,F,3,,Pomerini
+1913,9661,Name1914,,13.0,M,2,,Pomerini
+1914,9662,Name1915,,8.0,M,6,,Pomerini
+1915,9663,Name1916,,13.0,M,3,,Pomerini
+1916,9664,Name1917,,12.0,F,3,,Pomerini
+1917,9665,Name1918,,20.0,M,7,,Pomerini
+1918,9666,Name1919,,48.0,M,1,,Pomerini
+1919,9667,Name1920,,28.0,F,6,,Pomerini
+1920,9668,Name1921,,20.0,F,4,,Pomerini
+1921,9669,Name1922,,32.0,F,4,,Pomerini
+1922,9670,Name1923,,8.0,M,6,,Pomerini
+1923,9671,Name1924,,31.0,M,1,,Pomerini
+1924,9672,Name1925,,13.0,M,4,,Pomerini
+1925,9673,Name1926,,23.0,F,6,,Pomerini
+1926,9674,Name1927,,9.0,F,4,,Pomerini
+1927,9675,Name1928,,12.0,M,4,,Pomerini
+1928,9676,Name1929,,12.0,F,3,,Pomerini
+1929,9677,Name1930,,13.0,M,6,,Pomerini
+1930,9678,Name1931,,12.0,F,5,,Pomerini
+1931,9679,Name1932,,7.0,M,7,,Pomerini
+1932,9680,Name1933,,13.0,F,5,,Pomerini
+1933,9681,Name1934,,12.0,F,6,,Pomerini
+1934,9682,Name1935,,56.0,F,5,,Pomerini
+1935,9683,Name1936,,12.0,M,5,,Pomerini
+1936,9684,Name1937,,30.0,M,1,,Pomerini
+1937,9685,Name1938,,9.0,F,3,,Pomerini
+1938,9686,Name1939,,13.0,M,6,,Pomerini
+1939,9687,Name1940,,21.0,F,3,,Pomerini
+1940,9688,Name1941,,15.0,F,7,,Pomerini
+1941,9689,Name1942,,12.0,F,1,,Pomerini
+1942,9690,Name1943,,13.0,M,6,,Pomerini
+1943,9691,Name1944,,8.0,M,4,,Pomerini
+1944,9692,Name1945,,13.0,F,0,,Pomerini
+1945,9693,Name1946,,13.0,F,6,,Pomerini
+1946,9694,Name1947,,13.0,F,1,,Pomerini
+1947,9695,Name1948,,48.0,F,6,,Pomerini
+1948,9696,Name1949,,11.0,F,4,,Pomerini
+1949,9697,Name1950,,37.0,M,6,,Pomerini
+1950,9698,Name1951,,12.0,M,0,,Pomerini
+1951,9699,Name1952,,9.0,F,8,,Pomerini
+1952,9700,Name1953,,55.0,F,3,,Pomerini
+1953,9701,Name1954,,12.0,M,6,,Pomerini
+1954,9702,Name1955,,24.0,M,5,,Pomerini
+1955,9703,Name1956,,9.0,F,2,,Pomerini
+1956,9704,Name1957,,12.0,F,6,,Pomerini
+1957,9705,Name1958,,12.0,M,6,,Pomerini
+1958,9706,Name1959,,11.0,M,8,,Pomerini
+1959,9707,Name1960,,24.0,M,4,,Pomerini
+1960,9708,Name1961,,9.0,M,6,,Pomerini
+1961,9709,Name1962,,13.0,M,4,,Pomerini
+1962,9710,Name1963,,7.0,F,5,,Pomerini
+1963,9711,Name1964,,11.0,F,4,,Pomerini
+1964,9712,Name1965,,11.0,M,7,,Pomerini
+1965,9713,Name1966,,12.0,F,6,,Pomerini
+1966,9714,Name1967,,13.0,M,6,,Pomerini
+1967,9715,Name1968,,15.0,F,4,,Pomerini
+1968,9716,Name1969,,11.0,F,7,,Pomerini
+1969,9717,Name1970,,9.0,F,5,,Pomerini
+1970,9718,Name1971,,7.0,F,5,,Pomerini
+1971,9719,Name1972,,23.0,M,5,,Pomerini
+1972,9720,Name1973,,10.0,F,3,,Pomerini
+1973,9721,Name1974,,13.0,F,6,,Pomerini
+1974,9722,Name1975,,9.0,M,4,,Pomerini
+1975,9723,Name1976,,27.0,M,1,,Pomerini
+1976,9724,Name1977,,12.0,F,5,,Pomerini
+1977,9725,Name1978,,11.0,F,1,,Pomerini
+1978,9726,Name1979,,13.0,M,4,,Pomerini
+1979,9727,Name1980,,11.0,F,4,,Pomerini
+1980,9728,Name1981,,9.0,M,6,,Pomerini
+1981,9729,Name1982,,7.0,M,5,,Pomerini
+1982,9730,Name1983,,9.0,F,3,,Pomerini
+1983,9731,Name1984,,13.0,M,6,,Pomerini
+1984,9732,Name1985,,49.0,M,6,,Pomerini
+1985,9733,Name1986,,7.0,F,6,,Pomerini
+1986,9734,Name1987,,35.0,F,6,,Pomerini
+1987,9735,Name1988,,11.0,M,2,,Pomerini
+1988,9736,Name1989,,23.0,F,8,,Pomerini
+1989,9737,Name1990,,26.0,M,3,,Pomerini
+1990,9738,Name1991,,9.0,M,6,,Pomerini
+1991,9739,Name1992,,31.0,M,5,,Pomerini
+1992,9740,Name1993,,10.0,M,5,,Pomerini
+1993,9741,Name1994,,7.0,M,1,,Pomerini
+1994,9742,Name1995,,27.0,M,3,,Pomerini
+1995,9743,Name1996,,15.0,F,4,,Pomerini
+1996,9744,Name1997,,10.0,F,2,,Pomerini
+1997,9745,Name1998,,45.0,M,3,,Pomerini
+1998,9746,Name1999,,12.0,M,5,,Pomerini
+1999,9747,Name2000,,8.0,M,2,,Pomerini
+2000,9748,Name2001,,10.0,F,8,,Pomerini
+2001,9749,Name2002,,9.0,F,2,,Pomerini
+2002,9750,Name2003,,49.0,M,7,,Pomerini
+2003,9751,Name2004,,13.0,M,2,,Pomerini
+2004,9752,Name2005,,13.0,F,2,,Pomerini
+2005,9753,Name2006,,27.0,F,6,,Pomerini
+2006,9754,Name2007,,10.0,F,5,,Pomerini
+2007,9755,Name2008,,46.0,F,8,,Pomerini
+2008,9756,Name2009,,25.0,M,4,,Pomerini
+2009,9757,Name2010,,21.0,M,3,,Pomerini
+2010,9758,Name2011,,25.0,M,5,,Pomerini
+2011,9759,Name2012,,11.0,F,3,,Pomerini
+2012,9760,Name2013,,10.0,M,4,,Pomerini
+2013,9761,Name2014,,13.0,F,5,,Pomerini
+2014,9762,Name2015,,11.0,F,3,,Pomerini
+2015,9763,Name2016,,12.0,F,8,,Pomerini
+2016,9764,Name2017,,60.0,F,4,,Pomerini
+2017,9765,Name2018,,12.0,F,4,,Pomerini
+2018,9766,Name2019,,12.0,M,6,,Pomerini
+2019,9767,Name2020,,30.0,M,5,,Pomerini
+2020,9768,Name2021,,13.0,M,4,,Pomerini
+2021,9769,Name2022,,25.0,F,2,,Pomerini
+2022,9770,Name2023,,5.0,F,3,,Pomerini
+2023,9771,Name2024,,8.0,F,4,,Pomerini
+2024,9772,Name2025,,11.0,M,4,,Pomerini
+2025,9773,Name2026,,13.0,M,4,,Pomerini
+2026,9774,Name2027,,7.0,F,6,,Pomerini
+2027,9775,Name2028,,13.0,F,1,,Pomerini
+2028,9776,Name2029,,8.0,F,5,,Pomerini
+2029,9777,Name2030,,20.0,F,4,,Pomerini
+2030,9778,Name2031,,13.0,M,2,,Pomerini
+2031,9779,Name2032,,11.0,F,4,,Pomerini
+2032,9780,Name2033,,9.0,F,6,,Pomerini
+2033,9781,Name2034,,10.0,M,7,,Pomerini
+2034,9782,Name2035,,13.0,F,5,,Pomerini
+2035,9783,Name2036,,11.0,M,2,,Pomerini
+2036,9784,Name2037,,13.0,F,0,,Pomerini
+2037,9785,Name2038,,11.0,F,6,,Pomerini
+2038,9786,Name2039,,9.0,M,3,,Pomerini
+2039,9787,Name2040,,12.0,M,4,,Pomerini
+2040,9788,Name2041,,13.0,M,5,,Pomerini
+2041,9789,Name2042,,9.0,M,2,,Pomerini
+2042,9790,Name2043,,56.0,F,4,,Pomerini
+2043,9791,Name2044,,13.0,F,2,,Pomerini
+2044,9792,Name2045,,11.0,M,3,,Pomerini
+2045,9793,Name2046,,10.0,F,5,,Pomerini
+2046,9794,Name2047,,14.0,M,6,,Pomerini
+2047,9795,Name2048,,90.0,M,3,,Pomerini
+2048,9796,Name2049,,11.0,M,5,,Pomerini
+2049,9797,Name2050,,21.0,F,2,,Pomerini
+2050,9798,Name2051,,33.0,M,4,,Pomerini
+2051,9799,Name2052,,13.0,F,4,,Pomerini
+2052,9800,Name2053,,10.0,F,6,,Pomerini
+2053,9801,Name2054,,19.0,F,3,,Pomerini
+2054,9802,Name2055,,21.0,M,6,,Pomerini
+2055,9803,Name2056,,8.0,M,3,,Pomerini
+2056,9804,Name2057,,12.0,F,3,,Pomerini
+2057,9805,Name2058,,13.0,M,4,,Pomerini
+2058,9806,Name2059,,12.0,M,6,,Pomerini
+2059,9807,Name2060,,9.0,F,3,,Pomerini
+2060,9808,Name2061,,9.0,F,4,,Pomerini
+2061,9809,Name2062,,12.0,F,4,,Pomerini
+2062,9810,Name2063,,10.0,F,6,,Pomerini
+2063,9811,Name2064,,10.0,M,3,,Pomerini
+2064,9812,Name2065,,12.0,M,3,,Pomerini
+2065,9813,Name2066,,7.0,F,6,,Pomerini
+2066,9814,Name2067,,11.0,M,5,,Pomerini
+2067,9815,Name2068,,12.0,F,4,,Pomerini
+2068,9816,Name2069,,13.0,M,1,,Pomerini
+2069,9817,Name2070,,10.0,M,7,,Pomerini
+2070,9818,Name2071,,13.0,M,1,,Pomerini
+2071,9819,Name2072,,12.0,F,3,,Pomerini
+2072,9820,Name2073,,8.0,M,4,,Pomerini
+2073,9821,Name2074,,23.0,F,4,,Pomerini
+2074,9822,Name2075,,12.0,M,3,,Pomerini
+2075,9823,Name2076,,13.0,M,4,,Pomerini
+2076,9824,Name2077,,9.0,F,4,,Pomerini
+2077,9825,Name2078,,12.0,F,5,,Pomerini
+2078,9826,Name2079,,14.0,M,3,,Pomerini
+2079,9827,Name2080,,10.0,F,5,,Pomerini
+2080,9828,Name2081,,61.0,F,6,,Pomerini
+2081,9829,Name2082,,9.0,M,3,,Pomerini
+2082,9830,Name2083,,12.0,M,4,,Pomerini
+2083,9831,Name2084,,40.0,M,6,,Pomerini
+2084,9832,Name2085,,13.0,F,4,,Pomerini
+2085,9833,Name2086,,78.0,F,7,,Pomerini
+2086,9834,Name2087,,13.0,F,5,,Pomerini
+2087,9835,Name2088,,11.0,M,6,,Pomerini
+2088,9836,Name2089,,38.0,M,0,,Pomerini
+2089,9837,Name2090,,7.0,F,4,,Pomerini
+2090,9838,Name2091,,26.0,F,6,,Pomerini
+2091,9839,Name2092,,8.0,F,4,,Pomerini
+2092,9840,Name2093,,14.0,M,5,,Pomerini
+2093,9841,Name2094,,14.0,F,3,,Pomerini
+2094,9842,Name2095,,9.0,M,6,,Pomerini
+2095,9843,Name2096,,11.0,M,3,,Pomerini
+2096,9844,Name2097,,11.0,F,5,,Pomerini
+2097,9845,Name2098,,10.0,M,2,,Pomerini
+2098,9846,Name2099,,40.0,M,2,,Pomerini
+2099,9847,Name2100,,13.0,M,6,,Pomerini
+2100,9848,Name2101,,12.0,F,2,,Pomerini
+2101,9849,Name2102,,10.0,M,4,,Pomerini
+2102,9850,Name2103,,10.0,F,6,,Pomerini
+2103,9851,Name2104,,50.0,M,6,,Pomerini
+2104,9852,Name2105,,9.0,F,2,,Pomerini
+2105,9853,Name2106,,8.0,M,1,,Pomerini
+2106,9854,Name2107,,25.0,M,5,,Pomerini
+2107,9855,Name2108,,11.0,F,3,,Pomerini
+2108,9856,Name2109,,10.0,M,6,,Pomerini
+2109,9857,Name2110,,56.0,M,4,,Pomerini
+2110,9858,Name2111,,11.0,M,1,,Pomerini
+2111,9859,Name2112,,49.0,F,4,,Pomerini
+2112,9860,Name2113,,8.0,M,5,,Pomerini
+2113,9861,Name2114,,9.0,M,6,,Pomerini
+2114,9862,Name2115,,11.0,M,6,,Pomerini
+2115,9863,Name2116,,11.0,M,4,,Pomerini
+2116,9864,Name2117,,9.0,F,4,,Pomerini
+2117,9865,Name2118,,10.0,M,2,,Pomerini
+2118,9866,Name2119,,27.0,F,5,,Pomerini
+2119,9867,Name2120,,8.0,M,2,,Pomerini
+2120,9868,Name2121,,13.0,F,4,,Pomerini
+2121,9869,Name2122,,11.0,F,4,,Pomerini
+2122,9870,Name2123,,27.0,M,2,,Pomerini
+2123,9871,Name2124,,9.0,F,2,,Pomerini
+2124,9872,Name2125,,13.0,F,4,,Pomerini
+2125,9873,Name2126,,13.0,M,5,,Pomerini
+2126,9874,Name2127,,9.0,F,6,,Pomerini
+2127,9875,Name2128,,13.0,F,6,,Pomerini
+2128,9876,Name2129,,9.0,F,5,,Pomerini
+2129,9877,Name2130,,12.0,F,2,,Pomerini
+2130,9878,Name2131,,11.0,F,4,,Pomerini
+2131,9879,Name2132,,12.0,F,6,,Pomerini
+2132,9880,Name2133,,13.0,F,3,,Pomerini
+2133,9881,Name2134,,10.0,F,3,,Pomerini
+2134,9882,Name2135,,10.0,M,1,,Pomerini
+2135,9883,Name2136,,11.0,M,6,,Pomerini
+2136,9884,Name2137,,23.0,M,4,,Pomerini
+2137,9885,Name2138,,48.0,M,5,,Pomerini
+2138,9886,Name2139,,27.0,F,4,,Pomerini
+2139,9887,Name2140,,11.0,M,4,,Pomerini
+2140,9888,Name2141,,24.0,F,2,,Pomerini
+2141,9889,Name2142,,13.0,M,7,,Pomerini
+2142,9890,Name2143,,4.0,M,2,,Pomerini
+2143,9891,Name2144,,45.0,M,2,,Pomerini
+2144,9892,Name2145,,12.0,M,1,,Pomerini
+2145,9893,Name2146,,56.0,F,6,,Pomerini
+2146,9894,Name2147,,60.0,F,3,,Pomerini
+2147,9895,Name2148,,12.0,M,4,,Pomerini
+2148,9896,Name2149,,7.0,M,5,,Pomerini
+2149,9897,Name2150,,12.0,F,5,,Pomerini
+2150,9898,Name2151,,49.0,M,4,,Pomerini
+2151,9899,Name2152,,29.0,M,4,,Pomerini
+2152,9900,Name2153,,13.0,F,4,,Pomerini
+2153,9901,Name2154,,40.0,M,6,,Pomerini
+2154,9902,Name2155,,4.0,F,5,,Pomerini
+2155,9903,Name2156,,13.0,F,3,,Pomerini
+2156,9904,Name2157,,26.0,F,1,,Pomerini
+2157,9905,Name2158,,10.0,F,1,,Pomerini
+2158,9906,Name2159,,8.0,M,4,,Pomerini
+2159,9907,Name2160,,13.0,F,2,,Pomerini
+2160,9908,Name2161,,7.0,M,4,,Pomerini
+2161,9909,Name2162,,11.0,F,4,,Pomerini
+2162,9910,Name2163,,32.0,M,4,,Pomerini
+2163,9911,Name2164,,11.0,F,3,,Pomerini
+2164,9912,Name2165,,11.0,F,4,,Pomerini
+2165,9913,Name2166,,30.0,F,3,,Pomerini
+2166,9914,Name2167,,13.0,M,4,,Pomerini
+2167,9915,Name2168,,9.0,F,4,,Pomerini
+2168,9916,Name2169,,61.0,M,6,,Pomerini
+2169,9917,Name2170,,12.0,F,3,,Pomerini
+2170,9918,Name2171,,37.0,M,2,,Pomerini
+2171,9919,Name2172,,40.0,M,4,,Pomerini
+2172,9920,Name2173,,9.0,M,5,,Pomerini
+2173,9921,Name2174,,11.0,M,2,,Pomerini
+2174,9922,Name2175,,8.0,F,6,,Pomerini
+2175,9923,Name2176,,13.0,F,5,,Pomerini
+2176,9924,Name2177,,13.0,F,3,,Pomerini
+2177,9925,Name2178,,28.0,M,4,,Pomerini
+2178,9926,Name2179,,14.0,M,4,,Pomerini
+2179,9927,Name2180,,11.0,F,4,,Pomerini
+2180,9928,Name2181,,13.0,M,6,,Pomerini
+2181,9929,Name2182,,12.0,M,5,,Pomerini
+2182,9930,Name2183,,9.0,F,3,,Pomerini
+2183,9931,Name2184,,12.0,M,2,,Pomerini
+2184,9932,Name2185,,27.0,M,1,,Pomerini
+2185,9933,Name2186,,11.0,F,5,,Pomerini
+2186,9934,Name2187,,10.0,F,4,,Pomerini
+2187,9935,Name2188,,46.0,F,1,,Pomerini
+2188,9936,Name2189,,13.0,M,5,,Pomerini
+2189,9937,Name2190,,60.0,M,2,,Pomerini
+2190,9938,Name2191,,55.0,F,1,,Pomerini
+2191,9939,Name2192,,9.0,M,6,,Pomerini
+2192,9940,Name2193,,12.0,M,6,,Pomerini
+2193,9941,Name2194,,30.0,F,3,,Pomerini
+2194,9942,Name2195,,14.0,M,5,,Pomerini
+2195,9943,Name2196,,8.0,M,6,,Pomerini
+2196,9944,Name2197,,11.0,M,6,,Pomerini
+2197,9945,Name2198,,14.0,F,4,,Pomerini
+2198,9946,Name2199,,13.0,M,1,,Pomerini
+2199,9947,Name2200,,11.0,F,2,,Pomerini
+2200,9948,Name2201,,14.0,M,4,,Pomerini
+2201,9949,Name2202,,10.0,F,6,,Pomerini
+2202,9950,Name2203,,11.0,F,3,,Pomerini
+2203,9951,Name2204,,38.0,M,5,,Pomerini
+2204,9952,Name2205,,45.0,M,6,,Pomerini
+2205,9953,Name2206,,48.0,F,1,,Pomerini
+2206,9954,Name2207,,16.0,F,6,,Pomerini
+2207,9955,Name2208,,11.0,F,5,,Pomerini
+2208,9956,Name2209,,10.0,F,1,,Pomerini
+2209,9957,Name2210,,12.0,M,5,,Pomerini
+2210,9958,Name2211,,11.0,M,5,,Pomerini
+2211,9959,Name2212,,9.0,F,6,,Pomerini
+2212,9960,Name2213,,12.0,F,6,,Pomerini
+2213,9961,Name2214,,19.0,F,6,,Pomerini
+2214,9962,Name2215,,12.0,F,1,,Pomerini
+2215,9963,Name2216,,13.0,M,2,,Pomerini
+2216,9964,Name2217,,9.0,M,3,,Pomerini
+2217,9965,Name2218,,13.0,M,1,,Pomerini
+2218,9966,Name2219,,10.0,F,6,,Pomerini
+2219,9967,Name2220,,30.0,M,3,,Pomerini
+2220,9968,Name2221,,9.0,M,3,,Pomerini
+2221,9969,Name2222,,11.0,F,3,,Pomerini
+2222,9970,Name2223,,11.0,F,4,,Pomerini
+2223,9971,Name2224,,12.0,F,6,,Pomerini
+2224,9972,Name2225,,9.0,F,2,,Pomerini
+2225,9973,Name2226,,11.0,M,4,,Pomerini
+2226,9974,Name2227,,60.0,F,6,,Pomerini
+2227,9975,Name2228,,13.0,F,4,,Pomerini
+2228,9976,Name2229,,7.0,M,6,,Pomerini
+2229,9977,Name2230,,37.0,M,4,,Pomerini
+2230,9978,Name2231,,8.0,F,3,,Pomerini
+2231,9979,Name2232,,9.0,F,4,,Pomerini
+2232,9980,Name2233,,11.0,M,2,,Pomerini
+2233,9981,Name2234,,11.0,M,4,,Pomerini
+2234,9982,Name2235,,11.0,M,2,,Pomerini
+2235,9983,Name2236,,10.0,M,1,,Pomerini
+2236,9984,Name2237,,11.0,M,6,,Pomerini
+2237,9985,Name2238,,7.0,F,4,,Pomerini
+2238,9986,Name2239,,90.0,F,6,,Pomerini
+2239,9987,Name2240,,8.0,M,1,,Pomerini
+2240,9988,Name2241,,11.0,F,4,,Pomerini
+2241,9989,Name2242,,14.0,F,4,,Pomerini
+2242,9990,Name2243,,13.0,M,2,,Pomerini
+2243,9991,Name2244,,12.0,F,5,,Pomerini
+2244,9992,Name2245,,55.0,M,0,,Pomerini
+2245,9993,Name2246,,9.0,F,6,,Pomerini
+2246,9994,Name2247,,12.0,F,4,,Pomerini
+2247,9995,Name2248,,12.0,F,4,,Pomerini
+2248,9996,Name2249,,4.0,F,4,,Pomerini
+2249,9997,Name2250,,13.0,M,2,,Pomerini
+2250,9998,Name2251,,6.0,F,4,,Pomerini
+2251,9999,Name2252,,8.0,M,3,,Pomerini
+2252,10000,Name2253,,13.0,F,4,,Pomerini
+2253,10001,Name2254,,10.0,F,3,,Pomerini
+2254,10002,Name2255,,13.0,F,5,,Pomerini
+2255,10003,Name2256,,13.0,F,2,,Pomerini
+2256,10004,Name2257,,11.0,M,4,,Pomerini
+2257,10005,Name2258,,9.0,F,4,,Pomerini
+2258,10006,Name2259,,16.0,F,3,,Pomerini
+2259,10007,Name2260,,5.0,M,6,,Pomerini
+2260,10008,Name2261,,9.0,M,1,,Pomerini
+2261,10009,Name2262,,11.0,F,7,,Pomerini
+2262,10010,Name2263,,9.0,M,6,,Pomerini
+2263,10011,Name2264,,7.0,F,3,,Pomerini
+2264,10012,Name2265,,12.0,M,3,,Pomerini
+2265,10013,Name2266,,27.0,F,3,,Pomerini
+2266,10014,Name2267,,55.0,M,1,,Pomerini
+2267,10015,Name2268,,22.0,M,4,,Pomerini
+2268,10016,Name2269,,9.0,F,2,,Pomerini
+2269,10017,Name2270,,9.0,M,5,,Pomerini
+2270,10018,Name2271,,9.0,F,4,,Pomerini
+2271,10019,Name2272,,12.0,M,5,,Pomerini
+2272,10020,Name2273,,10.0,M,2,,Pomerini
+2273,10021,Name2274,,14.0,M,2,,Pomerini
+2274,10022,Name2275,,8.0,M,0,,Pomerini
+2275,10023,Name2276,,11.0,F,4,,Pomerini
+2276,10024,Name2277,,9.0,F,3,,Pomerini
+2277,10025,Name2278,,9.0,F,1,,Pomerini
+2278,10026,Name2279,,9.0,F,4,,Pomerini
+2279,10027,Name2280,,4.0,F,4,,Pomerini
+2280,10028,Name2281,,23.0,F,4,,Pomerini
+2281,10029,Name2282,,13.0,M,6,,Pomerini
+2282,10030,Name2283,,25.0,F,4,,Pomerini
+2283,10031,Name2284,,10.0,F,4,,Pomerini
+2284,10032,Name2285,,12.0,M,4,,Pomerini
+2285,10033,Name2286,,9.0,F,6,,Pomerini
+2286,10034,Name2287,,13.0,F,4,,Pomerini
+2287,10035,Name2288,,13.0,F,5,,Pomerini
+2288,10036,Name2289,,9.0,M,4,,Pomerini
+2289,10037,Name2290,,14.0,M,0,,Pomerini
+2290,10038,Name2291,,31.0,M,3,,Pomerini
+2291,10039,Name2292,,9.0,M,0,,Pomerini
+2292,10040,Name2293,,13.0,M,6,,Pomerini
+2293,10041,Name2294,,48.0,F,5,,Pomerini
+2294,10042,Name2295,,11.0,M,5,,Pomerini
+2295,10043,Name2296,,11.0,M,4,,Pomerini
+2296,10044,Name2297,,12.0,M,6,,Pomerini
+2297,10045,Name2298,,27.0,F,6,,Pomerini
+2298,10046,Name2299,,46.0,M,1,,Pomerini
+2299,10047,Name2300,,12.0,F,2,,Pomerini
+2300,10048,Name2301,,12.0,M,3,,Pomerini
+2301,10049,Name2302,,35.0,M,6,,Pomerini
+2302,10050,Name2303,,8.0,M,3,,Pomerini
+2303,10051,Name2304,,12.0,M,6,,Pomerini
+2304,10052,Name2305,,8.0,M,5,,Pomerini
+2305,10053,Name2306,,10.0,M,6,,Pomerini
+2306,10054,Name2307,,13.0,F,4,,Pomerini
+2307,10055,Name2308,,9.0,M,4,,Pomerini
+2308,10056,Name2309,,11.0,M,4,,Pomerini
+2309,10057,Name2310,,27.0,F,8,,Pomerini
+2310,10058,Name2311,,9.0,M,4,,Pomerini
+2311,10059,Name2312,,12.0,F,3,,Pomerini
+2312,10060,Name2313,,10.0,M,6,,Pomerini
+2313,10061,Name2314,,11.0,F,2,,Pomerini
+2314,10062,Name2315,,37.0,F,3,,Pomerini
+2315,10063,Name2316,,9.0,F,4,,Pomerini
+2316,10064,Name2317,,10.0,M,6,,Pomerini
+2317,10065,Name2318,,13.0,F,4,,Pomerini
+2318,10066,Name2319,,9.0,M,2,,Pomerini
+2319,10067,Name2320,,10.0,F,3,,Pomerini
+2320,10068,Name2321,,27.0,F,6,,Pomerini
+2321,10069,Name2322,,11.0,M,2,,Pomerini
+2322,10070,Name2323,,9.0,F,4,,Pomerini
+2323,10071,Name2324,,46.0,M,3,,Pomerini
+2324,10072,Name2325,,12.0,M,6,,Pomerini
+2325,10073,Name2326,,13.0,M,2,,Pomerini
+2326,10074,Name2327,,61.0,F,1,,Pomerini
+2327,10075,Name2328,,13.0,F,7,,Pomerini
+2328,10076,Name2329,,11.0,M,5,,Pomerini
+2329,10077,Name2330,,12.0,M,6,,Pomerini
+2330,10078,Name2331,,11.0,M,5,,Pomerini
+2331,10079,Name2332,,45.0,M,4,,Pomerini
+2332,10080,Name2333,,8.0,F,2,,Pomerini
+2333,10081,Name2334,,26.0,M,6,,Pomerini
+2334,10082,Name2335,,13.0,F,4,,Pomerini
+2335,10083,Name2336,,14.0,F,2,,Pomerini
+2336,10084,Name2337,,60.0,M,3,,Pomerini
+2337,10085,Name2338,,33.0,F,1,,Pomerini
+2338,10086,Name2339,,11.0,M,6,,Pomerini
+2339,10087,Name2340,,11.0,M,6,,Pomerini
+2340,10088,Name2341,,12.0,M,3,,Pomerini
+2341,10089,Name2342,,13.0,M,3,,Pomerini
+2342,10090,Name2343,,9.0,M,1,,Pomerini
+2343,10091,Name2344,,6.0,F,4,,Pomerini
+2344,10092,Name2345,,27.0,M,2,,Pomerini
+2345,10093,Name2346,,56.0,M,6,,Pomerini
+2346,10094,Name2347,,15.0,F,4,,Pomerini
+2347,10095,Name2348,,9.0,M,6,,Pomerini
+2348,10096,Name2349,,10.0,M,4,,Pomerini
+2349,10097,Name2350,,5.0,M,7,,Pomerini
+2350,10098,Name2351,,13.0,F,3,,Pomerini
+2351,10099,Name2352,,11.0,M,1,,Pomerini
+2352,10100,Name2353,,13.0,F,6,,Pomerini
+2353,10101,Name2354,,12.0,M,5,,Pomerini
+2354,10102,Name2355,,23.0,F,5,,Pomerini
+2355,10103,Name2356,,14.0,F,6,,Pomerini
+2356,10104,Name2357,,13.0,F,2,,Pomerini
+2357,10105,Name2358,,12.0,F,0,,Pomerini
+2358,10106,Name2359,,8.0,F,1,,Pomerini
+2359,10107,Name2360,,13.0,M,5,,Pomerini
+2360,10108,Name2361,,3.0,M,5,,Pomerini
+2361,10109,Name2362,,9.0,M,3,,Pomerini
+2362,10110,Name2363,,25.0,M,3,,Pomerini
+2363,10111,Name2364,,10.0,F,6,,Pomerini
+2364,10112,Name2365,,7.0,M,2,,Pomerini
+2365,10113,Name2366,,40.0,M,4,,Pomerini
+2366,10114,Name2367,,10.0,F,8,,Pomerini
+2367,10115,Name2368,,8.0,F,0,,Pomerini
+2368,10116,Name2369,,9.0,M,1,,Pomerini
+2369,10117,Name2370,,11.0,F,5,,Pomerini
+2370,10118,Name2371,,19.0,F,6,,Pomerini
+2371,10119,Name2372,,32.0,M,6,,Pomerini
+2372,10120,Name2373,,11.0,M,2,,Pomerini
+2373,10121,Name2374,,26.0,F,5,,Pomerini
+2374,10122,Name2375,,8.0,M,5,,Pomerini
+2375,10123,Name2376,,12.0,F,2,,Pomerini
+2376,10124,Name2377,,13.0,F,6,,Pomerini
+2377,10125,Name2378,,27.0,F,2,,Pomerini
+2378,10126,Name2379,,12.0,F,5,,Pomerini
+2379,10127,Name2380,,13.0,M,6,,Pomerini
+2380,10128,Name2381,,9.0,M,1,,Pomerini
+2381,10129,Name2382,,12.0,F,4,,Pomerini
+2382,10130,Name2383,,30.0,F,3,,Pomerini
+2383,10131,Name2384,,7.0,F,7,,Pomerini
+2384,10132,Name2385,,7.0,M,6,,Pomerini
+2385,10133,Name2386,,12.0,M,2,,Pomerini
+2386,10134,Name2387,,13.0,M,2,,Pomerini
+2387,10135,Name2388,,9.0,F,3,,Pomerini
+2388,10136,Name2389,,8.0,M,1,,Pomerini
+2389,10137,Name2390,,56.0,M,4,,Pomerini
+2390,10138,Name2391,,35.0,M,0,,Pomerini
+2391,10139,Name2392,,10.0,F,6,,Pomerini
+2392,10140,Name2393,,27.0,M,4,,Pomerini
+2393,10141,Name2394,,12.0,F,3,,Pomerini
+2394,10142,Name2395,,13.0,F,4,,Pomerini
+2395,10143,Name2396,,12.0,M,5,,Pomerini
+2396,10144,Name2397,,60.0,M,4,,Pomerini
+2397,10145,Name2398,,54.0,M,6,,Pomerini
+2398,10146,Name2399,,10.0,M,4,,Pomerini
+2399,10147,Name2400,,7.0,M,6,,Pomerini
+2400,10148,Name2401,,21.0,F,4,,Pomerini
+2401,10149,Name2402,,8.0,M,4,,Pomerini
+2402,10150,Name2403,,13.0,F,3,,Pomerini
+2403,10151,Name2404,,13.0,F,4,,Pomerini
+2404,10152,Name2405,,9.0,M,3,,Pomerini
+2405,10153,Name2406,,9.0,M,3,,Pomerini
+2406,10154,Name2407,,11.0,M,6,,Pomerini
+2407,10155,Name2408,,8.0,F,3,,Pomerini
+2408,10156,Name2409,,13.0,M,4,,Pomerini
+2409,10157,Name2410,,40.0,M,6,,Pomerini
+2410,10158,Name2411,,3.0,M,6,,Pomerini
+2411,10159,Name2412,,13.0,M,3,,Pomerini
+2412,10160,Name2413,,27.0,M,2,,Pomerini
+2413,10161,Name2414,,14.0,F,7,,Pomerini
+2414,10162,Name2415,,13.0,F,4,,Pomerini
+2415,10163,Name2416,,11.0,M,3,,Pomerini
+2416,10164,Name2417,,9.0,F,4,,Pomerini
+2417,10165,Name2418,,9.0,M,6,,Pomerini
+2418,10166,Name2419,,12.0,M,2,,Pomerini
+2419,10167,Name2420,,49.0,F,6,,Pomerini
+2420,10168,Name2421,,14.0,F,7,,Pomerini
+2421,10169,Name2422,,25.0,M,6,,Pomerini
+2422,10170,Name2423,,56.0,M,3,,Pomerini
+2423,10171,Name2424,,9.0,M,7,,Pomerini
+2424,10172,Name2425,,12.0,M,4,,Pomerini
+2425,10173,Name2426,,8.0,M,4,,Pomerini
+2426,10174,Name2427,,11.0,F,5,,Pomerini
+2427,10175,Name2428,,13.0,F,0,,Pomerini
+2428,10176,Name2429,,26.0,F,6,,Pomerini
+2429,10177,Name2430,,35.0,M,1,,Pomerini
+2430,10178,Name2431,,9.0,F,4,,Pomerini
+2431,10179,Name2432,,8.0,F,3,,Pomerini
+2432,10180,Name2433,,11.0,F,1,,Pomerini
+2433,10181,Name2434,,10.0,F,4,,Pomerini
+2434,10182,Name2435,,25.0,F,5,,Pomerini
+2435,10183,Name2436,,48.0,M,3,,Pomerini
+2436,10184,Name2437,,8.0,M,1,,Pomerini
+2437,10185,Name2438,,12.0,F,2,,Pomerini
+2438,10186,Name2439,,9.0,F,6,,Pomerini
+2439,10187,Name2440,,5.0,F,4,,Pomerini
+2440,10188,Name2441,,34.0,M,4,,Pomerini
+2441,10189,Name2442,,22.0,M,6,,Pomerini
+2442,10190,Name2443,,12.0,F,4,,Pomerini
+2443,10191,Name2444,,13.0,M,6,,Pomerini
+2444,10192,Name2445,,40.0,M,1,,Pomerini
+2445,10193,Name2446,,11.0,M,6,,Pomerini
+2446,10194,Name2447,,56.0,M,3,,Pomerini
+2447,10195,Name2448,,14.0,M,4,,Pomerini
+2448,10196,Name2449,,8.0,M,4,,Pomerini
+2449,10197,Name2450,,12.0,F,3,,Pomerini
+2450,10198,Name2451,,56.0,F,4,,Pomerini
+2451,10199,Name2452,,11.0,F,2,,Pomerini
+2452,10200,Name2453,,12.0,F,1,,Pomerini
+2453,10201,Name2454,,9.0,M,2,,Pomerini
+2454,10202,Name2455,,12.0,M,4,,Pomerini
+2455,10203,Name2456,,9.0,F,0,,Pomerini
+2456,10204,Name2457,,14.0,M,5,,Pomerini
+2457,10205,Name2458,,12.0,M,4,,Pomerini
+2458,10206,Name2459,,10.0,M,2,,Pomerini
+2459,10207,Name2460,,22.0,F,2,,Pomerini
+2460,10208,Name2461,,13.0,M,1,,Pomerini
+2461,10209,Name2462,,8.0,M,7,,Pomerini
+2462,10210,Name2463,,25.0,F,6,,Pomerini
+2463,10211,Name2464,,12.0,F,8,,Pomerini
+2464,10212,Name2465,,11.0,M,3,,Pomerini
+2465,10213,Name2466,,41.0,F,4,,Pomerini
+2466,10214,Name2467,,11.0,M,6,,Pomerini
+2467,10215,Name2468,,12.0,F,4,,Pomerini
+2468,10216,Name2469,,21.0,F,6,,Pomerini
+2469,10217,Name2470,,8.0,M,5,,Pomerini
+2470,10218,Name2471,,38.0,M,5,,Pomerini
+2471,10219,Name2472,,48.0,F,3,,Pomerini
+2472,10220,Name2473,,10.0,F,5,,Pomerini
+2473,10221,Name2474,,13.0,F,6,,Pomerini
+2474,10222,Name2475,,10.0,M,1,,Pomerini
+2475,10223,Name2476,,22.0,F,4,,Pomerini
+2476,10224,Name2477,,13.0,M,4,,Pomerini
+2477,10225,Name2478,,9.0,M,6,,Pomerini
+2478,10226,Name2479,,27.0,F,3,,Pomerini
+2479,10227,Name2480,,8.0,M,3,,Pomerini
+2480,10228,Name2481,,11.0,F,5,,Pomerini
+2481,10229,Name2482,,49.0,M,8,,Pomerini
+2482,10230,Name2483,,12.0,M,4,,Pomerini
+2483,10231,Name2484,,37.0,F,6,,Pomerini
+2484,10232,Name2485,,35.0,F,5,,Pomerini
+2485,10233,Name2486,,9.0,M,2,,Pomerini
+2486,10234,Name2487,,10.0,F,5,,Pomerini
+2487,10235,Name2488,,13.0,M,1,,Pomerini
+2488,10236,Name2489,,12.0,M,5,,Pomerini
+2489,10237,Name2490,,13.0,F,3,,Pomerini
+2490,10238,Name2491,,13.0,M,4,,Pomerini
+2491,10239,Name2492,,14.0,F,3,,Pomerini
+2492,10240,Name2493,,9.0,F,4,,Pomerini
+2493,10241,Name2494,,12.0,M,1,,Pomerini
+2494,10242,Name2495,,11.0,F,4,,Pomerini
+2495,10243,Name2496,,10.0,M,4,,Pomerini
+2496,10244,Name2497,,9.0,M,5,,Pomerini
+2497,10245,Name2498,,9.0,F,6,,Pomerini
+2498,10246,Name2499,,9.0,M,6,,Pomerini
+2499,10247,Name2500,,11.0,F,5,,Pomerini
+2500,10248,Name2501,,9.0,M,6,,Pomerini
+2501,10249,Name2502,,12.0,M,5,,Pomerini
+2502,10250,Name2503,,14.0,M,5,,Pomerini
+2503,10251,Name2504,,13.0,F,6,,Pomerini
+2504,10252,Name2505,,33.0,M,3,,Pomerini
+2505,10253,Name2506,,12.0,F,7,,Pomerini
+2506,10254,Name2507,,8.0,M,7,,Pomerini
+2507,10255,Name2508,,11.0,M,6,,Pomerini
+2508,10256,Name2509,,13.0,M,0,,Pomerini
+2509,10257,Name2510,,13.0,F,5,,Pomerini
+2510,10258,Name2511,,46.0,F,7,,Pomerini
+2511,10259,Name2512,,9.0,F,6,,Pomerini
+2512,10260,Name2513,,13.0,F,4,,Pomerini
+2513,10261,Name2514,,9.0,M,4,,Pomerini
+2514,10262,Name2515,,11.0,M,3,,Pomerini
+2515,10263,Name2516,,9.0,M,2,,Pomerini
+2516,10264,Name2517,,11.0,F,7,,Pomerini
+2517,10265,Name2518,,11.0,M,2,,Pomerini
+2518,10266,Name2519,,13.0,M,3,,Pomerini
+2519,10267,Name2520,,13.0,M,2,,Pomerini
+2520,10268,Name2521,,12.0,F,3,,Pomerini
+2521,10269,Name2522,,14.0,F,4,,Pomerini
+2522,10270,Name2523,,10.0,M,4,,Pomerini
+2523,10271,Name2524,,25.0,M,2,,Pomerini
+2524,10272,Name2525,,8.0,F,6,,Pomerini
+2525,10273,Name2526,,8.0,F,8,,Pomerini
+2526,10274,Name2527,,12.0,M,1,,Pomerini
+2527,10275,Name2528,,16.0,F,7,,Pomerini
+2528,10276,Name2529,,38.0,F,5,,Pomerini
+2529,10277,Name2530,,12.0,M,6,,Pomerini
+2530,10278,Name2531,,10.0,F,5,,Pomerini
+2531,10279,Name2532,,49.0,M,6,,Pomerini
+2532,10280,Name2533,,7.0,F,6,,Pomerini
+2533,10281,Name2534,,5.0,F,1,,Pomerini
+2534,10282,Name2535,,21.0,F,5,,Pomerini
+2535,10283,Name2536,,12.0,F,6,,Pomerini
+2536,10284,Name2537,,39.0,F,3,,Pomerini
+2537,10285,Name2538,,27.0,F,3,,Pomerini
+2538,10286,Name2539,,8.0,M,5,,Pomerini
+2539,10287,Name2540,,11.0,M,6,,Pomerini
+2540,10288,Name2541,,13.0,F,3,,Pomerini
+2541,10289,Name2542,,8.0,M,6,,Pomerini
+2542,10290,Name2543,,8.0,F,6,,Pomerini
+2543,10291,Name2544,,8.0,M,2,,Pomerini
+2544,10292,Name2545,,10.0,M,4,,Pomerini
+2545,10293,Name2546,,10.0,M,3,,Pomerini
+2546,10294,Name2547,,24.0,M,6,,Pomerini
+2547,10295,Name2548,,12.0,M,4,,Pomerini
+2548,10296,Name2549,,10.0,M,1,,Pomerini
+2549,10297,Name2550,,53.0,M,1,,Pomerini
+2550,10298,Name2551,,48.0,F,5,,Pomerini
+2551,10299,Name2552,,23.0,M,5,,Pomerini
+2552,10300,Name2553,,12.0,F,1,,Pomerini
+2553,10301,Name2554,,9.0,M,3,,Pomerini
+2554,10302,Name2555,,12.0,M,5,,Pomerini
+2555,10303,Name2556,,23.0,M,1,,Pomerini
+2556,10304,Name2557,,24.0,F,5,,Pomerini
+2557,10305,Name2558,,8.0,M,4,,Pomerini
+2558,10306,Name2559,,11.0,M,2,,Pomerini
+2559,10307,Name2560,,7.0,M,3,,Pomerini
+2560,10308,Name2561,,9.0,F,4,,Pomerini
+2561,10309,Name2562,,26.0,M,6,,Pomerini
+2562,10310,Name2563,,10.0,M,7,,Pomerini
+2563,10311,Name2564,,13.0,F,2,,Pomerini
+2564,10312,Name2565,,7.0,M,3,,Pomerini
+2565,10313,Name2566,,8.0,F,5,,Pomerini
+2566,10314,Name2567,,10.0,F,5,,Pomerini
+2567,10315,Name2568,,9.0,M,6,,Pomerini
+2568,10316,Name2569,,11.0,M,4,,Pomerini
+2569,10317,Name2570,,13.0,F,2,,Pomerini
+2570,10318,Name2571,,13.0,M,4,,Pomerini
+2571,10319,Name2572,,9.0,M,3,,Pomerini
+2572,10320,Name2573,,11.0,F,1,,Pomerini
+2573,10321,Name2574,,48.0,F,4,,Pomerini
+2574,10322,Name2575,,55.0,M,4,,Pomerini
+2575,10323,Name2576,,7.0,F,2,,Pomerini
+2576,10324,Name2577,,9.0,F,4,,Pomerini
+2577,10325,Name2578,,13.0,M,4,,Pomerini
+2578,10326,Name2579,,13.0,F,4,,Pomerini
+2579,10327,Name2580,,30.0,F,4,,Pomerini
+2580,10328,Name2581,,10.0,F,6,,Pomerini
+2581,10329,Name2582,,12.0,F,2,,Pomerini
+2582,10330,Name2583,,9.0,F,5,,Pomerini
+2583,10331,Name2584,,10.0,F,3,,Pomerini
+2584,10332,Name2585,,8.0,F,6,,Pomerini
+2585,10333,Name2586,,10.0,M,4,,Pomerini
+2586,10334,Name2587,,11.0,F,2,,Pomerini
+2587,10335,Name2588,,8.0,M,4,,Pomerini
+2588,10336,Name2589,,12.0,M,1,,Pomerini
+2589,10337,Name2590,,14.0,M,6,,Pomerini
+2590,10338,Name2591,,13.0,F,6,,Pomerini
+2591,10339,Name2592,,12.0,F,6,,Pomerini
+2592,10340,Name2593,,12.0,F,2,,Pomerini
+2593,10341,Name2594,,40.0,F,2,,Pomerini
+2594,10342,Name2595,,9.0,F,4,,Pomerini
+2595,10343,Name2596,,13.0,F,4,,Pomerini
+2596,10344,Name2597,,7.0,M,4,,Pomerini
+2597,10345,Name2598,,15.0,F,3,,Pomerini
+2598,10346,Name2599,,22.0,F,5,,Pomerini
+2599,10347,Name2600,,11.0,M,3,,Pomerini
+2600,10348,Name2601,,25.0,F,3,,Pomerini
+2601,10349,Name2602,,40.0,F,4,,Pomerini
+2602,10350,Name2603,,14.0,F,5,,Pomerini
+2603,10351,Name2604,,13.0,F,6,,Pomerini
+2604,10352,Name2605,,10.0,M,2,,Pomerini
+2605,10353,Name2606,,12.0,M,5,,Pomerini
+2606,10354,Name2607,,22.0,F,2,,Pomerini
+2607,10355,Name2608,,8.0,M,4,,Pomerini
+2608,10356,Name2609,,12.0,F,3,,Pomerini
+2609,10357,Name2610,,10.0,F,3,,Pomerini
+2610,10358,Name2611,,9.0,F,6,,Pomerini
+2611,10359,Name2612,,39.0,F,6,,Pomerini
+2612,10360,Name2613,,9.0,F,2,,Pomerini
+2613,10361,Name2614,,34.0,M,5,,Pomerini
+2614,10362,Name2615,,13.0,M,3,,Pomerini
+2615,10363,Name2616,,8.0,M,4,,Pomerini
+2616,10364,Name2617,,13.0,F,2,,Pomerini
+2617,10365,Name2618,,13.0,M,6,,Pomerini
+2618,10366,Name2619,,9.0,F,6,,Pomerini
+2619,10367,Name2620,,12.0,F,5,,Pomerini
+2620,10368,Name2621,,13.0,F,4,,Pomerini
+2621,10369,Name2622,,22.0,M,7,,Pomerini
+2622,10370,Name2623,,13.0,F,2,,Pomerini
+2623,10371,Name2624,,10.0,M,6,,Pomerini
+2624,10372,Name2625,,13.0,F,6,,Pomerini
+2625,10373,Name2626,,12.0,F,3,,Pomerini
+2626,10374,Name2627,,14.0,F,4,,Pomerini
+2627,10375,Name2628,,11.0,M,6,,Pomerini
+2628,10376,Name2629,,75.0,M,6,,Pomerini
+2629,10377,Name2630,,7.0,M,4,,Pomerini
+2630,10378,Name2631,,8.0,F,4,,Pomerini
+2631,10379,Name2632,,12.0,F,4,,Pomerini
+2632,10380,Name2633,,9.0,M,3,,Pomerini
+2633,10381,Name2634,,35.0,M,6,,Pomerini
+2634,10382,Name2635,,13.0,M,5,,Pomerini
+2635,10383,Name2636,,13.0,F,5,,Pomerini
+2636,10384,Name2637,,12.0,F,6,,Pomerini
+2637,10385,Name2638,,23.0,F,5,,Pomerini
+2638,10386,Name2639,,13.0,F,6,,Pomerini
+2639,10387,Name2640,,7.0,F,3,,Pomerini
+2640,10388,Name2641,,14.0,M,2,,Pomerini
+2641,10389,Name2642,,13.0,M,2,,Pomerini
+2642,10390,Name2643,,22.0,F,6,,Pomerini
+2643,10391,Name2644,,13.0,M,4,,Pomerini
+2644,10392,Name2645,,10.0,M,6,,Pomerini
+2645,10393,Name2646,,8.0,F,6,,Pomerini
+2646,10394,Name2647,,14.0,F,4,,Pomerini
+2647,10395,Name2648,,12.0,M,6,,Pomerini
+2648,10396,Name2649,,9.0,M,2,,Pomerini
+2649,10397,Name2650,,56.0,M,2,,Pomerini
+2650,10398,Name2651,,12.0,F,5,,Pomerini
+2651,10399,Name2652,,61.0,F,3,,Pomerini
+2652,10400,Name2653,,8.0,F,4,,Pomerini
+2653,10401,Name2654,,54.0,M,2,,Pomerini
+2654,10402,Name2655,,11.0,F,3,,Pomerini
+2655,10403,Name2656,,23.0,M,2,,Pomerini
+2656,10404,Name2657,,7.0,F,4,,Pomerini
+2657,10405,Name2658,,15.0,F,3,,Pomerini
+2658,10406,Name2659,,10.0,M,3,,Pomerini
+2659,10407,Name2660,,12.0,M,5,,Pomerini
+2660,10408,Name2661,,11.0,F,4,,Pomerini
+2661,10409,Name2662,,10.0,M,4,,Pomerini
+2662,10410,Name2663,,11.0,F,2,,Pomerini
+2663,10411,Name2664,,11.0,F,4,,Pomerini
+2664,10412,Name2665,,11.0,M,3,,Pomerini
+2665,10413,Name2666,,22.0,F,3,,Pomerini
+2666,10414,Name2667,,10.0,F,5,,Pomerini
+2667,10415,Name2668,,11.0,M,2,,Pomerini
+2668,10416,Name2669,,10.0,F,6,,Pomerini
+2669,10417,Name2670,,26.0,F,8,,Pomerini
+2670,10418,Name2671,,13.0,F,6,,Pomerini
+2671,10419,Name2672,,35.0,M,4,,Pomerini
+2672,10420,Name2673,,27.0,M,5,,Pomerini
+2673,10421,Name2674,,9.0,M,3,,Pomerini
+2674,10422,Name2675,,9.0,M,3,,Pomerini
+2675,10423,Name2676,,9.0,F,3,,Pomerini
+2676,10424,Name2677,,9.0,M,7,,Pomerini
+2677,10425,Name2678,,12.0,M,7,,Pomerini
+2678,10426,Name2679,,14.0,M,5,,Pomerini
+2679,10427,Name2680,,10.0,M,6,,Pomerini
+2680,10428,Name2681,,8.0,M,1,,Pomerini
+2681,10429,Name2682,,12.0,M,4,,Pomerini
+2682,10430,Name2683,,15.0,F,3,,Pomerini
+2683,10431,Name2684,,22.0,M,4,,Pomerini
+2684,10432,Name2685,,13.0,F,1,,Pomerini
+2685,10433,Name2686,,13.0,M,2,,Pomerini
+2686,10434,Name2687,,24.0,F,6,,Pomerini
+2687,10435,Name2688,,13.0,F,0,,Pomerini
+2688,10436,Name2689,,12.0,M,4,,Pomerini
+2689,10437,Name2690,,60.0,M,6,,Pomerini
+2690,10438,Name2691,,13.0,M,4,,Pomerini
+2691,10439,Name2692,,10.0,F,4,,Pomerini
+2692,10440,Name2693,,9.0,M,4,,Pomerini
+2693,10441,Name2694,,12.0,M,6,,Pomerini
+2694,10442,Name2695,,8.0,F,6,,Pomerini
+2695,10443,Name2696,,16.0,M,6,,Pomerini
+2696,10444,Name2697,,37.0,M,3,,Pomerini
+2697,10445,Name2698,,13.0,F,7,,Pomerini
+2698,10446,Name2699,,45.0,F,4,,Pomerini
+2699,10447,Name2700,,40.0,F,3,,Pomerini
+2700,10448,Name2701,,46.0,F,5,,Pomerini
+2701,10449,Name2702,,40.0,M,0,,Pomerini
+2702,10450,Name2703,,8.0,M,3,,Pomerini
+2703,10451,Name2704,,9.0,M,7,,Pomerini
+2704,10452,Name2705,,10.0,M,1,,Pomerini
+2705,10453,Name2706,,12.0,M,4,,Pomerini
+2706,10454,Name2707,,12.0,F,6,,Pomerini
+2707,10455,Name2708,,7.0,F,1,,Pomerini
+2708,10456,Name2709,,12.0,F,5,,Pomerini
+2709,10457,Name2710,,12.0,F,4,,Pomerini
+2710,10458,Name2711,,13.0,F,0,,Pomerini
+2711,10459,Name2712,,8.0,M,6,,Pomerini
+2712,10460,Name2713,,12.0,F,1,,Pomerini
+2713,10461,Name2714,,7.0,F,6,,Pomerini
+2714,10462,Name2715,,60.0,M,8,,Pomerini
+2715,10463,Name2716,,8.0,M,4,,Pomerini
+2716,10464,Name2717,,14.0,F,3,,Pomerini
+2717,10465,Name2718,,13.0,M,1,,Pomerini
+2718,10466,Name2719,,10.0,M,2,,Pomerini
+2719,10467,Name2720,,3.0,F,4,,Pomerini
+2720,10468,Name2721,,29.0,F,4,,Pomerini
+2721,10469,Name2722,,8.0,F,4,,Pomerini
+2722,10470,Name2723,,8.0,M,1,,Pomerini
+2723,10471,Name2724,,10.0,F,4,,Pomerini
+2724,10472,Name2725,,11.0,M,4,,Pomerini
+2725,10473,Name2726,,78.0,F,1,,Pomerini
+2726,10474,Name2727,,13.0,M,1,,Pomerini
+2727,10475,Name2728,,14.0,M,2,,Pomerini
+2728,10476,Name2729,,60.0,M,4,,Pomerini
+2729,10477,Name2730,,49.0,M,6,,Pomerini
+2730,10478,Name2731,,54.0,F,4,,Pomerini
+2731,10479,Name2732,,35.0,M,2,,Pomerini
+2732,10480,Name2733,,6.0,F,1,,Pomerini
+2733,10481,Name2734,,10.0,F,5,,Pomerini
+2734,10482,Name2735,,13.0,F,5,,Pomerini
+2735,10483,Name2736,,9.0,M,5,,Pomerini
+2736,10484,Name2737,,8.0,M,3,,Pomerini
+2737,10485,Name2738,,11.0,F,2,,Pomerini
+2738,10486,Name2739,,11.0,M,4,,Pomerini
+2739,10487,Name2740,,8.0,M,0,,Pomerini
+2740,10488,Name2741,,13.0,M,1,,Pomerini
+2741,10489,Name2742,,15.0,F,6,,Pomerini
+2742,10490,Name2743,,10.0,F,4,,Pomerini
+2743,10491,Name2744,,8.0,M,5,,Pomerini
+2744,10492,Name2745,,7.0,M,2,,Pomerini
+2745,10493,Name2746,,46.0,F,4,,Pomerini
+2746,10494,Name2747,,9.0,M,1,,Pomerini
+2747,10495,Name2748,,11.0,F,6,,Pomerini
+2748,10496,Name2749,,10.0,F,2,,Pomerini
+2749,10497,Name2750,,9.0,M,4,,Pomerini
+2750,10498,Name2751,,11.0,M,0,,Pomerini
+2751,10499,Name2752,,9.0,M,3,,Pomerini
+2752,10500,Name2753,,9.0,M,3,,Pomerini
+2753,10501,Name2754,,11.0,F,3,,Pomerini
+2754,10502,Name2755,,8.0,F,2,,Pomerini
+2755,10503,Name2756,,10.0,F,4,,Pomerini
+2756,10504,Name2757,,10.0,F,4,,Pomerini
+2757,10505,Name2758,,8.0,F,5,,Pomerini
+2758,10506,Name2759,,9.0,F,3,,Pomerini
+2759,10507,Name2760,,35.0,F,5,,Pomerini
+2760,10508,Name2761,,23.0,M,6,,Pomerini
+2761,10509,Name2762,,11.0,F,0,,Pomerini
+2762,10510,Name2763,,9.0,M,4,,Pomerini
+2763,10511,Name2764,,11.0,F,6,,Pomerini
+2764,10512,Name2765,,13.0,M,4,,Pomerini
+2765,10513,Name2766,,8.0,M,2,,Pomerini
+2766,10514,Name2767,,9.0,F,7,,Pomerini
+2767,10515,Name2768,,7.0,M,4,,Pomerini
+2768,10516,Name2769,,15.0,F,5,,Pomerini
+2769,10517,Name2770,,4.0,F,1,,Pomerini
+2770,10518,Name2771,,11.0,M,1,,Pomerini
+2771,10519,Name2772,,7.0,F,1,,Pomerini
+2772,10520,Name2773,,8.0,M,4,,Pomerini
+2773,10521,Name2774,,13.0,F,1,,Pomerini
+2774,10522,Name2775,,13.0,M,3,,Pomerini
+2775,10523,Name2776,,13.0,F,5,,Pomerini
+2776,10524,Name2777,,13.0,F,1,,Pomerini
+2777,10525,Name2778,,14.0,F,1,,Pomerini
+2778,10526,Name2779,,78.0,F,4,,Pomerini
+2779,10527,Name2780,,26.0,F,4,,Pomerini
+2780,10528,Name2781,,9.0,M,6,,Pomerini
+2781,10529,Name2782,,28.0,F,5,,Pomerini
+2782,10530,Name2783,,10.0,F,3,,Pomerini
+2783,10531,Name2784,,13.0,F,6,,Pomerini
+2784,10532,Name2785,,10.0,F,2,,Pomerini
+2785,10533,Name2786,,13.0,M,5,,Pomerini
+2786,10534,Name2787,,15.0,F,4,,Pomerini
+2787,10535,Name2788,,13.0,M,4,,Pomerini
+2788,10536,Name2789,,10.0,M,6,,Pomerini
+2789,10537,Name2790,,41.0,M,2,,Pomerini
+2790,10538,Name2791,,9.0,F,4,,Pomerini
+2791,10539,Name2792,,27.0,F,4,,Pomerini
+2792,10540,Name2793,,60.0,M,0,,Pomerini
+2793,10541,Name2794,,12.0,M,6,,Pomerini
+2794,10542,Name2795,,13.0,M,2,,Pomerini
+2795,10543,Name2796,,12.0,M,4,,Pomerini
+2796,10544,Name2797,,4.0,F,6,,Pomerini
+2797,10545,Name2798,,12.0,F,4,,Pomerini
+2798,10546,Name2799,,9.0,F,4,,Pomerini
+2799,10547,Name2800,,13.0,F,2,,Pomerini
+2800,10548,Name2801,,7.0,F,5,,Pomerini
+2801,10549,Name2802,,11.0,M,4,,Pomerini
+2802,10550,Name2803,,56.0,M,4,,Pomerini
+2803,10551,Name2804,,14.0,M,6,,Pomerini
+2804,10552,Name2805,,25.0,M,3,,Pomerini
+2805,10553,Name2806,,48.0,F,4,,Pomerini
+2806,10554,Name2807,,21.0,M,1,,Pomerini
+2807,10555,Name2808,,25.0,F,3,,Pomerini
+2808,10556,Name2809,,34.0,F,4,,Pomerini
+2809,10557,Name2810,,27.0,M,3,,Pomerini
+2810,10558,Name2811,,10.0,F,3,,Pomerini
+2811,10559,Name2812,,7.0,F,3,,Pomerini
+2812,10560,Name2813,,10.0,F,2,,Pomerini
+2813,10561,Name2814,,11.0,M,3,,Pomerini
+2814,10562,Name2815,,24.0,F,4,,Pomerini
+2815,10563,Name2816,,27.0,M,5,,Pomerini
+2816,10564,Name2817,,10.0,M,4,,Pomerini
+2817,10565,Name2818,,7.0,M,5,,Pomerini
+2818,10566,Name2819,,10.0,M,4,,Pomerini
+2819,10567,Name2820,,11.0,F,3,,Pomerini
+2820,10568,Name2821,,12.0,M,3,,Pomerini
+2821,10569,Name2822,,4.0,M,6,,Pomerini
+2822,10570,Name2823,,9.0,M,0,,Pomerini
+2823,10571,Name2824,,37.0,F,3,,Pomerini
+2824,10572,Name2825,,12.0,M,3,,Pomerini
+2825,10573,Name2826,,4.0,M,1,,Pomerini
+2826,10574,Name2827,,12.0,F,1,,Pomerini
+2827,10575,Name2828,,11.0,F,8,,Pomerini
+2828,10576,Name2829,,9.0,M,4,,Pomerini
+2829,10577,Name2830,,11.0,F,4,,Pomerini
+2830,10578,Name2831,,12.0,M,5,,Pomerini
+2831,10579,Name2832,,13.0,F,6,,Pomerini
+2832,10580,Name2833,,14.0,F,5,,Pomerini
+2833,10581,Name2834,,9.0,F,2,,Pomerini
+2834,10582,Name2835,,7.0,M,3,,Pomerini
+2835,10583,Name2836,,13.0,F,3,,Pomerini
+2836,10584,Name2837,,13.0,F,6,,Pomerini
+2837,10585,Name2838,,11.0,M,6,,Pomerini
+2838,10586,Name2839,,9.0,F,4,,Pomerini
+2839,10587,Name2840,,11.0,M,6,,Pomerini
+2840,10588,Name2841,,9.0,M,5,,Pomerini
+2841,10589,Name2842,,8.0,F,2,,Pomerini
+2842,10590,Name2843,,12.0,M,6,,Pomerini
+2843,10591,Name2844,,10.0,M,6,,Pomerini
+2844,10592,Name2845,,11.0,M,3,,Pomerini
+2845,10593,Name2846,,7.0,F,3,,Pomerini
+2846,10594,Name2847,,9.0,M,5,,Pomerini
+2847,10595,Name2848,,7.0,F,4,,Pomerini
+2848,10596,Name2849,,13.0,F,5,,Pomerini
+2849,10597,Name2850,,13.0,F,6,,Pomerini
+2850,10598,Name2851,,9.0,M,3,,Pomerini
+2851,10599,Name2852,,11.0,M,5,,Pomerini
+2852,10600,Name2853,,8.0,F,4,,Pomerini
+2853,10601,Name2854,,10.0,F,5,,Pomerini
+2854,10602,Name2855,,8.0,F,3,,Pomerini
+2855,10603,Name2856,,9.0,F,3,,Pomerini
+2856,10604,Name2857,,10.0,F,4,,Pomerini
+2857,10605,Name2858,,11.0,M,5,,Pomerini
+2858,10606,Name2859,,10.0,M,3,,Pomerini
+2859,10607,Name2860,,60.0,M,3,,Pomerini
+2860,10608,Name2861,,9.0,M,3,,Pomerini
+2861,10609,Name2862,,12.0,M,7,,Pomerini
+2862,10610,Name2863,,8.0,F,5,,Pomerini
+2863,10611,Name2864,,10.0,F,2,,Pomerini
+2864,10612,Name2865,,12.0,F,3,,Pomerini
+2865,10613,Name2866,,13.0,F,3,,Pomerini
+2866,10614,Name2867,,12.0,F,3,,Pomerini
+2867,10615,Name2868,,11.0,M,4,,Pomerini
+2868,10616,Name2869,,9.0,F,5,,Pomerini
+2869,10617,Name2870,,6.0,F,4,,Pomerini
+2870,10618,Name2871,,8.0,M,4,,Pomerini
+2871,10619,Name2872,,11.0,F,5,,Pomerini
+2872,10620,Name2873,,11.0,M,3,,Pomerini
+2873,10621,Name2874,,9.0,M,7,,Pomerini
+2874,10622,Name2875,,9.0,M,2,,Pomerini
+2875,10623,Name2876,,29.0,F,6,,Pomerini
+2876,10624,Name2877,,13.0,M,3,,Pomerini
+2877,10625,Name2878,,55.0,M,3,,Pomerini
+2878,10626,Name2879,,9.0,F,7,,Pomerini
+2879,10627,Name2880,,9.0,M,4,,Pomerini
+2880,10628,Name2881,,12.0,F,5,,Pomerini
+2881,10629,Name2882,,11.0,M,5,,Pomerini
+2882,10630,Name2883,,12.0,M,6,,Pomerini
+2883,10631,Name2884,,35.0,F,4,,Pomerini
+2884,10632,Name2885,,37.0,M,6,,Pomerini
+2885,10633,Name2886,,24.0,M,4,,Pomerini
+2886,10634,Name2887,,9.0,M,6,,Pomerini
+2887,10635,Name2888,,13.0,F,4,,Pomerini
+2888,10636,Name2889,,11.0,F,5,,Pomerini
+2889,10637,Name2890,,3.0,F,6,,Pomerini
+2890,10638,Name2891,,56.0,F,3,,Pomerini
+2891,10639,Name2892,,8.0,M,6,,Pomerini
+2892,10640,Name2893,,12.0,F,7,,Pomerini
+2893,10641,Name2894,,11.0,F,4,,Pomerini
+2894,10642,Name2895,,19.0,M,6,,Pomerini
+2895,10643,Name2896,,9.0,F,6,,Pomerini
+2896,10644,Name2897,,13.0,M,3,,Pomerini
+2897,10645,Name2898,,8.0,F,0,,Pomerini
+2898,10646,Name2899,,24.0,F,5,,Pomerini
+2899,10647,Name2900,,9.0,M,5,,Pomerini
+2900,10648,Name2901,,12.0,M,3,,Pomerini
+2901,10649,Name2902,,13.0,M,5,,Pomerini
+2902,10650,Name2903,,24.0,M,4,,Pomerini
+2903,10651,Name2904,,8.0,F,5,,Pomerini
+2904,10652,Name2905,,9.0,M,2,,Pomerini
+2905,10653,Name2906,,12.0,M,1,,Pomerini
+2906,10654,Name2907,,56.0,M,2,,Pomerini
+2907,10655,Name2908,,7.0,F,6,,Pomerini
+2908,10656,Name2909,,50.0,F,2,,Pomerini
+2909,10657,Name2910,,56.0,F,3,,Pomerini
+2910,10658,Name2911,,8.0,F,3,,Pomerini
+2911,10659,Name2912,,13.0,M,5,,Pomerini
+2912,10660,Name2913,,12.0,M,4,,Pomerini
+2913,10661,Name2914,,12.0,F,3,,Pomerini
+2914,10662,Name2915,,10.0,M,3,,Pomerini
+2915,10663,Name2916,,78.0,M,6,,Pomerini
+2916,10664,Name2917,,11.0,F,6,,Pomerini
+2917,10665,Name2918,,11.0,F,6,,Pomerini
+2918,10666,Name2919,,13.0,F,8,,Pomerini
+2919,10667,Name2920,,7.0,F,4,,Pomerini
+2920,10668,Name2921,,13.0,M,4,,Pomerini
+2921,10669,Name2922,,13.0,M,5,,Pomerini
+2922,10670,Name2923,,14.0,F,4,,Pomerini
+2923,10671,Name2924,,9.0,F,4,,Pomerini
+2924,10672,Name2925,,34.0,F,3,,Pomerini
+2925,10673,Name2926,,11.0,M,3,,Pomerini
+2926,10674,Name2927,,13.0,F,6,,Pomerini
+2927,10675,Name2928,,11.0,M,1,,Pomerini
+2928,10676,Name2929,,30.0,M,6,,Pomerini
+2929,10677,Name2930,,9.0,F,3,,Pomerini
+2930,10678,Name2931,,12.0,F,4,,Pomerini
+2931,10679,Name2932,,9.0,M,6,,Pomerini
+2932,10680,Name2933,,12.0,F,4,,Pomerini
+2933,10681,Name2934,,6.0,F,3,,Pomerini
+2934,10682,Name2935,,9.0,M,6,,Pomerini
+2935,10683,Name2936,,13.0,M,6,,Pomerini
+2936,10684,Name2937,,11.0,M,1,,Pomerini
+2937,10685,Name2938,,4.0,F,6,,Pomerini
+2938,10686,Name2939,,11.0,F,3,,Pomerini
+2939,10687,Name2940,,7.0,M,3,,Pomerini
+2940,10688,Name2941,,14.0,M,3,,Pomerini
+2941,10689,Name2942,,13.0,M,3,,Pomerini
+2942,10690,Name2943,,40.0,F,6,,Pomerini
+2943,10691,Name2944,,13.0,M,3,,Pomerini
+2944,10692,Name2945,,12.0,M,3,,Pomerini
+2945,10693,Name2946,,23.0,F,1,,Pomerini
+2946,10694,Name2947,,13.0,M,3,,Pomerini
+2947,10695,Name2948,,9.0,F,3,,Pomerini
+2948,10696,Name2949,,27.0,M,8,,Pomerini
+2949,10697,Name2950,,9.0,F,7,,Pomerini
+2950,10698,Name2951,,4.0,M,5,,Pomerini
+2951,10699,Name2952,,30.0,F,4,,Pomerini
+2952,10700,Name2953,,13.0,F,6,,Pomerini
+2953,10701,Name2954,,12.0,F,2,,Pomerini
+2954,10702,Name2955,,13.0,M,4,,Pomerini
+2955,10703,Name2956,,12.0,M,1,,Pomerini
+2956,10704,Name2957,,14.0,F,2,,Pomerini
+2957,10705,Name2958,,27.0,M,3,,Pomerini
+2958,10706,Name2959,,13.0,M,4,,Pomerini
+2959,10707,Name2960,,13.0,M,3,,Pomerini
+2960,10708,Name2961,,10.0,M,5,,Pomerini
+2961,10709,Name2962,,24.0,F,3,,Pomerini
+2962,10710,Name2963,,46.0,M,6,,Pomerini
+2963,10711,Name2964,,12.0,F,4,,Pomerini
+2964,10712,Name2965,,13.0,M,3,,Pomerini
+2965,10713,Name2966,,15.0,M,6,,Pomerini
+2966,10714,Name2967,,13.0,F,3,,Pomerini
+2967,10715,Name2968,,12.0,M,4,,Pomerini
+2968,10716,Name2969,,7.0,M,6,,Pomerini
+2969,10717,Name2970,,7.0,F,5,,Pomerini
+2970,10718,Name2971,,60.0,F,4,,Pomerini
+2971,10719,Name2972,,11.0,M,7,,Pomerini
+2972,10720,Name2973,,37.0,F,4,,Pomerini
+2973,10721,Name2974,,90.0,F,2,,Pomerini
+2974,10722,Name2975,,11.0,M,4,,Pomerini
+2975,10723,Name2976,,11.0,F,4,,Pomerini
+2976,10724,Name2977,,14.0,M,7,,Pomerini
+2977,10725,Name2978,,9.0,M,5,,Pomerini
+2978,10726,Name2979,,9.0,M,1,,Pomerini
+2979,10727,Name2980,,7.0,M,4,,Pomerini
+2980,10728,Name2981,,11.0,M,1,,Pomerini
+2981,10729,Name2982,,37.0,F,4,,Pomerini
+2982,10730,Name2983,,8.0,F,2,,Pomerini
+2983,10731,Name2984,,13.0,F,1,,Pomerini
+2984,10732,Name2985,,27.0,M,1,,Pomerini
+2985,10733,Name2986,,11.0,M,6,,Pomerini
+2986,10734,Name2987,,9.0,M,4,,Pomerini
+2987,10735,Name2988,,23.0,F,4,,Pomerini
+2988,10736,Name2989,,9.0,F,1,,Pomerini
+2989,10737,Name2990,,11.0,M,3,,Pomerini
+2990,10738,Name2991,,14.0,F,4,,Pomerini
+2991,10739,Name2992,,11.0,F,3,,Pomerini
+2992,10740,Name2993,,55.0,F,3,,Pomerini
+2993,10741,Name2994,,60.0,F,6,,Pomerini
+2994,10742,Name2995,,90.0,M,2,,Pomerini
+2995,10743,Name2996,,13.0,F,5,,Pomerini
+2996,10744,Name2997,,11.0,M,2,,Pomerini
+2997,10745,Name2998,,13.0,F,1,,Pomerini
+2998,10746,Name2999,,9.0,F,4,,Pomerini
+2999,10747,Name3000,,37.0,F,6,,Pomerini
+3000,10748,Name3001,,12.0,F,4,,Pomerini
+3001,10749,Name3002,,10.0,F,7,,Pomerini
+3002,10750,Name3003,,10.0,F,3,,Pomerini
+3003,10751,Name3004,,12.0,F,2,,Pomerini
+3004,10752,Name3005,,9.0,F,4,,Pomerini
+3005,10753,Name3006,,13.0,F,3,,Pomerini
+3006,10754,Name3007,,13.0,M,2,,Pomerini
+3007,10755,Name3008,,9.0,M,3,,Pomerini
+3008,10756,Name3009,,11.0,M,3,,Pomerini
+3009,10757,Name3010,,12.0,M,2,,Pomerini
+3010,10758,Name3011,,13.0,F,6,,Pomerini
+3011,10759,Name3012,,12.0,M,1,,Pomerini
+3012,10760,Name3013,,35.0,F,1,,Pomerini
+3013,10761,Name3014,,13.0,F,3,,Pomerini
+3014,10762,Name3015,,8.0,F,6,,Pomerini
+3015,10763,Name3016,,8.0,M,2,,Pomerini
+3016,10764,Name3017,,10.0,M,6,,Pomerini
+3017,10765,Name3018,,13.0,F,3,,Pomerini
+3018,10766,Name3019,,16.0,M,2,,Pomerini
+3019,10767,Name3020,,8.0,F,6,,Pomerini
+3020,10768,Name3021,,25.0,M,2,,Pomerini
+3021,10769,Name3022,,8.0,M,6,,Pomerini
+3022,10770,Name3023,,37.0,F,4,,Pomerini
+3023,10771,Name3024,,13.0,F,4,,Pomerini
+3024,10772,Name3025,,12.0,F,3,,Pomerini
+3025,10773,Name3026,,10.0,F,2,,Pomerini
+3026,10774,Name3027,,7.0,M,6,,Pomerini
+3027,10775,Name3028,,13.0,F,6,,Pomerini
+3028,10776,Name3029,,15.0,F,4,,Pomerini
+3029,10777,Name3030,,27.0,F,5,,Pomerini
+3030,10778,Name3031,,75.0,M,1,,Pomerini
+3031,10779,Name3032,,23.0,F,1,,Pomerini
+3032,10780,Name3033,,11.0,F,2,,Pomerini
+3033,10781,Name3034,,9.0,M,4,,Pomerini
+3034,10782,Name3035,,10.0,F,4,,Pomerini
+3035,10783,Name3036,,8.0,F,3,,Pomerini
+3036,10784,Name3037,,61.0,M,2,,Pomerini
+3037,10785,Name3038,,5.0,M,1,,Pomerini
+3038,10786,Name3039,,11.0,F,4,,Pomerini
+3039,10787,Name3040,,13.0,F,6,,Pomerini
+3040,10788,Name3041,,10.0,F,7,,Pomerini
+3041,10789,Name3042,,12.0,M,6,,Pomerini
+3042,10790,Name3043,,14.0,M,2,,Pomerini
+3043,10791,Name3044,,10.0,M,5,,Pomerini
+3044,10792,Name3045,,9.0,M,2,,Pomerini
+3045,10793,Name3046,,10.0,F,5,,Pomerini
+3046,10794,Name3047,,10.0,M,6,,Pomerini
+3047,10795,Name3048,,39.0,F,6,,Pomerini
+3048,10796,Name3049,,15.0,M,6,,Pomerini
+3049,10797,Name3050,,9.0,F,3,,Pomerini
+3050,10798,Name3051,,8.0,F,1,,Pomerini
+3051,10799,Name3052,,11.0,M,6,,Pomerini
+3052,10800,Name3053,,14.0,F,6,,Pomerini
+3053,10801,Name3054,,7.0,F,6,,Pomerini
+3054,10802,Name3055,,12.0,M,6,,Pomerini
+3055,10803,Name3056,,9.0,M,2,,Pomerini
+3056,10804,Name3057,,8.0,M,4,,Pomerini
+3057,10805,Name3058,,13.0,F,6,,Pomerini
+3058,10806,Name3059,,27.0,F,6,,Pomerini
+3059,10807,Name3060,,8.0,M,4,,Pomerini
+3060,10808,Name3061,,11.0,M,3,,Pomerini
+3061,10809,Name3062,,39.0,M,3,,Pomerini
+3062,10810,Name3063,,13.0,F,3,,Pomerini
+3063,10811,Name3064,,14.0,M,3,,Pomerini
+3064,10812,Name3065,,12.0,M,2,,Pomerini
+3065,10813,Name3066,,14.0,F,0,,Pomerini
+3066,10814,Name3067,,12.0,F,4,,Pomerini
+3067,10815,Name3068,,13.0,M,4,,Pomerini
+3068,10816,Name3069,,9.0,F,3,,Pomerini
+3069,10817,Name3070,,7.0,F,4,,Pomerini
+3070,10818,Name3071,,7.0,M,6,,Pomerini
+3071,10819,Name3072,,10.0,M,4,,Pomerini
+3072,10820,Name3073,,12.0,M,2,,Pomerini
+3073,10821,Name3074,,13.0,M,5,,Pomerini
+3074,10822,Name3075,,60.0,F,4,,Pomerini
+3075,10823,Name3076,,13.0,F,3,,Pomerini
+3076,10824,Name3077,,9.0,F,1,,Pomerini
+3077,10825,Name3078,,13.0,F,5,,Pomerini
+3078,10826,Name3079,,10.0,M,3,,Pomerini
+3079,10827,Name3080,,7.0,F,4,,Pomerini
+3080,10828,Name3081,,12.0,F,4,,Pomerini
+3081,10829,Name3082,,10.0,M,2,,Pomerini
+3082,10830,Name3083,,12.0,F,4,,Pomerini
+3083,10831,Name3084,,10.0,F,6,,Pomerini
+3084,10832,Name3085,,8.0,M,1,,Pomerini
+3085,10833,Name3086,,14.0,F,5,,Pomerini
+3086,10834,Name3087,,10.0,F,2,,Pomerini
+3087,10835,Name3088,,13.0,M,3,,Pomerini
+3088,10836,Name3089,,10.0,F,4,,Pomerini
+3089,10837,Name3090,,23.0,M,6,,Pomerini
+3090,10838,Name3091,,8.0,F,3,,Pomerini
+3091,10839,Name3092,,12.0,F,4,,Pomerini
+3092,10840,Name3093,,11.0,F,6,,Pomerini
+3093,10841,Name3094,,8.0,M,1,,Pomerini
+3094,10842,Name3095,,10.0,M,3,,Pomerini
