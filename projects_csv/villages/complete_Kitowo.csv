@@ -26,7 +26,7 @@
 24,25,Name25,Maji,19,M,4,,Kitowo
 25,26,Name26,Maji,12,F,3,,Kitowo
 26,27,Name27,Maji,12,M,2,,Kitowo
-27,28,Name28,Maji,8,F,7,,Kitowo
+27,28,Name28,Maji,8,F,3,,Kitowo
 28,29,Name29,Maji,27,F,3,,Kitowo
 29,30,Name30,Maji,10,M,4,,Kitowo
 30,31,Name31,Maji,46,F,4,,Kitowo
@@ -86,7 +86,7 @@
 84,85,Name85,Maji,14,F,5,,Kitowo
 85,86,Name86,Maji,7,F,6,,Kitowo
 86,87,Name87,Maji,12,F,6,,Kitowo
-87,88,Name88,Maji,13,F,3,,Kitowo
+87,88,Name88,Maji,13,F,8,,Kitowo
 88,89,Name89,Maji,9,F,6,,Kitowo
 89,90,Name90,Maji,13,M,3,,Kitowo
 90,91,Name91,Maji,12,F,7,,Kitowo
@@ -507,7 +507,7 @@
 505,506,Name506,Maji,9,M,4,,Kitowo
 506,507,Name507,Maji,13,M,4,,Kitowo
 507,508,Name508,Maji,14,M,2,,Kitowo
-508,509,Name509,Maji,15,F,6,,Kitowo
+508,509,Name509,Maji,15,F,8,,Kitowo
 509,510,Name510,Maji,9,F,4,,Kitowo
 510,511,Name511,Maji,12,M,4,,Kitowo
 511,512,Name512,Maji,27,F,3,,Kitowo
@@ -562,7 +562,7 @@
 560,561,Name561,Maji,10,F,3,,Kitowo
 561,562,Name562,Maji,9,M,4,,Kitowo
 562,563,Name563,Maji,8,M,4,,Kitowo
-563,564,Name564,Maji,7,F,7,,Kitowo
+563,564,Name564,Maji,7,F,8,,Kitowo
 564,565,Name565,Maji,9,M,6,,Kitowo
 565,566,Name566,Maji,9,F,4,,Kitowo
 566,567,Name567,Maji,13,F,6,,Kitowo
@@ -940,7 +940,7 @@
 938,939,Name939,Maji,14,F,7,,Kitowo
 939,940,Name940,Maji,10,M,3,,Kitowo
 940,941,Name941,Maji,11,M,1,,Kitowo
-941,942,Name942,Maji,13,M,2,,Kitowo
+941,942,Name942,Maji,13,M,8,,Kitowo
 942,943,Name943,Maji,9,F,3,,Kitowo
 943,944,Name944,Maji,11,F,0,,Kitowo
 944,945,Name945,Maji,12,F,4,,Kitowo
@@ -1207,7 +1207,7 @@
 1205,1206,Name1206,Maji,30,F,5,,Kitowo
 1206,1207,Name1207,Maji,11,M,7,,Kitowo
 1207,1208,Name1208,Maji,10,F,1,,Kitowo
-1208,1209,Name1209,Maji,8,F,1,,Kitowo
+1208,1209,Name1209,Maji,8,F,8,,Kitowo
 1209,1210,Name1210,Maji,11,M,4,,Kitowo
 1210,1211,Name1211,Maji,12,F,4,,Kitowo
 1211,1212,Name1212,Maji,13,F,4,,Kitowo
@@ -1556,7 +1556,7 @@
 1554,1555,Name1555,Maji,60,M,4,,Kitowo
 1555,1556,Name1556,Maji,12,M,1,,Kitowo
 1556,1557,Name1557,Maji,11,F,3,,Kitowo
-1557,1558,Name1558,Maji,10,F,7,,Kitowo
+1557,1558,Name1558,Maji,10,F,6,,Kitowo
 1558,1559,Name1559,Maji,56,F,3,,Kitowo
 1559,1560,Name1560,Maji,13,M,4,,Kitowo
 1560,1561,Name1561,Maji,4,M,3,,Kitowo
@@ -1635,7 +1635,7 @@
 1633,1634,Name1634,Maji,4,F,4,,Kitowo
 1634,1635,Name1635,Maji,12,M,7,,Kitowo
 1635,1636,Name1636,Maji,12,F,6,,Kitowo
-1636,1637,Name1637,Maji,8,F,7,,Kitowo
+1636,1637,Name1637,Maji,8,F,2,,Kitowo
 1637,1638,Name1638,Maji,10,F,3,,Kitowo
 1638,1639,Name1639,Maji,11,M,5,,Kitowo
 1639,1640,Name1640,Maji,9,F,7,,Kitowo
@@ -1958,7 +1958,7 @@
 1956,1957,Name1957,Maji,10,F,4,,Kitowo
 1957,1958,Name1958,Maji,40,F,3,,Kitowo
 1958,1959,Name1959,Maji,11,M,3,,Kitowo
-1959,1960,Name1960,Maji,11,F,7,,Kitowo
+1959,1960,Name1960,Maji,11,F,1,,Kitowo
 1960,1961,Name1961,Maji,12,F,3,,Kitowo
 1961,1962,Name1962,Maji,56,F,3,,Kitowo
 1962,1963,Name1963,Maji,15,M,4,,Kitowo
@@ -2020,7 +2020,7 @@
 2018,2019,Name2019,Maji,19,F,4,,Kitowo
 2019,2020,Name2020,Maji,8,M,3,,Kitowo
 2020,2021,Name2021,Maji,11,F,3,,Kitowo
-2021,2022,Name2022,Maji,14,F,0,,Kitowo
+2021,2022,Name2022,Maji,14,F,8,,Kitowo
 2022,2023,Name2023,Maji,49,F,6,,Kitowo
 2023,2024,Name2024,Maji,15,M,5,,Kitowo
 2024,2025,Name2025,Maji,12,F,7,,Kitowo
@@ -2137,7 +2137,7 @@
 2135,2136,Name2136,Maji,10,F,2,,Kitowo
 2136,2137,Name2137,Maji,13,M,2,,Kitowo
 2137,2138,Name2138,Maji,12,M,4,,Kitowo
-2138,2139,Name2139,Maji,32,F,4,,Kitowo
+2138,2139,Name2139,Maji,32,F,8,,Kitowo
 2139,2140,Name2140,Maji,12,M,2,,Kitowo
 2140,2141,Name2141,Maji,55,F,5,,Kitowo
 2141,2142,Name2142,Maji,11,M,4,,Kitowo
@@ -2401,7 +2401,7 @@
 2399,2400,Name2400,Maji,7,M,0,,Kitowo
 2400,2401,Name2401,Maji,13,F,6,,Kitowo
 2401,2402,Name2402,Maji,7,M,2,,Kitowo
-2402,2403,Name2403,Maji,8,M,7,,Kitowo
+2402,2403,Name2403,Maji,8,M,4,,Kitowo
 2403,2404,Name2404,Maji,13,F,3,,Kitowo
 2404,2405,Name2405,Maji,10,F,3,,Kitowo
 2405,2406,Name2406,Maji,8,F,3,,Kitowo
@@ -2822,7 +2822,7 @@
 2820,2821,Name2821,,10,M,6,,Kitowo
 2821,2822,Name2822,,9,M,3,,Kitowo
 2822,2823,Name2823,,12,F,7,,Kitowo
-2823,2824,Name2824,,9,M,7,,Kitowo
+2823,2824,Name2824,,9,M,8,,Kitowo
 2824,2825,Name2825,,27,F,3,,Kitowo
 2825,2826,Name2826,,39,F,3,,Kitowo
 2826,2827,Name2827,,9,M,6,,Kitowo

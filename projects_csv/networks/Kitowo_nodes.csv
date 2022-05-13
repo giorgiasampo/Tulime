@@ -26,7 +26,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 25,Name25,Maji,19,M,4,nan,Kitowo
 26,Name26,Maji,12,F,3,nan,Kitowo
 27,Name27,Maji,12,M,2,nan,Kitowo
-28,Name28,Maji,8,F,7,nan,Kitowo
+28,Name28,Maji,8,F,3,nan,Kitowo
 29,Name29,Maji,27,F,3,nan,Kitowo
 30,Name30,Maji,10,M,4,nan,Kitowo
 31,Name31,Maji,46,F,4,nan,Kitowo
@@ -86,7 +86,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 85,Name85,Maji,14,F,5,nan,Kitowo
 86,Name86,Maji,7,F,6,nan,Kitowo
 87,Name87,Maji,12,F,6,nan,Kitowo
-88,Name88,Maji,13,F,3,nan,Kitowo
+88,Name88,Maji,13,F,8,nan,Kitowo
 89,Name89,Maji,9,F,6,nan,Kitowo
 90,Name90,Maji,13,M,3,nan,Kitowo
 91,Name91,Maji,12,F,7,nan,Kitowo
@@ -507,7 +507,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 506,Name506,Maji,9,M,4,nan,Kitowo
 507,Name507,Maji,13,M,4,nan,Kitowo
 508,Name508,Maji,14,M,2,nan,Kitowo
-509,Name509,Maji,15,F,6,nan,Kitowo
+509,Name509,Maji,15,F,8,nan,Kitowo
 510,Name510,Maji,9,F,4,nan,Kitowo
 511,Name511,Maji,12,M,4,nan,Kitowo
 512,Name512,Maji,27,F,3,nan,Kitowo
@@ -562,7 +562,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 561,Name561,Maji,10,F,3,nan,Kitowo
 562,Name562,Maji,9,M,4,nan,Kitowo
 563,Name563,Maji,8,M,4,nan,Kitowo
-564,Name564,Maji,7,F,7,nan,Kitowo
+564,Name564,Maji,7,F,8,nan,Kitowo
 565,Name565,Maji,9,M,6,nan,Kitowo
 566,Name566,Maji,9,F,4,nan,Kitowo
 567,Name567,Maji,13,F,6,nan,Kitowo
@@ -940,7 +940,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 939,Name939,Maji,14,F,7,nan,Kitowo
 940,Name940,Maji,10,M,3,nan,Kitowo
 941,Name941,Maji,11,M,1,nan,Kitowo
-942,Name942,Maji,13,M,2,nan,Kitowo
+942,Name942,Maji,13,M,8,nan,Kitowo
 943,Name943,Maji,9,F,3,nan,Kitowo
 944,Name944,Maji,11,F,0,nan,Kitowo
 945,Name945,Maji,12,F,4,nan,Kitowo
@@ -1207,7 +1207,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 1206,Name1206,Maji,30,F,5,nan,Kitowo
 1207,Name1207,Maji,11,M,7,nan,Kitowo
 1208,Name1208,Maji,10,F,1,nan,Kitowo
-1209,Name1209,Maji,8,F,1,nan,Kitowo
+1209,Name1209,Maji,8,F,8,nan,Kitowo
 1210,Name1210,Maji,11,M,4,nan,Kitowo
 1211,Name1211,Maji,12,F,4,nan,Kitowo
 1212,Name1212,Maji,13,F,4,nan,Kitowo
@@ -1556,7 +1556,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 1555,Name1555,Maji,60,M,4,nan,Kitowo
 1556,Name1556,Maji,12,M,1,nan,Kitowo
 1557,Name1557,Maji,11,F,3,nan,Kitowo
-1558,Name1558,Maji,10,F,7,nan,Kitowo
+1558,Name1558,Maji,10,F,6,nan,Kitowo
 1559,Name1559,Maji,56,F,3,nan,Kitowo
 1560,Name1560,Maji,13,M,4,nan,Kitowo
 1561,Name1561,Maji,4,M,3,nan,Kitowo
@@ -1635,7 +1635,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 1634,Name1634,Maji,4,F,4,nan,Kitowo
 1635,Name1635,Maji,12,M,7,nan,Kitowo
 1636,Name1636,Maji,12,F,6,nan,Kitowo
-1637,Name1637,Maji,8,F,7,nan,Kitowo
+1637,Name1637,Maji,8,F,2,nan,Kitowo
 1638,Name1638,Maji,10,F,3,nan,Kitowo
 1639,Name1639,Maji,11,M,5,nan,Kitowo
 1640,Name1640,Maji,9,F,7,nan,Kitowo
@@ -1958,7 +1958,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 1957,Name1957,Maji,10,F,4,nan,Kitowo
 1958,Name1958,Maji,40,F,3,nan,Kitowo
 1959,Name1959,Maji,11,M,3,nan,Kitowo
-1960,Name1960,Maji,11,F,7,nan,Kitowo
+1960,Name1960,Maji,11,F,1,nan,Kitowo
 1961,Name1961,Maji,12,F,3,nan,Kitowo
 1962,Name1962,Maji,56,F,3,nan,Kitowo
 1963,Name1963,Maji,15,M,4,nan,Kitowo
@@ -2020,7 +2020,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 2019,Name2019,Maji,19,F,4,nan,Kitowo
 2020,Name2020,Maji,8,M,3,nan,Kitowo
 2021,Name2021,Maji,11,F,3,nan,Kitowo
-2022,Name2022,Maji,14,F,0,nan,Kitowo
+2022,Name2022,Maji,14,F,8,nan,Kitowo
 2023,Name2023,Maji,49,F,6,nan,Kitowo
 2024,Name2024,Maji,15,M,5,nan,Kitowo
 2025,Name2025,Maji,12,F,7,nan,Kitowo
@@ -2137,7 +2137,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 2136,Name2136,Maji,10,F,2,nan,Kitowo
 2137,Name2137,Maji,13,M,2,nan,Kitowo
 2138,Name2138,Maji,12,M,4,nan,Kitowo
-2139,Name2139,Maji,32,F,4,nan,Kitowo
+2139,Name2139,Maji,32,F,8,nan,Kitowo
 2140,Name2140,Maji,12,M,2,nan,Kitowo
 2141,Name2141,Maji,55,F,5,nan,Kitowo
 2142,Name2142,Maji,11,M,4,nan,Kitowo
@@ -2401,7 +2401,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 2400,Name2400,Maji,7,M,0,nan,Kitowo
 2401,Name2401,Maji,13,F,6,nan,Kitowo
 2402,Name2402,Maji,7,M,2,nan,Kitowo
-2403,Name2403,Maji,8,M,7,nan,Kitowo
+2403,Name2403,Maji,8,M,4,nan,Kitowo
 2404,Name2404,Maji,13,F,3,nan,Kitowo
 2405,Name2405,Maji,10,F,3,nan,Kitowo
 2406,Name2406,Maji,8,F,3,nan,Kitowo
@@ -2822,7 +2822,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 2821,Name2821,nan,10,M,6,nan,Kitowo
 2822,Name2822,nan,9,M,3,nan,Kitowo
 2823,Name2823,nan,12,F,7,nan,Kitowo
-2824,Name2824,nan,9,M,7,nan,Kitowo
+2824,Name2824,nan,9,M,8,nan,Kitowo
 2825,Name2825,nan,27,F,3,nan,Kitowo
 2826,Name2826,nan,39,F,3,nan,Kitowo
 2827,Name2827,nan,9,M,6,nan,Kitowo

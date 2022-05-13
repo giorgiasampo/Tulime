@@ -237,14 +237,14 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 8079,Name2814,Maji,12,F,2,nan,Pomerini
 8080,Name2815,Maji,8,F,6,nan,Pomerini
 8081,Name2816,Maji,32,F,6,nan,Pomerini
-8082,Name2817,Maji,13,F,2,nan,Pomerini
+8082,Name2817,Maji,13,F,6,nan,Pomerini
 8083,Name2818,Maji,15,M,6,nan,Pomerini
 8084,Name2819,Maji,8,M,4,nan,Pomerini
 8085,Name2820,Maji,14,F,4,nan,Pomerini
 8086,Name2821,Maji,34,F,6,nan,Pomerini
 8087,Name2822,Maji,27,F,3,nan,Pomerini
 8088,Name2823,Maji,12,F,1,nan,Pomerini
-8089,Name2824,Maji,9,M,7,nan,Pomerini
+8089,Name2824,Maji,9,M,8,nan,Pomerini
 8090,Name2825,Maji,13,M,3,nan,Pomerini
 8091,Name2826,Maji,10,F,3,nan,Pomerini
 8092,Name2827,Maji,14,F,5,nan,Pomerini
@@ -289,7 +289,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 8131,Name2866,Maji,9,F,3,nan,Pomerini
 8132,Name2867,Maji,10,M,1,nan,Pomerini
 8133,Name2868,Maji,13,F,3,nan,Pomerini
-8134,Name2869,Maji,12,F,7,nan,Pomerini
+8134,Name2869,Maji,12,F,3,nan,Pomerini
 8135,Name2870,Maji,15,F,1,nan,Pomerini
 8136,Name2871,Maji,13,F,5,nan,Pomerini
 8137,Name2872,Maji,12,F,3,nan,Pomerini
@@ -403,7 +403,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 8245,Name2980,Maji,12,F,4,nan,Pomerini
 8246,Name2981,Maji,9,F,3,nan,Pomerini
 8247,Name2982,Maji,11,M,1,nan,Pomerini
-8248,Name2983,Maji,12,M,8,nan,Pomerini
+8248,Name2983,Maji,12,M,6,nan,Pomerini
 8249,Name2984,Maji,12,F,4,nan,Pomerini
 8250,Name2985,Maji,13,M,4,nan,Pomerini
 8251,Name2986,Maji,11,F,5,nan,Pomerini
@@ -1117,7 +1117,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 8959,VIcenti Chuma,PiantalaSubito,13,M,3,2019.0,Pomerini
 8960,Albeto Kalolo,PiantalaSubito,13,M,6,2019.0,Pomerini
 8961,Careni Chang'a,PiantalaSubito,8,F,2,2019.0,Pomerini
-8962,Upendo Ngulo,PiantalaSubito,8,M,7,2019.0,Pomerini
+8962,Upendo Ngulo,PiantalaSubito,8,M,6,2019.0,Pomerini
 8963,Sara Chang'a,PiantalaSubito,9,F,3,2019.0,Pomerini
 8964,Apolinali Mpalanzi,PiantalaSubito,12,F,6,2019.0,Pomerini
 8965,Erina Katindasa,PiantalaSubito,10,F,5,2019.0,Pomerini
@@ -1246,7 +1246,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 9088,Adelina Kalinga,PiantalaSubito,9,F,3,2019.0,Pomerini
 9089,Rebeka Chang'a,PiantalaSubito,11,F,5,2019.0,Pomerini
 9090,Paulo Kisoma,PiantalaSubito,12,M,5,2019.0,Pomerini
-9091,Andrea Kihongozi,PiantalaSubito,9,M,7,2019.0,Pomerini
+9091,Andrea Kihongozi,PiantalaSubito,9,M,2,2019.0,Pomerini
 9092,Ratipha Kigwile,PiantalaSubito,9,F,3,2019.0,Pomerini
 9093,Edison Mandere,PiantalaSubito,10,M,1,2019.0,Pomerini
 9094,Elizabeth Kibwene,PiantalaSubito,10,F,5,2019.0,Pomerini
@@ -1473,7 +1473,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 9315,Name37,TupoPamoja,3,F,6,2018.0,Pomerini
 9316,Name38,TupoPamoja,2,M,5,2018.0,Pomerini
 9317,Name1474,nan,8,M,1,nan,Pomerini
-9318,Name1475,nan,8,F,7,nan,Pomerini
+9318,Name1475,nan,8,F,6,nan,Pomerini
 9319,Name1476,nan,11,F,5,nan,Pomerini
 9320,Name1477,nan,8,F,5,nan,Pomerini
 9321,Name1478,nan,11,F,2,nan,Pomerini
@@ -1501,7 +1501,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 9343,Name1500,nan,13,F,8,nan,Pomerini
 9344,Name1501,nan,11,F,6,nan,Pomerini
 9345,Name1502,nan,60,M,3,nan,Pomerini
-9346,Name1503,nan,11,M,3,nan,Pomerini
+9346,Name1503,nan,11,M,6,nan,Pomerini
 9347,Name1504,nan,14,F,1,nan,Pomerini
 9348,Name1505,nan,8,M,4,nan,Pomerini
 9349,Name1506,nan,11,M,5,nan,Pomerini
@@ -1803,7 +1803,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 9645,Name1802,nan,13,F,1,nan,Pomerini
 9646,Name1803,nan,10,F,2,nan,Pomerini
 9647,Name1804,nan,8,F,5,nan,Pomerini
-9648,Name1805,nan,12,F,7,nan,Pomerini
+9648,Name1805,nan,12,F,5,nan,Pomerini
 9649,Name1806,nan,13,M,8,nan,Pomerini
 9650,Name1807,nan,38,M,1,nan,Pomerini
 9651,Name1808,nan,22,F,3,nan,Pomerini
@@ -1990,7 +1990,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 9832,Name1989,nan,31,M,4,nan,Pomerini
 9833,Name1990,nan,10,M,3,nan,Pomerini
 9834,Name1991,nan,26,M,6,nan,Pomerini
-9835,Name1992,nan,39,M,7,nan,Pomerini
+9835,Name1992,nan,39,M,4,nan,Pomerini
 9836,Name1993,nan,8,F,6,nan,Pomerini
 9837,Name1994,nan,5,M,3,nan,Pomerini
 9838,Name1995,nan,12,M,2,nan,Pomerini
@@ -2655,7 +2655,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 10497,Name2654,nan,11,M,5,nan,Pomerini
 10498,Name2655,nan,13,F,7,nan,Pomerini
 10499,Name2656,nan,14,F,3,nan,Pomerini
-10500,Name2657,nan,13,F,4,nan,Pomerini
+10500,Name2657,nan,13,F,6,nan,Pomerini
 10501,Name2658,nan,13,M,3,nan,Pomerini
 10502,Name2659,nan,14,M,3,nan,Pomerini
 10503,Name2660,nan,10,M,3,nan,Pomerini
@@ -2959,7 +2959,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 10801,Name2958,nan,32,F,5,nan,Pomerini
 10802,Name2959,nan,22,F,5,nan,Pomerini
 10803,Name2960,nan,11,F,6,nan,Pomerini
-10804,Name2961,nan,11,M,5,nan,Pomerini
+10804,Name2961,nan,11,M,6,nan,Pomerini
 10805,Name2962,nan,39,F,6,nan,Pomerini
 10806,Name2963,nan,9,M,2,nan,Pomerini
 10807,Name2964,nan,12,F,2,nan,Pomerini

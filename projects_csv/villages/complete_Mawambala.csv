@@ -123,7 +123,7 @@
 121,5065,Name3583,Maji,14,M,6,,Mawambala
 122,5066,Name3584,Maji,7,M,6,,Mawambala
 123,5067,Name3585,Maji,28,F,1,,Mawambala
-124,5068,Name3586,Maji,11,F,1,,Mawambala
+124,5068,Name3586,Maji,11,F,7,,Mawambala
 125,5069,Name3587,Maji,25,M,6,,Mawambala
 126,5070,Name3588,Maji,12,M,2,,Mawambala
 127,5071,Name3589,Maji,11,F,4,,Mawambala
@@ -560,7 +560,7 @@
 558,5502,Name4020,Maji,40,M,4,,Mawambala
 559,5503,Name4021,Maji,13,F,2,,Mawambala
 560,5504,Name4022,Maji,12,F,6,,Mawambala
-561,5505,Name4023,Maji,12,M,3,,Mawambala
+561,5505,Name4023,Maji,12,M,7,,Mawambala
 562,5506,Name4024,Maji,12,F,3,,Mawambala
 563,5507,Name4025,Maji,20,M,4,,Mawambala
 564,5508,Name4026,Maji,16,F,2,,Mawambala
@@ -904,7 +904,7 @@
 902,5846,Haikal Zuberi,PiantalaSubito,9,M,2,2019.0,Mawambala
 903,5847,Sharom Kigava,PiantalaSubito,12,F,2,2019.0,Mawambala
 904,5848,Marko Msungu,PiantalaSubito,12,M,5,2019.0,Mawambala
-905,5849,Sara Mahile,PiantalaSubito,9,F,7,2019.0,Mawambala
+905,5849,Sara Mahile,PiantalaSubito,9,F,1,2019.0,Mawambala
 906,5850,Ibrahim Mlangwa,PiantalaSubito,9,M,7,2019.0,Mawambala
 907,5851,Debora Lusoko,PiantalaSubito,15,F,5,2019.0,Mawambala
 908,5852,Najima Makame,PiantalaSubito,9,F,3,2019.0,Mawambala
@@ -1177,7 +1177,7 @@
 1175,6119,Name1176,,14,M,5,,Mawambala
 1176,6120,Name1177,,10,M,5,,Mawambala
 1177,6121,Name1178,,14,M,4,,Mawambala
-1178,6122,Name1179,,11,M,4,,Mawambala
+1178,6122,Name1179,,11,M,7,,Mawambala
 1179,6123,Name1180,,23,F,2,,Mawambala
 1180,6124,Name1181,,10,M,6,,Mawambala
 1181,6125,Name1182,,46,F,3,,Mawambala
@@ -1255,7 +1255,7 @@
 1253,6197,Name1254,,13,F,4,,Mawambala
 1254,6198,Name1255,,9,F,3,,Mawambala
 1255,6199,Name1256,,11,F,5,,Mawambala
-1256,6200,Name1257,,7,M,7,,Mawambala
+1256,6200,Name1257,,7,M,6,,Mawambala
 1257,6201,Name1258,,15,F,4,,Mawambala
 1258,6202,Name1259,,12,F,3,,Mawambala
 1259,6203,Name1260,,56,M,4,,Mawambala
@@ -1642,7 +1642,7 @@
 1640,6584,Name1641,,10,F,1,,Mawambala
 1641,6585,Name1642,,12,M,3,,Mawambala
 1642,6586,Name1643,,33,F,5,,Mawambala
-1643,6587,Name1644,,12,F,7,,Mawambala
+1643,6587,Name1644,,12,F,4,,Mawambala
 1644,6588,Name1645,,37,M,3,,Mawambala
 1645,6589,Name1646,,23,F,5,,Mawambala
 1646,6590,Name1647,,27,M,5,,Mawambala
@@ -1679,7 +1679,7 @@
 1677,6621,Name1678,,12,M,3,,Mawambala
 1678,6622,Name1679,,9,F,2,,Mawambala
 1679,6623,Name1680,,9,F,4,,Mawambala
-1680,6624,Name1681,,12,F,6,,Mawambala
+1680,6624,Name1681,,12,F,7,,Mawambala
 1681,6625,Name1682,,24,F,5,,Mawambala
 1682,6626,Name1683,,12,M,2,,Mawambala
 1683,6627,Name1684,,9,M,7,,Mawambala
@@ -2057,7 +2057,7 @@
 2055,6999,Name2056,,5,M,1,,Mawambala
 2056,7000,Name2057,,13,M,4,,Mawambala
 2057,7001,Name2058,,10,F,4,,Mawambala
-2058,7002,Name2059,,10,F,7,,Mawambala
+2058,7002,Name2059,,10,F,5,,Mawambala
 2059,7003,Name2060,,53,M,3,,Mawambala
 2060,7004,Name2061,,8,F,3,,Mawambala
 2061,7005,Name2062,,11,F,4,,Mawambala
@@ -2073,7 +2073,7 @@
 2071,7015,Name2072,,12,F,3,,Mawambala
 2072,7016,Name2073,,9,F,6,,Mawambala
 2073,7017,Name2074,,13,F,6,,Mawambala
-2074,7018,Name2075,,9,F,7,,Mawambala
+2074,7018,Name2075,,9,F,2,,Mawambala
 2075,7019,Name2076,,7,M,7,,Mawambala
 2076,7020,Name2077,,21,M,2,,Mawambala
 2077,7021,Name2078,,49,F,1,,Mawambala
@@ -2427,7 +2427,7 @@
 2425,7369,Name2426,,14,M,6,,Mawambala
 2426,7370,Name2427,,13,M,1,,Mawambala
 2427,7371,Name2428,,13,F,6,,Mawambala
-2428,7372,Name2429,,11,M,2,,Mawambala
+2428,7372,Name2429,,11,M,7,,Mawambala
 2429,7373,Name2430,,26,M,3,,Mawambala
 2430,7374,Name2431,,13,F,4,,Mawambala
 2431,7375,Name2432,,11,M,3,,Mawambala
@@ -2631,7 +2631,7 @@
 2629,7573,Name2630,,13,F,4,,Mawambala
 2630,7574,Name2631,,10,M,4,,Mawambala
 2631,7575,Name2632,,10,M,3,,Mawambala
-2632,7576,Name2633,,7,F,7,,Mawambala
+2632,7576,Name2633,,7,F,3,,Mawambala
 2633,7577,Name2634,,23,F,4,,Mawambala
 2634,7578,Name2635,,14,F,3,,Mawambala
 2635,7579,Name2636,,7,M,6,,Mawambala
@@ -2825,7 +2825,7 @@
 2823,7767,Name2824,,9,M,5,,Mawambala
 2824,7768,Name2825,,11,F,1,,Mawambala
 2825,7769,Name2826,,14,F,2,,Mawambala
-2826,7770,Name2827,,8,M,5,,Mawambala
+2826,7770,Name2827,,8,M,7,,Mawambala
 2827,7771,Name2828,,12,M,1,,Mawambala
 2828,7772,Name2829,,10,M,2,,Mawambala
 2829,7773,Name2830,,10,F,6,,Mawambala
