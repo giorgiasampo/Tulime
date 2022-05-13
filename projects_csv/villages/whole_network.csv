@@ -18,7 +18,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 2863,Name17,,27.0,F,1,,Khesa Mgagao
 2864,Name18,,13.0,M,3,,Khesa Mgagao
 2865,Name19,,12.0,F,4,,Khesa Mgagao
-2866,Name20,,13.0,M,4,,Khesa Mgagao
+2866,Name20,,13.0,M,5,,Khesa Mgagao
 2867,Name21,,13.0,F,3,,Khesa Mgagao
 2868,Name22,,37.0,F,3,,Khesa Mgagao
 2869,Name23,,28.0,M,3,,Khesa Mgagao
@@ -303,7 +303,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 3148,Name302,,11.0,M,3,,Khesa Mgagao
 3149,Name303,,27.0,F,3,,Khesa Mgagao
 3150,Name304,,13.0,F,2,,Khesa Mgagao
-3151,Name305,,9.0,F,6,,Khesa Mgagao
+3151,Name305,,9.0,F,5,,Khesa Mgagao
 3152,Name306,,40.0,F,7,,Khesa Mgagao
 3153,Name307,,10.0,M,1,,Khesa Mgagao
 3154,Name308,,9.0,M,6,,Khesa Mgagao
@@ -336,7 +336,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 3181,Name335,,9.0,F,5,,Khesa Mgagao
 3182,Name336,,13.0,M,3,,Khesa Mgagao
 3183,Name337,,12.0,F,3,,Khesa Mgagao
-3184,Name338,,14.0,F,6,,Khesa Mgagao
+3184,Name338,,14.0,F,5,,Khesa Mgagao
 3185,Name339,,8.0,F,4,,Khesa Mgagao
 3186,Name340,,22.0,M,4,,Khesa Mgagao
 3187,Name341,,56.0,F,4,,Khesa Mgagao
@@ -452,7 +452,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 3297,Name451,,10.0,F,3,,Khesa Mgagao
 3298,Name452,,13.0,F,5,,Khesa Mgagao
 3299,Name453,,10.0,M,1,,Khesa Mgagao
-3300,Name454,,9.0,M,6,,Khesa Mgagao
+3300,Name454,,9.0,M,8,,Khesa Mgagao
 3301,Name455,,35.0,F,3,,Khesa Mgagao
 3302,Name456,,11.0,F,6,,Khesa Mgagao
 3303,Name457,,9.0,M,6,,Khesa Mgagao
@@ -980,7 +980,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 3825,Name979,,10.0,F,3,,Khesa Mgagao
 3826,Name980,,9.0,F,5,,Khesa Mgagao
 3827,Name981,,8.0,M,4,,Khesa Mgagao
-3828,Name982,,14.0,M,8,,Khesa Mgagao
+3828,Name982,,14.0,M,5,,Khesa Mgagao
 3829,Name983,,13.0,M,7,,Khesa Mgagao
 3830,Name984,,10.0,F,4,,Khesa Mgagao
 3831,Name985,,13.0,F,3,,Khesa Mgagao
@@ -1404,7 +1404,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 4249,Name1403,,7.0,F,4,,Khesa Mgagao
 4250,Name1404,,61.0,F,3,,Khesa Mgagao
 4251,Name1405,,10.0,M,4,,Khesa Mgagao
-4252,Name1406,,26.0,M,6,,Khesa Mgagao
+4252,Name1406,,26.0,M,4,,Khesa Mgagao
 4253,Name1407,,12.0,M,7,,Khesa Mgagao
 4254,Name1408,,10.0,M,5,,Khesa Mgagao
 4255,Name1409,,9.0,F,2,,Khesa Mgagao
@@ -1555,7 +1555,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 4400,Name1554,,9.0,M,3,,Khesa Mgagao
 4401,Name1555,,12.0,M,5,,Khesa Mgagao
 4402,Name1556,,11.0,M,1,,Khesa Mgagao
-4403,Name1557,,7.0,M,6,,Khesa Mgagao
+4403,Name1557,,7.0,M,7,,Khesa Mgagao
 4404,Name1558,,11.0,F,6,,Khesa Mgagao
 4405,Name1559,,27.0,M,0,,Khesa Mgagao
 4406,Name1560,,14.0,M,4,,Khesa Mgagao
@@ -1574,7 +1574,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 4419,Name1573,,13.0,F,2,,Khesa Mgagao
 4420,Name1574,,4.0,F,4,,Khesa Mgagao
 4421,Name1575,,12.0,M,8,,Khesa Mgagao
-4422,Name1576,,13.0,F,6,,Khesa Mgagao
+4422,Name1576,,13.0,F,1,,Khesa Mgagao
 4423,Name1577,,8.0,F,2,,Khesa Mgagao
 4424,Name1578,,27.0,M,7,,Khesa Mgagao
 4425,Name1579,,12.0,F,4,,Khesa Mgagao
@@ -1789,7 +1789,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 4634,Name1788,,11.0,F,3,,Khesa Mgagao
 4635,Name1789,,10.0,F,2,,Khesa Mgagao
 4636,Name1790,,9.0,M,2,,Khesa Mgagao
-4637,Name1791,,11.0,M,7,,Khesa Mgagao
+4637,Name1791,,11.0,M,5,,Khesa Mgagao
 4638,Name1792,,12.0,F,1,,Khesa Mgagao
 4639,Name1793,,12.0,F,3,,Khesa Mgagao
 4640,Name1794,,16.0,F,5,,Khesa Mgagao
@@ -2183,7 +2183,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 85,Name85,Maji,14.0,F,5,,Kitowo
 86,Name86,Maji,7.0,F,6,,Kitowo
 87,Name87,Maji,12.0,F,6,,Kitowo
-88,Name88,Maji,13.0,F,8,,Kitowo
+88,Name88,Maji,13.0,F,3,,Kitowo
 89,Name89,Maji,9.0,F,6,,Kitowo
 90,Name90,Maji,13.0,M,3,,Kitowo
 91,Name91,Maji,12.0,F,7,,Kitowo
@@ -2440,7 +2440,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 342,Name342,Maji,9.0,F,4,,Kitowo
 343,Name343,Maji,13.0,M,6,,Kitowo
 344,Name344,Maji,11.0,F,0,,Kitowo
-345,Name345,Maji,11.0,F,8,,Kitowo
+345,Name345,Maji,11.0,F,7,,Kitowo
 346,Name346,Maji,14.0,F,5,,Kitowo
 347,Name347,Maji,11.0,F,4,,Kitowo
 348,Name348,Maji,10.0,M,3,,Kitowo
@@ -2455,7 +2455,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 357,Name357,Maji,9.0,M,2,,Kitowo
 358,Name358,Maji,13.0,M,7,,Kitowo
 359,Name359,Maji,12.0,M,4,,Kitowo
-360,Name360,Maji,9.0,F,2,,Kitowo
+360,Name360,Maji,9.0,F,7,,Kitowo
 361,Name361,Maji,13.0,F,4,,Kitowo
 362,Name362,Maji,13.0,F,1,,Kitowo
 363,Name363,Maji,12.0,M,3,,Kitowo
@@ -2520,7 +2520,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 422,Name422,Maji,9.0,F,1,,Kitowo
 423,Name423,Maji,10.0,F,4,,Kitowo
 424,Name424,Maji,7.0,F,6,,Kitowo
-425,Name425,Maji,9.0,F,1,,Kitowo
+425,Name425,Maji,9.0,F,7,,Kitowo
 426,Name426,Maji,10.0,F,5,,Kitowo
 427,Name427,Maji,11.0,F,3,,Kitowo
 428,Name428,Maji,9.0,F,8,,Kitowo
@@ -2598,13 +2598,13 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 500,Name500,Maji,49.0,M,4,,Kitowo
 501,Name501,Maji,13.0,F,2,,Kitowo
 502,Name502,Maji,12.0,F,6,,Kitowo
-503,Name503,Maji,8.0,F,4,,Kitowo
+503,Name503,Maji,8.0,F,7,,Kitowo
 504,Name504,Maji,8.0,F,4,,Kitowo
 505,Name505,Maji,15.0,M,3,,Kitowo
 506,Name506,Maji,9.0,M,4,,Kitowo
 507,Name507,Maji,13.0,M,4,,Kitowo
 508,Name508,Maji,14.0,M,2,,Kitowo
-509,Name509,Maji,15.0,F,8,,Kitowo
+509,Name509,Maji,15.0,F,6,,Kitowo
 510,Name510,Maji,9.0,F,4,,Kitowo
 511,Name511,Maji,12.0,M,4,,Kitowo
 512,Name512,Maji,27.0,F,3,,Kitowo
@@ -3037,7 +3037,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 939,Name939,Maji,14.0,F,7,,Kitowo
 940,Name940,Maji,10.0,M,3,,Kitowo
 941,Name941,Maji,11.0,M,1,,Kitowo
-942,Name942,Maji,13.0,M,8,,Kitowo
+942,Name942,Maji,13.0,M,2,,Kitowo
 943,Name943,Maji,9.0,F,3,,Kitowo
 944,Name944,Maji,11.0,F,0,,Kitowo
 945,Name945,Maji,12.0,F,4,,Kitowo
@@ -3134,7 +3134,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 1036,Name1036,Maji,12.0,F,6,,Kitowo
 1037,Name1037,Maji,56.0,M,7,,Kitowo
 1038,Name1038,Maji,23.0,F,6,,Kitowo
-1039,Name1039,Maji,12.0,M,3,,Kitowo
+1039,Name1039,Maji,12.0,M,7,,Kitowo
 1040,Name1040,Maji,9.0,F,1,,Kitowo
 1041,Name1041,Maji,8.0,F,6,,Kitowo
 1042,Name1042,Maji,12.0,M,5,,Kitowo
@@ -3210,7 +3210,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 1112,Name1112,Maji,9.0,M,1,,Kitowo
 1113,Name1113,Maji,12.0,F,4,,Kitowo
 1114,Name1114,Maji,8.0,F,6,,Kitowo
-1115,Name1115,Maji,11.0,F,6,,Kitowo
+1115,Name1115,Maji,11.0,F,7,,Kitowo
 1116,Name1116,Maji,13.0,F,4,,Kitowo
 1117,Name1117,Maji,13.0,M,2,,Kitowo
 1118,Name1118,Maji,14.0,F,3,,Kitowo
@@ -3304,7 +3304,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 1206,Name1206,Maji,30.0,F,5,,Kitowo
 1207,Name1207,Maji,11.0,M,7,,Kitowo
 1208,Name1208,Maji,10.0,F,1,,Kitowo
-1209,Name1209,Maji,8.0,F,8,,Kitowo
+1209,Name1209,Maji,8.0,F,1,,Kitowo
 1210,Name1210,Maji,11.0,M,4,,Kitowo
 1211,Name1211,Maji,12.0,F,4,,Kitowo
 1212,Name1212,Maji,13.0,F,4,,Kitowo
@@ -4117,7 +4117,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 2019,Name2019,Maji,19.0,F,4,,Kitowo
 2020,Name2020,Maji,8.0,M,3,,Kitowo
 2021,Name2021,Maji,11.0,F,3,,Kitowo
-2022,Name2022,Maji,14.0,F,8,,Kitowo
+2022,Name2022,Maji,14.0,F,0,,Kitowo
 2023,Name2023,Maji,49.0,F,6,,Kitowo
 2024,Name2024,Maji,15.0,M,5,,Kitowo
 2025,Name2025,Maji,12.0,F,7,,Kitowo
@@ -4234,7 +4234,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 2136,Name2136,Maji,10.0,F,2,,Kitowo
 2137,Name2137,Maji,13.0,M,2,,Kitowo
 2138,Name2138,Maji,12.0,M,4,,Kitowo
-2139,Name2139,Maji,32.0,F,8,,Kitowo
+2139,Name2139,Maji,32.0,F,4,,Kitowo
 2140,Name2140,Maji,12.0,M,2,,Kitowo
 2141,Name2141,Maji,55.0,F,5,,Kitowo
 2142,Name2142,Maji,11.0,M,4,,Kitowo
@@ -4919,7 +4919,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 2821,Name2821,,10.0,M,6,,Kitowo
 2822,Name2822,,9.0,M,3,,Kitowo
 2823,Name2823,,12.0,F,7,,Kitowo
-2824,Name2824,,9.0,M,8,,Kitowo
+2824,Name2824,,9.0,M,7,,Kitowo
 2825,Name2825,,27.0,F,3,,Kitowo
 2826,Name2826,,39.0,F,3,,Kitowo
 2827,Name2827,,9.0,M,6,,Kitowo
@@ -4961,7 +4961,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 4960,Name3478,Maji,11.0,F,4,,Mawambala
 4961,Name3479,Maji,8.0,F,4,,Mawambala
 4962,Name3480,Maji,12.0,M,2,,Mawambala
-4963,Name3481,Maji,10.0,M,6,,Mawambala
+4963,Name3481,Maji,10.0,M,7,,Mawambala
 4964,Name3482,Maji,12.0,M,6,,Mawambala
 4965,Name3483,Maji,15.0,F,3,,Mawambala
 4966,Name3484,Maji,56.0,M,4,,Mawambala
@@ -5066,7 +5066,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 5065,Name3583,Maji,14.0,M,6,,Mawambala
 5066,Name3584,Maji,7.0,M,6,,Mawambala
 5067,Name3585,Maji,28.0,F,1,,Mawambala
-5068,Name3586,Maji,11.0,F,7,,Mawambala
+5068,Name3586,Maji,11.0,F,1,,Mawambala
 5069,Name3587,Maji,25.0,M,6,,Mawambala
 5070,Name3588,Maji,12.0,M,2,,Mawambala
 5071,Name3589,Maji,11.0,F,4,,Mawambala
@@ -5235,7 +5235,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 5234,Name3752,Maji,8.0,M,4,,Mawambala
 5235,Name3753,Maji,8.0,M,1,,Mawambala
 5236,Name3754,Maji,11.0,F,2,,Mawambala
-5237,Name3755,Maji,12.0,F,1,,Mawambala
+5237,Name3755,Maji,12.0,F,7,,Mawambala
 5238,Name3756,Maji,10.0,F,1,,Mawambala
 5239,Name3757,Maji,11.0,M,4,,Mawambala
 5240,Name3758,Maji,9.0,F,5,,Mawambala
@@ -5503,7 +5503,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 5502,Name4020,Maji,40.0,M,4,,Mawambala
 5503,Name4021,Maji,13.0,F,2,,Mawambala
 5504,Name4022,Maji,12.0,F,6,,Mawambala
-5505,Name4023,Maji,12.0,M,7,,Mawambala
+5505,Name4023,Maji,12.0,M,3,,Mawambala
 5506,Name4024,Maji,12.0,F,3,,Mawambala
 5507,Name4025,Maji,20.0,M,4,,Mawambala
 5508,Name4026,Maji,16.0,F,2,,Mawambala
@@ -5647,7 +5647,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 5646,Name4164,Maji,11.0,F,4,,Mawambala
 5647,Name4165,Maji,13.0,F,4,,Mawambala
 5648,Name4166,Maji,7.0,M,4,,Mawambala
-5649,Name4167,Maji,32.0,F,5,,Mawambala
+5649,Name4167,Maji,32.0,F,7,,Mawambala
 5650,Name4168,Maji,8.0,F,3,,Mawambala
 5651,Name4169,Maji,13.0,F,5,,Mawambala
 5652,Name4170,Maji,12.0,F,5,,Mawambala
@@ -5970,7 +5970,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 5969,Name1026,,13.0,M,3,,Mawambala
 5970,Name1027,,14.0,M,3,,Mawambala
 5971,Name1028,,8.0,F,5,,Mawambala
-5972,Name1029,,27.0,M,2,,Mawambala
+5972,Name1029,,27.0,M,7,,Mawambala
 5973,Name1030,,49.0,M,3,,Mawambala
 5974,Name1031,,7.0,M,3,,Mawambala
 5975,Name1032,,12.0,M,4,,Mawambala
@@ -6120,7 +6120,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 6119,Name1176,,14.0,M,5,,Mawambala
 6120,Name1177,,10.0,M,5,,Mawambala
 6121,Name1178,,14.0,M,4,,Mawambala
-6122,Name1179,,11.0,M,7,,Mawambala
+6122,Name1179,,11.0,M,4,,Mawambala
 6123,Name1180,,23.0,F,2,,Mawambala
 6124,Name1181,,10.0,M,6,,Mawambala
 6125,Name1182,,46.0,F,3,,Mawambala
@@ -6475,7 +6475,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 6474,Name1531,,34.0,F,4,,Mawambala
 6475,Name1532,,14.0,M,4,,Mawambala
 6476,Name1533,,9.0,F,6,,Mawambala
-6477,Name1534,,13.0,M,4,,Mawambala
+6477,Name1534,,13.0,M,7,,Mawambala
 6478,Name1535,,12.0,F,6,,Mawambala
 6479,Name1536,,27.0,F,4,,Mawambala
 6480,Name1537,,12.0,F,1,,Mawambala
@@ -6622,7 +6622,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 6621,Name1678,,12.0,M,3,,Mawambala
 6622,Name1679,,9.0,F,2,,Mawambala
 6623,Name1680,,9.0,F,4,,Mawambala
-6624,Name1681,,12.0,F,7,,Mawambala
+6624,Name1681,,12.0,F,6,,Mawambala
 6625,Name1682,,24.0,F,5,,Mawambala
 6626,Name1683,,12.0,M,2,,Mawambala
 6627,Name1684,,9.0,M,7,,Mawambala
@@ -7370,7 +7370,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 7369,Name2426,,14.0,M,6,,Mawambala
 7370,Name2427,,13.0,M,1,,Mawambala
 7371,Name2428,,13.0,F,6,,Mawambala
-7372,Name2429,,11.0,M,7,,Mawambala
+7372,Name2429,,11.0,M,2,,Mawambala
 7373,Name2430,,26.0,M,3,,Mawambala
 7374,Name2431,,13.0,F,4,,Mawambala
 7375,Name2432,,11.0,M,3,,Mawambala
@@ -7469,7 +7469,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 7468,Name2525,,9.0,F,6,,Mawambala
 7469,Name2526,,13.0,M,1,,Mawambala
 7470,Name2527,,8.0,F,6,,Mawambala
-7471,Name2528,,10.0,M,3,,Mawambala
+7471,Name2528,,10.0,M,7,,Mawambala
 7472,Name2529,,10.0,M,3,,Mawambala
 7473,Name2530,,12.0,M,5,,Mawambala
 7474,Name2531,,11.0,F,4,,Mawambala
@@ -7768,7 +7768,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 7767,Name2824,,9.0,M,5,,Mawambala
 7768,Name2825,,11.0,F,1,,Mawambala
 7769,Name2826,,14.0,F,2,,Mawambala
-7770,Name2827,,8.0,M,7,,Mawambala
+7770,Name2827,,8.0,M,5,,Mawambala
 7771,Name2828,,12.0,M,1,,Mawambala
 7772,Name2829,,10.0,M,2,,Mawambala
 7773,Name2830,,10.0,F,6,,Mawambala
@@ -7992,7 +7992,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 7991,Name2726,Maji,7.0,F,5,,Pomerini
 7992,Name2727,Maji,22.0,M,2,,Pomerini
 7993,Name2728,Maji,25.0,F,3,,Pomerini
-7994,Name2729,Maji,14.0,F,8,,Pomerini
+7994,Name2729,Maji,14.0,F,6,,Pomerini
 7995,Name2730,Maji,11.0,M,2,,Pomerini
 7996,Name2731,Maji,13.0,F,0,,Pomerini
 7997,Name2732,Maji,13.0,F,6,,Pomerini
@@ -8080,7 +8080,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 8079,Name2814,Maji,12.0,F,2,,Pomerini
 8080,Name2815,Maji,8.0,F,6,,Pomerini
 8081,Name2816,Maji,32.0,F,6,,Pomerini
-8082,Name2817,Maji,13.0,F,6,,Pomerini
+8082,Name2817,Maji,13.0,F,2,,Pomerini
 8083,Name2818,Maji,15.0,M,6,,Pomerini
 8084,Name2819,Maji,8.0,M,4,,Pomerini
 8085,Name2820,Maji,14.0,F,4,,Pomerini
@@ -8246,7 +8246,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 8245,Name2980,Maji,12.0,F,4,,Pomerini
 8246,Name2981,Maji,9.0,F,3,,Pomerini
 8247,Name2982,Maji,11.0,M,1,,Pomerini
-8248,Name2983,Maji,12.0,M,6,,Pomerini
+8248,Name2983,Maji,12.0,M,8,,Pomerini
 8249,Name2984,Maji,12.0,F,4,,Pomerini
 8250,Name2985,Maji,13.0,M,4,,Pomerini
 8251,Name2986,Maji,11.0,F,5,,Pomerini
@@ -8382,7 +8382,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 8381,Name3116,Maji,12.0,F,3,,Pomerini
 8382,Name3117,Maji,10.0,F,3,,Pomerini
 8383,Name3118,Maji,12.0,F,6,,Pomerini
-8384,Name3119,Maji,7.0,M,3,,Pomerini
+8384,Name3119,Maji,7.0,M,6,,Pomerini
 8385,Name3120,Maji,13.0,M,6,,Pomerini
 8386,Name3121,Maji,9.0,F,4,,Pomerini
 8387,Name3122,Maji,27.0,F,3,,Pomerini
@@ -8578,7 +8578,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 8577,Name3312,Maji,10.0,F,4,,Pomerini
 8578,Name3313,Maji,13.0,F,4,,Pomerini
 8579,Name3314,Maji,13.0,M,3,,Pomerini
-8580,Name3315,Maji,10.0,F,5,,Pomerini
+8580,Name3315,Maji,10.0,F,6,,Pomerini
 8581,Name3316,Maji,75.0,F,5,,Pomerini
 8582,Name3317,Maji,8.0,M,6,,Pomerini
 8583,Name3318,Maji,14.0,F,3,,Pomerini
@@ -8960,7 +8960,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 8959,VIcenti Chuma,PiantalaSubito,13.0,M,3,2019.0,Pomerini
 8960,Albeto Kalolo,PiantalaSubito,13.0,M,6,2019.0,Pomerini
 8961,Careni Chang'a,PiantalaSubito,8.0,F,2,2019.0,Pomerini
-8962,Upendo Ngulo,PiantalaSubito,8.0,M,6,2019.0,Pomerini
+8962,Upendo Ngulo,PiantalaSubito,8.0,M,7,2019.0,Pomerini
 8963,Sara Chang'a,PiantalaSubito,9.0,F,3,2019.0,Pomerini
 8964,Apolinali Mpalanzi,PiantalaSubito,12.0,F,6,2019.0,Pomerini
 8965,Erina Katindasa,PiantalaSubito,10.0,F,5,2019.0,Pomerini
@@ -9007,7 +9007,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 9006,Devinus Kupeni,PiantalaSubito,13.0,M,6,2019.0,Pomerini
 9007,Princess Msaga,PiantalaSubito,12.0,F,3,2019.0,Pomerini
 9008,Loveness Mgatha,PiantalaSubito,10.0,F,6,2019.0,Pomerini
-9009,Jemsi Mhame,PiantalaSubito,10.0,F,4,2019.0,Pomerini
+9009,Jemsi Mhame,PiantalaSubito,10.0,F,6,2019.0,Pomerini
 9010,Erik Kisoma,PiantalaSubito,9.0,M,3,2019.0,Pomerini
 9011,Musa Ruginire,PiantalaSubito,11.0,F,3,2019.0,Pomerini
 9012,Emiliana Mpagike,PiantalaSubito,11.0,F,3,2019.0,Pomerini
@@ -9344,7 +9344,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 9343,Name1500,,13.0,F,8,,Pomerini
 9344,Name1501,,11.0,F,6,,Pomerini
 9345,Name1502,,60.0,M,3,,Pomerini
-9346,Name1503,,11.0,M,6,,Pomerini
+9346,Name1503,,11.0,M,3,,Pomerini
 9347,Name1504,,14.0,F,1,,Pomerini
 9348,Name1505,,8.0,M,4,,Pomerini
 9349,Name1506,,11.0,M,5,,Pomerini
@@ -9463,7 +9463,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 9462,Name1619,,7.0,M,3,,Pomerini
 9463,Name1620,,14.0,M,5,,Pomerini
 9464,Name1621,,10.0,F,4,,Pomerini
-9465,Name1622,,14.0,M,2,,Pomerini
+9465,Name1622,,14.0,M,6,,Pomerini
 9466,Name1623,,12.0,F,6,,Pomerini
 9467,Name1624,,12.0,M,1,,Pomerini
 9468,Name1625,,11.0,F,4,,Pomerini
@@ -10334,7 +10334,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 10333,Name2490,,8.0,M,1,,Pomerini
 10334,Name2491,,10.0,F,5,,Pomerini
 10335,Name2492,,10.0,F,6,,Pomerini
-10336,Name2493,,15.0,F,7,,Pomerini
+10336,Name2493,,15.0,F,6,,Pomerini
 10337,Name2494,,26.0,F,4,,Pomerini
 10338,Name2495,,15.0,F,3,,Pomerini
 10339,Name2496,,7.0,F,6,,Pomerini
@@ -10498,7 +10498,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 10497,Name2654,,11.0,M,5,,Pomerini
 10498,Name2655,,13.0,F,7,,Pomerini
 10499,Name2656,,14.0,F,3,,Pomerini
-10500,Name2657,,13.0,F,6,,Pomerini
+10500,Name2657,,13.0,F,4,,Pomerini
 10501,Name2658,,13.0,M,3,,Pomerini
 10502,Name2659,,14.0,M,3,,Pomerini
 10503,Name2660,,10.0,M,3,,Pomerini
@@ -10802,7 +10802,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 10801,Name2958,,32.0,F,5,,Pomerini
 10802,Name2959,,22.0,F,5,,Pomerini
 10803,Name2960,,11.0,F,6,,Pomerini
-10804,Name2961,,11.0,M,6,,Pomerini
+10804,Name2961,,11.0,M,5,,Pomerini
 10805,Name2962,,39.0,F,6,,Pomerini
 10806,Name2963,,9.0,M,2,,Pomerini
 10807,Name2964,,12.0,F,2,,Pomerini
@@ -11271,7 +11271,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 11270,Name274,,13.0,M,3,,Ukumbi
 11271,Name275,,11.0,M,7,,Ukumbi
 11272,Name276,,12.0,F,5,,Ukumbi
-11273,Name277,,46.0,M,7,,Ukumbi
+11273,Name277,,46.0,M,4,,Ukumbi
 11274,Name278,,13.0,F,3,,Ukumbi
 11275,Name279,,11.0,F,6,,Ukumbi
 11276,Name280,,9.0,F,0,,Ukumbi
@@ -11425,7 +11425,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 11424,Name428,,12.0,M,4,,Ukumbi
 11425,Name429,,14.0,F,4,,Ukumbi
 11426,Name430,,14.0,F,4,,Ukumbi
-11427,Name431,,11.0,F,7,,Ukumbi
+11427,Name431,,11.0,F,6,,Ukumbi
 11428,Name432,,28.0,F,6,,Ukumbi
 11429,Name433,,10.0,F,5,,Ukumbi
 11430,Name434,,12.0,F,4,,Ukumbi
@@ -11435,7 +11435,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 11434,Name438,,12.0,F,6,,Ukumbi
 11435,Name439,,14.0,M,6,,Ukumbi
 11436,Name440,,14.0,M,7,,Ukumbi
-11437,Name441,,60.0,M,1,,Ukumbi
+11437,Name441,,60.0,M,6,,Ukumbi
 11438,Name442,,12.0,F,5,,Ukumbi
 11439,Name443,,24.0,F,6,,Ukumbi
 11440,Name444,,90.0,F,4,,Ukumbi
@@ -12057,7 +12057,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 12056,Name1060,,12.0,M,4,,Ukumbi
 12057,Name1061,,10.0,F,3,,Ukumbi
 12058,Name1062,,10.0,F,5,,Ukumbi
-12059,Name1063,,48.0,F,7,,Ukumbi
+12059,Name1063,,48.0,F,6,,Ukumbi
 12060,Name1064,,10.0,M,3,,Ukumbi
 12061,Name1065,,29.0,F,5,,Ukumbi
 12062,Name1066,,9.0,M,1,,Ukumbi
@@ -12107,7 +12107,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 12106,Name1110,,12.0,M,6,,Ukumbi
 12107,Name1111,,21.0,F,6,,Ukumbi
 12108,Name1112,,8.0,M,4,,Ukumbi
-12109,Name1113,,12.0,F,7,,Ukumbi
+12109,Name1113,,12.0,F,2,,Ukumbi
 12110,Name1114,,12.0,F,4,,Ukumbi
 12111,Name1115,,12.0,M,2,,Ukumbi
 12112,Name1116,,13.0,M,3,,Ukumbi
@@ -12167,7 +12167,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 12166,Name1170,,9.0,M,3,,Ukumbi
 12167,Name1171,,11.0,F,3,,Ukumbi
 12168,Name1172,,10.0,F,1,,Ukumbi
-12169,Name1173,,8.0,M,7,,Ukumbi
+12169,Name1173,,8.0,M,3,,Ukumbi
 12170,Name1174,,11.0,M,1,,Ukumbi
 12171,Name1175,,24.0,M,8,,Ukumbi
 12172,Name1176,,9.0,F,6,,Ukumbi
@@ -12242,7 +12242,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 12241,Name1245,,30.0,F,6,,Ukumbi
 12242,Name1246,,13.0,F,6,,Ukumbi
 12243,Name1247,,9.0,F,3,,Ukumbi
-12244,Name1248,,32.0,F,3,,Ukumbi
+12244,Name1248,,32.0,F,6,,Ukumbi
 12245,Name1249,,11.0,F,6,,Ukumbi
 12246,Name1250,,9.0,F,2,,Ukumbi
 12247,Name1251,,13.0,F,5,,Ukumbi
@@ -12915,7 +12915,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 12914,Name1918,,54.0,M,5,,Ukumbi
 12915,Name1919,,13.0,M,4,,Ukumbi
 12916,Name1920,,13.0,F,3,,Ukumbi
-12917,Name1921,,9.0,F,7,,Ukumbi
+12917,Name1921,,9.0,F,8,,Ukumbi
 12918,Name1922,,14.0,F,1,,Ukumbi
 12919,Name1923,,12.0,M,2,,Ukumbi
 12920,Name1924,,45.0,M,2,,Ukumbi
@@ -13984,7 +13984,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 13983,Name2987,,7.0,F,6,,Ukumbi
 13984,Name2988,,10.0,M,4,,Ukumbi
 13985,Name2989,,11.0,F,4,,Ukumbi
-13986,Name2990,,13.0,M,8,,Ukumbi
+13986,Name2990,,13.0,M,6,,Ukumbi
 13987,Name2991,,10.0,F,3,,Ukumbi
 13988,Name2992,,55.0,F,5,,Ukumbi
 13989,Name2993,,13.0,F,2,,Ukumbi
@@ -14144,7 +14144,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 14143,Name3147,,9.0,F,3,,Ukumbi
 14144,Name3148,,10.0,M,6,,Ukumbi
 14145,Name3149,,9.0,F,6,,Ukumbi
-14146,Name3150,,23.0,M,2,,Ukumbi
+14146,Name3150,,23.0,M,6,,Ukumbi
 14147,Name3151,,23.0,F,6,,Ukumbi
 14148,Name3152,,7.0,M,0,,Ukumbi
 14149,Name3153,,10.0,F,6,,Ukumbi
@@ -14170,7 +14170,7 @@ ID,NAME,PROJECT,AGE,SEX,FAMILY,START,VILLAGE
 14169,Name3173,,13.0,M,3,,Ukumbi
 14170,Name3174,,10.0,M,5,,Ukumbi
 14171,Name3175,,8.0,M,6,,Ukumbi
-14172,Name3176,,27.0,M,7,,Ukumbi
+14172,Name3176,,27.0,M,1,,Ukumbi
 14173,Name3177,,40.0,F,2,,Ukumbi
 14174,Name3178,,16.0,M,6,,Ukumbi
 14175,Name3179,,13.0,F,6,,Ukumbi

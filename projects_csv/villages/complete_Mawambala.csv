@@ -18,7 +18,7 @@
 16,4960,Name3478,Maji,11,F,4,,Mawambala
 17,4961,Name3479,Maji,8,F,4,,Mawambala
 18,4962,Name3480,Maji,12,M,2,,Mawambala
-19,4963,Name3481,Maji,10,M,6,,Mawambala
+19,4963,Name3481,Maji,10,M,7,,Mawambala
 20,4964,Name3482,Maji,12,M,6,,Mawambala
 21,4965,Name3483,Maji,15,F,3,,Mawambala
 22,4966,Name3484,Maji,56,M,4,,Mawambala
@@ -123,7 +123,7 @@
 121,5065,Name3583,Maji,14,M,6,,Mawambala
 122,5066,Name3584,Maji,7,M,6,,Mawambala
 123,5067,Name3585,Maji,28,F,1,,Mawambala
-124,5068,Name3586,Maji,11,F,7,,Mawambala
+124,5068,Name3586,Maji,11,F,1,,Mawambala
 125,5069,Name3587,Maji,25,M,6,,Mawambala
 126,5070,Name3588,Maji,12,M,2,,Mawambala
 127,5071,Name3589,Maji,11,F,4,,Mawambala
@@ -292,7 +292,7 @@
 290,5234,Name3752,Maji,8,M,4,,Mawambala
 291,5235,Name3753,Maji,8,M,1,,Mawambala
 292,5236,Name3754,Maji,11,F,2,,Mawambala
-293,5237,Name3755,Maji,12,F,1,,Mawambala
+293,5237,Name3755,Maji,12,F,7,,Mawambala
 294,5238,Name3756,Maji,10,F,1,,Mawambala
 295,5239,Name3757,Maji,11,M,4,,Mawambala
 296,5240,Name3758,Maji,9,F,5,,Mawambala
@@ -560,7 +560,7 @@
 558,5502,Name4020,Maji,40,M,4,,Mawambala
 559,5503,Name4021,Maji,13,F,2,,Mawambala
 560,5504,Name4022,Maji,12,F,6,,Mawambala
-561,5505,Name4023,Maji,12,M,7,,Mawambala
+561,5505,Name4023,Maji,12,M,3,,Mawambala
 562,5506,Name4024,Maji,12,F,3,,Mawambala
 563,5507,Name4025,Maji,20,M,4,,Mawambala
 564,5508,Name4026,Maji,16,F,2,,Mawambala
@@ -704,7 +704,7 @@
 702,5646,Name4164,Maji,11,F,4,,Mawambala
 703,5647,Name4165,Maji,13,F,4,,Mawambala
 704,5648,Name4166,Maji,7,M,4,,Mawambala
-705,5649,Name4167,Maji,32,F,5,,Mawambala
+705,5649,Name4167,Maji,32,F,7,,Mawambala
 706,5650,Name4168,Maji,8,F,3,,Mawambala
 707,5651,Name4169,Maji,13,F,5,,Mawambala
 708,5652,Name4170,Maji,12,F,5,,Mawambala
@@ -1027,7 +1027,7 @@
 1025,5969,Name1026,,13,M,3,,Mawambala
 1026,5970,Name1027,,14,M,3,,Mawambala
 1027,5971,Name1028,,8,F,5,,Mawambala
-1028,5972,Name1029,,27,M,2,,Mawambala
+1028,5972,Name1029,,27,M,7,,Mawambala
 1029,5973,Name1030,,49,M,3,,Mawambala
 1030,5974,Name1031,,7,M,3,,Mawambala
 1031,5975,Name1032,,12,M,4,,Mawambala
@@ -1177,7 +1177,7 @@
 1175,6119,Name1176,,14,M,5,,Mawambala
 1176,6120,Name1177,,10,M,5,,Mawambala
 1177,6121,Name1178,,14,M,4,,Mawambala
-1178,6122,Name1179,,11,M,7,,Mawambala
+1178,6122,Name1179,,11,M,4,,Mawambala
 1179,6123,Name1180,,23,F,2,,Mawambala
 1180,6124,Name1181,,10,M,6,,Mawambala
 1181,6125,Name1182,,46,F,3,,Mawambala
@@ -1532,7 +1532,7 @@
 1530,6474,Name1531,,34,F,4,,Mawambala
 1531,6475,Name1532,,14,M,4,,Mawambala
 1532,6476,Name1533,,9,F,6,,Mawambala
-1533,6477,Name1534,,13,M,4,,Mawambala
+1533,6477,Name1534,,13,M,7,,Mawambala
 1534,6478,Name1535,,12,F,6,,Mawambala
 1535,6479,Name1536,,27,F,4,,Mawambala
 1536,6480,Name1537,,12,F,1,,Mawambala
@@ -1679,7 +1679,7 @@
 1677,6621,Name1678,,12,M,3,,Mawambala
 1678,6622,Name1679,,9,F,2,,Mawambala
 1679,6623,Name1680,,9,F,4,,Mawambala
-1680,6624,Name1681,,12,F,7,,Mawambala
+1680,6624,Name1681,,12,F,6,,Mawambala
 1681,6625,Name1682,,24,F,5,,Mawambala
 1682,6626,Name1683,,12,M,2,,Mawambala
 1683,6627,Name1684,,9,M,7,,Mawambala
@@ -2427,7 +2427,7 @@
 2425,7369,Name2426,,14,M,6,,Mawambala
 2426,7370,Name2427,,13,M,1,,Mawambala
 2427,7371,Name2428,,13,F,6,,Mawambala
-2428,7372,Name2429,,11,M,7,,Mawambala
+2428,7372,Name2429,,11,M,2,,Mawambala
 2429,7373,Name2430,,26,M,3,,Mawambala
 2430,7374,Name2431,,13,F,4,,Mawambala
 2431,7375,Name2432,,11,M,3,,Mawambala
@@ -2526,7 +2526,7 @@
 2524,7468,Name2525,,9,F,6,,Mawambala
 2525,7469,Name2526,,13,M,1,,Mawambala
 2526,7470,Name2527,,8,F,6,,Mawambala
-2527,7471,Name2528,,10,M,3,,Mawambala
+2527,7471,Name2528,,10,M,7,,Mawambala
 2528,7472,Name2529,,10,M,3,,Mawambala
 2529,7473,Name2530,,12,M,5,,Mawambala
 2530,7474,Name2531,,11,F,4,,Mawambala
@@ -2825,7 +2825,7 @@
 2823,7767,Name2824,,9,M,5,,Mawambala
 2824,7768,Name2825,,11,F,1,,Mawambala
 2825,7769,Name2826,,14,F,2,,Mawambala
-2826,7770,Name2827,,8,M,7,,Mawambala
+2826,7770,Name2827,,8,M,5,,Mawambala
 2827,7771,Name2828,,12,M,1,,Mawambala
 2828,7772,Name2829,,10,M,2,,Mawambala
 2829,7773,Name2830,,10,F,6,,Mawambala

@@ -149,7 +149,7 @@
 147,7991,Name2726,Maji,7.0,F,5,,Pomerini
 148,7992,Name2727,Maji,22.0,M,2,,Pomerini
 149,7993,Name2728,Maji,25.0,F,3,,Pomerini
-150,7994,Name2729,Maji,14.0,F,8,,Pomerini
+150,7994,Name2729,Maji,14.0,F,6,,Pomerini
 151,7995,Name2730,Maji,11.0,M,2,,Pomerini
 152,7996,Name2731,Maji,13.0,F,0,,Pomerini
 153,7997,Name2732,Maji,13.0,F,6,,Pomerini
@@ -237,7 +237,7 @@
 235,8079,Name2814,Maji,12.0,F,2,,Pomerini
 236,8080,Name2815,Maji,8.0,F,6,,Pomerini
 237,8081,Name2816,Maji,32.0,F,6,,Pomerini
-238,8082,Name2817,Maji,13.0,F,6,,Pomerini
+238,8082,Name2817,Maji,13.0,F,2,,Pomerini
 239,8083,Name2818,Maji,15.0,M,6,,Pomerini
 240,8084,Name2819,Maji,8.0,M,4,,Pomerini
 241,8085,Name2820,Maji,14.0,F,4,,Pomerini
@@ -403,7 +403,7 @@
 401,8245,Name2980,Maji,12.0,F,4,,Pomerini
 402,8246,Name2981,Maji,9.0,F,3,,Pomerini
 403,8247,Name2982,Maji,11.0,M,1,,Pomerini
-404,8248,Name2983,Maji,12.0,M,6,,Pomerini
+404,8248,Name2983,Maji,12.0,M,8,,Pomerini
 405,8249,Name2984,Maji,12.0,F,4,,Pomerini
 406,8250,Name2985,Maji,13.0,M,4,,Pomerini
 407,8251,Name2986,Maji,11.0,F,5,,Pomerini
@@ -539,7 +539,7 @@
 537,8381,Name3116,Maji,12.0,F,3,,Pomerini
 538,8382,Name3117,Maji,10.0,F,3,,Pomerini
 539,8383,Name3118,Maji,12.0,F,6,,Pomerini
-540,8384,Name3119,Maji,7.0,M,3,,Pomerini
+540,8384,Name3119,Maji,7.0,M,6,,Pomerini
 541,8385,Name3120,Maji,13.0,M,6,,Pomerini
 542,8386,Name3121,Maji,9.0,F,4,,Pomerini
 543,8387,Name3122,Maji,27.0,F,3,,Pomerini
@@ -735,7 +735,7 @@
 733,8577,Name3312,Maji,10.0,F,4,,Pomerini
 734,8578,Name3313,Maji,13.0,F,4,,Pomerini
 735,8579,Name3314,Maji,13.0,M,3,,Pomerini
-736,8580,Name3315,Maji,10.0,F,5,,Pomerini
+736,8580,Name3315,Maji,10.0,F,6,,Pomerini
 737,8581,Name3316,Maji,75.0,F,5,,Pomerini
 738,8582,Name3317,Maji,8.0,M,6,,Pomerini
 739,8583,Name3318,Maji,14.0,F,3,,Pomerini
@@ -1117,7 +1117,7 @@
 1115,8959,VIcenti Chuma,PiantalaSubito,13.0,M,3,2019.0,Pomerini
 1116,8960,Albeto Kalolo,PiantalaSubito,13.0,M,6,2019.0,Pomerini
 1117,8961,Careni Chang'a,PiantalaSubito,8.0,F,2,2019.0,Pomerini
-1118,8962,Upendo Ngulo,PiantalaSubito,8.0,M,6,2019.0,Pomerini
+1118,8962,Upendo Ngulo,PiantalaSubito,8.0,M,7,2019.0,Pomerini
 1119,8963,Sara Chang'a,PiantalaSubito,9.0,F,3,2019.0,Pomerini
 1120,8964,Apolinali Mpalanzi,PiantalaSubito,12.0,F,6,2019.0,Pomerini
 1121,8965,Erina Katindasa,PiantalaSubito,10.0,F,5,2019.0,Pomerini
@@ -1164,7 +1164,7 @@
 1162,9006,Devinus Kupeni,PiantalaSubito,13.0,M,6,2019.0,Pomerini
 1163,9007,Princess Msaga,PiantalaSubito,12.0,F,3,2019.0,Pomerini
 1164,9008,Loveness Mgatha,PiantalaSubito,10.0,F,6,2019.0,Pomerini
-1165,9009,Jemsi Mhame,PiantalaSubito,10.0,F,4,2019.0,Pomerini
+1165,9009,Jemsi Mhame,PiantalaSubito,10.0,F,6,2019.0,Pomerini
 1166,9010,Erik Kisoma,PiantalaSubito,9.0,M,3,2019.0,Pomerini
 1167,9011,Musa Ruginire,PiantalaSubito,11.0,F,3,2019.0,Pomerini
 1168,9012,Emiliana Mpagike,PiantalaSubito,11.0,F,3,2019.0,Pomerini
@@ -1501,7 +1501,7 @@
 1499,9343,Name1500,,13.0,F,8,,Pomerini
 1500,9344,Name1501,,11.0,F,6,,Pomerini
 1501,9345,Name1502,,60.0,M,3,,Pomerini
-1502,9346,Name1503,,11.0,M,6,,Pomerini
+1502,9346,Name1503,,11.0,M,3,,Pomerini
 1503,9347,Name1504,,14.0,F,1,,Pomerini
 1504,9348,Name1505,,8.0,M,4,,Pomerini
 1505,9349,Name1506,,11.0,M,5,,Pomerini
@@ -1620,7 +1620,7 @@
 1618,9462,Name1619,,7.0,M,3,,Pomerini
 1619,9463,Name1620,,14.0,M,5,,Pomerini
 1620,9464,Name1621,,10.0,F,4,,Pomerini
-1621,9465,Name1622,,14.0,M,2,,Pomerini
+1621,9465,Name1622,,14.0,M,6,,Pomerini
 1622,9466,Name1623,,12.0,F,6,,Pomerini
 1623,9467,Name1624,,12.0,M,1,,Pomerini
 1624,9468,Name1625,,11.0,F,4,,Pomerini
@@ -2491,7 +2491,7 @@
 2489,10333,Name2490,,8.0,M,1,,Pomerini
 2490,10334,Name2491,,10.0,F,5,,Pomerini
 2491,10335,Name2492,,10.0,F,6,,Pomerini
-2492,10336,Name2493,,15.0,F,7,,Pomerini
+2492,10336,Name2493,,15.0,F,6,,Pomerini
 2493,10337,Name2494,,26.0,F,4,,Pomerini
 2494,10338,Name2495,,15.0,F,3,,Pomerini
 2495,10339,Name2496,,7.0,F,6,,Pomerini
@@ -2655,7 +2655,7 @@
 2653,10497,Name2654,,11.0,M,5,,Pomerini
 2654,10498,Name2655,,13.0,F,7,,Pomerini
 2655,10499,Name2656,,14.0,F,3,,Pomerini
-2656,10500,Name2657,,13.0,F,6,,Pomerini
+2656,10500,Name2657,,13.0,F,4,,Pomerini
 2657,10501,Name2658,,13.0,M,3,,Pomerini
 2658,10502,Name2659,,14.0,M,3,,Pomerini
 2659,10503,Name2660,,10.0,M,3,,Pomerini
@@ -2959,7 +2959,7 @@
 2957,10801,Name2958,,32.0,F,5,,Pomerini
 2958,10802,Name2959,,22.0,F,5,,Pomerini
 2959,10803,Name2960,,11.0,F,6,,Pomerini
-2960,10804,Name2961,,11.0,M,6,,Pomerini
+2960,10804,Name2961,,11.0,M,5,,Pomerini
 2961,10805,Name2962,,39.0,F,6,,Pomerini
 2962,10806,Name2963,,9.0,M,2,,Pomerini
 2963,10807,Name2964,,12.0,F,2,,Pomerini
